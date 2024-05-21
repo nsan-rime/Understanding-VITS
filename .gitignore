@@ -128,3 +128,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+*.wav
+.jupyter_ystore.db
+.ipynb_checkpoints/
+LJSpeech-1.1/
+*.tgz

@@ -1,0 +1,493 @@
+DUMMY1/LJ045-0096.wav|m ˈɪ s ɪ z d ə m ˈɑ ɹ ə n ʃ ˈɪ l t θ ˈɔ t ð ˈæ t ˈɔ z w ɔ l d ,
+DUMMY1/LJ049-0022.wav|ð ə s ˈi k ɹ ɪ t s ˈɚ v ɪ s b ɪ l ˈi v d ð ˈæ t ˈɪ t w ə z v ˈɛ ɹ i d ˈaʊ t f ə l ð ˈæ t ˈɛ n i p ɹ ˈɛ z ɪ d ə n t w ˈʊ d ɹ ˈaɪ d ɹ ˈɛ ɡ j ə l ɚ l i ˈɪ n ə v ˈi ɪ k ə l w ˈɪ θ ə f ˈɪ k s t t ˈɑ p , ˈi v ə n ð ˈoʊ t ɹ æ n s p ˈɛ ɹ ə n t .
+DUMMY1/LJ033-0042.wav|b ɪ t w ˈi n ð ə ˈaʊ ɚ z ə v ˈeɪ t ˈæ n d n ˈaɪ n p ˈi ˈɛ m ð ˈeɪ w ɚ ˈɑ k j ə p ˌaɪ d w ˈɪ θ ð ə t͡ʃ ˈɪ l d ɹ ə n ˈɪ n ð ə b ˈɛ d ɹ ˌu m z l ˈoʊ k ˌeɪ t ɪ d ˈæ t ð ə ɪ k s t ɹ ˈi m ˈi s t ˈɛ n d ə v ð ə h ˈaʊ s .
+DUMMY1/LJ016-0117.wav|ð ə p ɹ ˈɪ z n ɚ h ˈæ d n ˈʌ θ ɪ ŋ t ə d ˈi l w ˈɪ θ b ˈʌ t w ˈʊ d ə n p ˈæ n ə l z , ˈæ n d b ˈaɪ d ˈɪ n t ə v k ˈʌ t ɪ ŋ ˈæ n d t͡ʃ ˈɑ p ɪ ŋ h ˈi ɡ ˈɑ t b ˈoʊ θ ð ə l ˈoʊ ɚ p ˈæ n ə l z ˈaʊ t .
+DUMMY1/LJ025-0157.wav|ˈʌ n d ɚ ð ˈi z s ˈɚ k ə m s t ˌæ n s ɪ z , ʌ n n ˈæ t͡ʃ ɚ ə l ˈæ z ð ˈeɪ ˈɑ ɹ , w ˈɪ θ p ɹ ˈɑ p ɚ m ˈæ n ɪ d͡ʒ m ə n t , ð ə b ˈi n w ˈɪ l θ ɹ ˈʌ s t f ˈɔ ɹ θ ˈɪ t s ɹ ˈæ d ɪ k ə l ˈæ n d ˈɪ t s p l ˈu m j ˈu l ;
+DUMMY1/LJ042-0219.wav|ˈɔ z w ɔ l d d ˈɛ m ə n s t ɹ ˌeɪ t ɪ d h ˈɪ z θ ˈɪ ŋ k ɪ ŋ ˈɪ n k ə n ˈɛ k ʃ ə n w ˈɪ θ h ˈɪ z ɹ ɪ t ˈɚ n t ə ð ə j u n ˈaɪ t ɪ d s t ˈeɪ t s b ˈaɪ p ɚ p ˈɛ ɹ ɪ ŋ t ˈu s ˈɛ t s ə v aɪ d ˈɛ n t ɪ k ə l k w ˈɛ s t͡ʃ ə n z ə v ð ə t ˈaɪ p w ˈɪ t͡ʃ h ˈi m ˈaɪ t h ˈæ v θ ˈɔ t
+DUMMY1/LJ032-0164.wav|ˈɪ t ˈɪ z n ˈɑ t p ˈɑ s ə b ə l t ə s t ˈeɪ t w ˈɪ θ s ˌaɪ ə n t ˈɪ f ɪ k s ˈɚ t ə n t i ð ˈæ t ə p ɚ t ˈɪ k j ə l ɚ s m ˈɔ l ɡ ɹ ˈu p ə v f ˈaɪ b ɚ z k ˈʌ m f ɹ ˈʌ m ə s ˈɚ t ə n p ˈi s ə v k l ˈoʊ ð ɪ ŋ
+DUMMY1/LJ046-0092.wav|h ˈæ z k ˈɑ n f ə d ə n s ˈɪ n ð ə d ˈɛ d ɪ k eɪ t ɪ d s ˈi k ɹ ɪ t s ˈɚ v ɪ s m ˈɛ n h ˈu ˈɑ ɹ ɹ ˈɛ d i t ə l ˈeɪ d ˈaʊ n ð ˈɛ ɹ l ˈɪ v z f ɚ h ˈɪ m
+DUMMY1/LJ050-0118.wav|s ˈɪ n s ð ˈi z ˈeɪ d͡ʒ ə n s i z ˈɑ ɹ ɔ l ɹ ˈɛ d i ə b l ˈaɪ d͡ʒ d k ˈɑ n s t ə n t l i t ə ɪ v ˈæ l j u ˌeɪ t ð ə æ k t ˈɪ v ɪ t i z ə v s ˈʌ t͡ʃ ɡ ɹ ˈu p s ,
+DUMMY1/LJ043-0016.wav|d͡ʒ ˈi n d ə m ˈɑ ɹ ə n ʃ ˈɪ l t s ˈɛ d , k w ˈoʊ t ,
+DUMMY1/LJ021-0078.wav|n ˈoʊ ˌɛ k ə n ˈɑ m ɪ k p ˌæ n ə s ˈi ə , w ˈɪ t͡ʃ k ˈʊ d s ˈɪ m p l i ɹ ɪ v ˈaɪ v ˈoʊ v ɚ n ˈaɪ t ð ə h ˈɛ v i ˈɪ n d ə s t ɹ i z ˈæ n d ð ə t ɹ ˈeɪ d z d ɪ p ˈɛ n d ə n t ə p ˈɑ n ð ˈɛ m .
+DUMMY1/LJ039-0148.wav|ɪ ɡ z ˌæ m ə n ˈeɪ ʃ ə n ə v ð ə k ˈɑ ɹ t ɹ ɪ d͡ʒ k ˈeɪ s ɪ z f ˈaʊ n d ˈɔ n ð ə s ˈɪ k s θ f l ˈɔ ɹ ə v ð ə d ɪ p ˈɑ z ɪ t ˌɔ ɹ i b ˈɪ l d ɪ ŋ
+DUMMY1/LJ047-0202.wav|t ˈɛ s t ɪ f ˌaɪ d ð ˈæ t ð ə ˌɪ n f ɔ ɹ m ˈeɪ ʃ ə n ə v ˈeɪ l ə b ə l t ə ð ə f ˈɛ d ɚ ə l ɡ ˈʌ v ɚ n m ə n t ə b ˈaʊ t ˈɔ z w ɔ l d b ɪ f ˈɔ ɹ ð ə ə s ˌæ s ə n ˈeɪ ʃ ə n w ˈʊ d , ˈɪ f n ˈoʊ n t ə p ˈi ˈɑ ɹ ˈɛ s ,
+DUMMY1/LJ023-0056.wav|ˈɪ t ˈɪ z ə n ˈi z i d ˈɑ k j ə m ə n t t ə ˌʌ n d ɚ s t ˈæ n d w ˈɛ n j ˈu ɹ ɪ m ˈɛ m b ɚ ð ˈæ t ˈɪ t w ə z k ˈɔ l d ˈɪ n t u b ˈi ɪ ŋ
+DUMMY1/LJ021-0025.wav|ˈæ n d ˈɪ n m ˈɛ n i d ɪ ɹ ˈɛ k ʃ ə n z , ð ə ˌɪ n t ɚ v ˈɛ n ʃ ə n ə v ð ˈæ t ˈɔ ɹ ɡ ə n ˌaɪ z d k ə n t ɹ ˈoʊ l w ˈɪ t͡ʃ w ˈi k ˈɔ l ɡ ˈʌ v ɚ n m ə n t
+DUMMY1/LJ030-0105.wav|k ə m j ˌu n ɪ k ˈeɪ ʃ ə n z ˈɪ n ð ə m ˈoʊ t ɚ k ˌeɪ d .
+DUMMY1/LJ021-0012.wav|w ˈɪ θ ɹ ɪ s p ˈɛ k t t ə ˈɪ n d ə s t ɹ i ˈæ n d b ˈɪ z n ɪ s , b ˈʌ t n ˈɪ ɹ l i ˈɔ l ˈɑ ɹ ə ɡ ɹ ˈi d ð ˈæ t p ɹ ˈaɪ v ɪ t ˈɛ n t ɚ p ɹ ˌaɪ z ˈɪ n t ˈaɪ m z s ˈʌ t͡ʃ ˈæ z ð ˈi z
+DUMMY1/LJ019-0169.wav|ˈæ n d w ˈʌ n ˈɔ ɹ t ˈu m ˈɛ n w ɚ ə l ˈaʊ d t ə m ˈɛ n d k l ˈoʊ ð z ˈæ n d m ˈeɪ k ʃ ˈu z . ð ə ɹ ˈu l z m ˈeɪ d b ˈaɪ ð ə s ˈɛ k ɹ ɪ t ˌɛ ɹ i ə v s t ˈeɪ t w ɚ h ˈʌ ŋ ˈʌ p ˈɪ n k ə n s p ˈɪ k j u ə s p ˈɑ ɹ t s ə v ð ə p ɹ ˈɪ z ə n ;
+DUMMY1/LJ039-0088.wav|ˈɪ t d͡ʒ ˈʌ s t ˈɪ z ə n ˈeɪ d ˈɪ n s ˈi ɪ ŋ ˈɪ n ð ə f ˈæ k t ð ˈæ t j ˈu ˈoʊ n l i h ˈæ v ð ə w ˈʌ n ˈɛ l ə m ə n t , ð ə k ɹ ˈɑ s ˈeɪ ɹ ,
+DUMMY1/LJ016-0192.wav|ˈaɪ θ ˈɪ ŋ k ˈaɪ k ˈʊ d d ˈu ð ˈæ t s ˈɔ ɹ t ə v d͡ʒ ˈɑ b , s ˈɛ d k ˈæ l k ɹ ˌæ f t , ˈɔ n ð ə s p ˈɚ ə v ð ə m ˈoʊ m ə n t .
+DUMMY1/LJ014-0142.wav|w ə z s t ɹ ˈu n ˈɪ n f ɹ ˈʌ n t ə v ð ə d ˈɑ k , ˈæ n d s p ɹ ˈɪ ŋ k ə l d ˈɪ t t ə w ˈɔ ɹ d z ð ə b ˈɛ n t͡ʃ w ˈɪ θ ə k ə n t ˈɛ m p t͡ʃ u ə s d͡ʒ ˈɛ s t͡ʃ ɚ .
+DUMMY1/LJ012-0015.wav|w ˈi d ə n ˈæ n d l ˈɛ k ə s ɚ t ə t w ˈɛ l v ˈæ n d s ˈɪ k s m ˈʌ n θ s ɹ ɪ s p ˈɛ k t ɪ v l i ˈɪ n k ˈɔ l d b ˌæ θ f ˈi l d z .
+DUMMY1/LJ048-0033.wav|p ɹ ˈaɪ ɚ t ə n oʊ v ˈɛ m b ɚ t w ˈɛ n t i t ˈu , n ˈaɪ n t ˈi n s ˈɪ k s t i θ ɹ ˈi
+DUMMY1/LJ028-0349.wav|h ˈu w ɚ ˈi t͡ʃ ɹ i k w ˈaɪ ɚ d t ə s ˈɛ n d s ˈoʊ l ˈɑ ɹ d͡ʒ ə n ˈʌ m b ɚ t ə b ˈæ b ə l ˌɑ n , ð ˈæ t ˈɪ n ˈɔ l ð ˈɛ ɹ w ɚ k ə l ˈɛ k t ɪ d n ˈoʊ f j ˈu ɚ ð ə n f ˈɪ f t i θ ˈaʊ z ə n d .
+DUMMY1/LJ030-0197.wav|ˈæ t f ˈɚ s t m ˈɪ s ɪ z k ˈɑ n ə l i θ ˈɔ t ð ˈæ t h ˈɚ h ˈʌ z b ə n d h ˈæ d b ˈɪ n k ˈɪ l d ,
+DUMMY1/LJ017-0133.wav|p ˈɑ m ɚ s p ˈi d ə l i f ˈaʊ n d ˈɪ m ɪ t ˌeɪ t ɚ z .
+DUMMY1/LJ034-0123.wav|ɔ l ð ˈoʊ b ɹ ˈɛ n ə n t ˈɛ s t ɪ f ˌaɪ d ð ˈæ t ð ə m ˈæ n ˈɪ n ð ə w ˈɪ n d oʊ w ə z s t ˈæ n d ɪ ŋ w ˈɛ n h ˈi f ˈaɪ ɚ d ð ə ʃ ˈɑ t s , m ˈoʊ s t p ɹ ˈɑ b ə b l i h ˈi w ə z ˈi ð ɚ s ˈɪ t ɪ ŋ ˈɔ ɹ n ˈi l ɪ ŋ .
+DUMMY1/LJ003-0282.wav|m ˈɛ n i j ˈɪ ɹ z w ɚ t ə ɪ l ˈæ p s b ɪ f ˈɔ ɹ ð ˈi z ə b d͡ʒ ˈɛ k ʃ ə n z ʃ ˈʊ d b ˈi f ˈɛ ɹ l i m ˈɛ t ˈæ n d j ˌu n ə v ˈɚ s ə l i ˈoʊ v ɚ k ˌʌ m .
+DUMMY1/LJ032-0204.wav|s p ˈɛ ʃ ə l ˈeɪ d͡ʒ ə n t l ˈɪ n d ə l ˈɛ l ʃ ˈæ n i f ɛ l t , ə f ə t ˈɑ ɡ ɹ ə f i ˈɛ k s p ɚ t w ˈɪ θ ð ə ˈɛ f b ˈi ˈaɪ ,
+DUMMY1/LJ016-0241.wav|k ˈæ l k ɹ ˌæ f t s ˈɚ v d ð ə s ˈɪ t i ə v l ˈʌ n d ə n t ˈɪ l eɪ t ˈi n s ˈɛ v ə n t i f ˈɔ ɹ , w ˈɛ n h ˈi w ə z p ˈɛ n ʃ ə n d ˈæ t ð ə ɹ ˈeɪ t ə v t w ˈɛ n t i f ˈaɪ v ʃ ˈɪ l ɪ ŋ z p ˈɚ w ˈi k .
+DUMMY1/LJ023-0033.wav|w ˈi w ˈɪ l n ˈɑ t ə l ˈaʊ aʊ ɚ s ˈɛ l v z t ə ɹ ˈʌ n ɚ ˈaʊ n d ˈɪ n n j ˈu s ˈɚ k ə l z ə v f j ˈu t ə l d ɪ s k ˈʌ ʃ ə n ˈæ n d d ɪ b ˈeɪ t , ˈɔ l w ˌeɪ z p oʊ s t p ˈoʊ n ɪ ŋ ð ə d ˈeɪ ə v d ɪ s ˈɪ ʒ ə n .
+DUMMY1/LJ009-0286.wav|ð ˈɛ ɹ h ˈæ z n ˈɛ v ɚ b ˈɪ n m ˈʌ t͡ʃ s ˈaɪ ə n s ˈɪ n ð ə s ˈɪ s t ə m ə v k ˈɛ ɹ i ɪ ŋ ˈaʊ t ð ə ɪ k s t ɹ ˈi m p ˈɛ n ə l t i ˈɪ n ð ˈɪ s k ˈʌ n t ɹ i ; ð ə f ˈɪ n ɪ ʃ ɚ ə v ð ə l ˈɔ
+DUMMY1/LJ008-0181.wav|h ˈi h ˈæ d h ˈɪ z p ˈɑ k ə t s f ˈɪ l d w ˈɪ θ b ɹ ˈɛ d ˈæ n d t͡ʃ ˈi z , ˈæ n d ˈɪ t w ə z d͡ʒ ˈɛ n ɚ ə l i s ə p ˈoʊ z d ð ˈæ t h ˈi h ˈæ d k ˈʌ m ə l ˈɔ ŋ d ˈɪ s t ə n s t ə s ˈi ð ə f ˈeɪ t ə l ʃ ˈoʊ .
+DUMMY1/LJ015-0052.wav|t ə ð ə v ˈæ l j u ə v t w ˈɛ n t i θ ˈaʊ z ə n d p ˈaʊ n d z .
+DUMMY1/LJ016-0314.wav|s ˈɚ d͡ʒ ˈɔ ɹ d͡ʒ ɡ ɹ ˈeɪ θ ˈɔ t ð ˈɛ ɹ w ə z ə ɡ ɹ ˈoʊ ɪ ŋ f ˈi l ɪ ŋ ˈɪ n f ˈeɪ v ɚ ə v ˌɛ k s ɪ k j ˈu ʃ ə n z w ɪ ð ˈɪ n ð ə p ɹ ˈɪ z ə n p ɹ ˈi s ɪ ŋ k t s .
+DUMMY1/LJ047-0056.wav|f ɹ ˈʌ m ˈɔ ɡ ə s t n ˈaɪ n t ˈi n s ˈɪ k s t i t ˈu
+DUMMY1/LJ010-0027.wav|n ˈɔ ɹ d ˈɪ d ð ə m ˈɛ θ ə d z b ˈaɪ w ˈɪ t͡ʃ ð ˈeɪ w ɚ p ˈɚ p ə t ɹ ˌeɪ t ɪ d ɡ ɹ ˈeɪ t l i v ˈɛ ɹ i f ɹ ˈʌ m ð ˈoʊ z ˈɪ n t ˈaɪ m z p ˈæ s t .
+DUMMY1/LJ010-0065.wav|ˈæ t ð ə f ˈɔ ɹ m ɚ ð ə p ɹ ə v ˈɪ ʒ ə n ə l ɡ ˈʌ v ɚ n m ə n t w ə z t ə b ˈi ɪ s t ˈæ b l ɪ ʃ t ,
+DUMMY1/LJ046-0113.wav|ð ə k ə m ˈɪ ʃ ə n h ˈæ z k ə ŋ k l ˈu d ɪ d ð ˈæ t ˈæ t ð ə t ˈaɪ m ə v ð ə ə s ˌæ s ə n ˈeɪ ʃ ə n
+DUMMY1/LJ028-0410.wav|ð ˈɛ ɹ ə m ˈʌ ŋ ð ə ɹ ˈu ɪ n z ð ˈeɪ s t ˈɪ l l ˈɪ v ˈɪ n ð ə s ˈeɪ m k ˈaɪ n d ə v h ˈaʊ z ɪ z ,
+DUMMY1/LJ044-0137.wav|m ˈɔ ɹ s ˈɪ ɹ i ə s l i , ð ə f ˈæ k t s ə v h ˈɪ z d ɪ f ˈɛ k ʃ ə n h ˈæ d b ɪ k ˈʌ m n ˈoʊ n , l ˈi v ɪ ŋ h ˈɪ m ˈoʊ p ə n t ə ˈɔ l m ˌoʊ s t ˌʌ n ˈæ n s ɚ ə b ə l ə t ˈæ k b ˈaɪ ð ˈoʊ z h ˈu ə p ˈoʊ z d h ˈɪ z v j ˈu z .
+DUMMY1/LJ008-0215.wav|w ˈʌ n b ˈaɪ w ˈʌ n ð ə h j ˈu d͡ʒ ˈʌ p ɹ ˌaɪ t s ə v b l ˈæ k t ˈɪ m b ɚ w ɚ f ˈɪ t ɪ d t ə ɡ ˈɛ ð ɚ ,
+DUMMY1/LJ030-0084.wav|ˈɔ ɹ w ˈɛ n ð ə p ɹ ˈɛ s ə v ð ə k ɹ ˈaʊ d m ˈeɪ d ˈɪ t ɪ m p ˈɑ s ɪ b ə l f ɚ ð ə ˈɛ s k ɔ ɹ t m ˈoʊ t ɚ s ˌaɪ k ə l z t ə s t ˈeɪ ˈɪ n p ə z ˈɪ ʃ ə n ˈɔ n ð ə k ˈɑ ɹ z ɹ ˈɪ ɹ f l ˈæ ŋ k s .
+DUMMY1/LJ020-0092.wav|h ˈæ v j ʊ ɹ s ˈɛ l f k ˈɔ l d ˈɔ n b ˈɪ s k ə t m ˈɔ ɹ n ɪ ŋ z ə n ˈaʊ ɚ ˈɚ l i ɚ ð ə n j ˈu ʒ u ə l .
+DUMMY1/LJ029-0096.wav|ˈɔ n n oʊ v ˈɛ m b ɚ f ˌɔ ɹ t ˈi n , l ˈɔ s ə n ˈæ n d s ˈɔ ɹ ə l z ə t ˈɛ n d ɪ d ə m ˈi t ɪ ŋ ˈæ t l ˈʌ v f ˈi l d
+DUMMY1/LJ015-0308.wav|ˈæ n d ˈʌ ð ɚ z h ˈu s w ˈɔ ɹ t ə ð ə m ˈi t ɪ ŋ z ə v ð ə k ə n s p ˈɪ ɹ ə t ɚ z ˈæ n d ð ˈɛ ɹ m ˈu v m ə n t s . s ˈaʊ ɚ d w ə z f ˈaʊ n d ɡ ˈɪ l t i ,
+DUMMY1/LJ012-0067.wav|b ˈʌ t m ˈɪ s ɪ z s ˈoʊ l ə m ə n z k ˈʊ d n ˈɑ t ɹ ɪ z ˈɪ s t ð ə t ɛ m t ˈeɪ ʃ ə n t ə d ˈæ b ə l ˈɪ n s t ˈoʊ l ə n ɡ ˈʊ d z , ˈæ n d ʃ ˈi w ə z f ˈaʊ n d ʃ ˈɪ p ɪ ŋ w ˈɔ t͡ʃ ɪ z ə v ð ə ɹ ˈɔ ŋ k ˈæ t ə ɡ ˌɔ ɹ i t ə n j ˈu j ˈɔ ɹ k .
+DUMMY1/LJ018-0231.wav|n ˈeɪ m l i , t ə s ə p ɹ ˈɛ s ˈɪ t ˈæ n d s ˈʌ b s t ə t ˌu t ə n ˈʌ ð ɚ .
+DUMMY1/LJ014-0265.wav|ˈæ n d l ˈeɪ t ɚ h ˈi b ɪ k ˈeɪ m m ˈæ n ɪ d͡ʒ ɚ ə v ð ə n ˈu l i ɹ i b ˈɪ l t oʊ l ˈɪ m p ɪ k ˈæ t w ˈaɪ k s t ɹ ˈi t .
+DUMMY1/LJ024-0102.wav|w ˈʊ d b ˈi ð ə f ˈɚ s t t ə ɪ k s k l ˈeɪ m ˈæ z s ˈu n ˈæ z ə n ə m ˈɛ n d m ə n t w ə z p ɹ ə p ˈoʊ z d
+DUMMY1/LJ007-0233.wav|ˈɪ t k ə n s ˈɪ s t s ə v s ˈɛ v ɚ ə l s ˈɚ k j ə l ɚ p ˌɚ f ɚ ˈeɪ ʃ ə n z , ə b ˈaʊ t t ˈu ˈɪ n t͡ʃ ɪ z ˈɪ n d aɪ ˈæ m ə t ɚ ,
+DUMMY1/LJ013-0213.wav|ð ˈɪ s s ˈi m z t ə h ˈæ v d ɪ s ˈaɪ d ɪ d k ˈɚ v w ˈi s i ɚ ,
+DUMMY1/LJ032-0045.wav|ð ˈɪ s p ɹ ˈaɪ s ɪ ŋ k l ˈu d ɪ d n ˈaɪ n t ˈi n d ˈɑ l ɚ z , n ˈaɪ n t i f ˈaɪ v s ˈɛ n t s f ɚ ð ə ɹ ˈaɪ f ə l ˈæ n d ð ə s k ˈoʊ p , ˈæ n d w ˈʌ n d ˈɑ l ɚ , f ˈɪ f t i s ˈɛ n t s f ɚ p ˈoʊ s t ɪ d͡ʒ ˈæ n d h ˈæ n d l ɪ ŋ .
+DUMMY1/LJ011-0048.wav|w ˈɛ ɹ f ˌɔ ɹ l ˈɛ t h ˈɪ m ð ˈæ t θ ˈɪ ŋ k ɪ θ h ˈi s t ˈæ n d ɪ θ t ˈeɪ k h ˈi d l ˈɛ s t h ˈi f ˈɔ l , ˈæ n d w ə z f ˈʊ l ə v ð ə m ˈoʊ s t p ˈɔɪ n t ɪ d ə l ˈu ʒ ə n z t ə ð ə k ˈʌ l p ɹ ɪ t .
+DUMMY1/LJ005-0294.wav|ˈɪ t w ə z f ɹ ˈi k w ə n t l i s t ˈeɪ t ɪ d ˈɪ n ˈɛ v ə d ə n s ð ˈæ t ð ə d͡ʒ ˈeɪ l ə v ð ə b ˈɚ oʊ w ə z ˈɪ n s ˈoʊ ʌ n f ˈɪ t ə s t ˈeɪ t f ɚ ð ə ɹ ɪ s ˈɛ p ʃ ə n ə v p ɹ ˈɪ z n ɚ z ,
+DUMMY1/LJ016-0007.wav|ð ˈɛ ɹ w ɚ ˈʌ ð ɚ z l ˈɛ s s ə k s ˈɛ s f ə l .
+DUMMY1/LJ028-0138.wav|p ɚ h ˈæ p s ð ə t ˈeɪ l z ð ˈæ t t ɹ ˈæ v ə l ɚ z t ˈoʊ l d h ˈɪ m w ɚ ɪ ɡ z ˈæ d͡ʒ ɚ ˌeɪ t ɪ d ˈæ z t ɹ ˈæ v ə l ɚ z t ˈeɪ l z ˈɑ ɹ l ˈaɪ k l i t ə b ˈi ,
+DUMMY1/LJ050-0029.wav|ð ˈæ t ˈɪ z ɹ ɪ f l ˈɛ k t ɪ d ˈɪ n d ˈɛ f ɪ n ɪ t ˈæ n d k ˌɑ m p ɹ i h ˈɛ n s ɪ v ˈɑ p ɚ ˌeɪ t ɪ ŋ p ɹ oʊ s ˈi d͡ʒ ɚ z .
+DUMMY1/LJ014-0121.wav|ð ə p ɹ ˈɪ z n ɚ z w ɚ ˈɪ n d ˈu k ˈɔ ɹ s t ɹ æ n s f ˈɚ d t ə n ˈu ɡ eɪ t , t ə b ˈi p ˈʊ t ə p ˈɑ n ð ˈɛ ɹ t ɹ ˈaɪ l ˈæ t ð ə s ˈɛ n t ɹ ə l k ɹ ˈɪ m ə n ə l k ˈɔ ɹ t .
+DUMMY1/LJ014-0146.wav|ð ˈeɪ h ˈæ d t ə h ˈæ n d k ˌʌ f h ˈɚ b ˈaɪ f ˈɔ ɹ s ə ɡ ˈɛ n s t ð ə m ˈoʊ s t v ˈaɪ ə l ə n t ɹ ɪ z ˈɪ s t ə n s , ˈæ n d s t ˈɪ l ʃ ˈi ɹ ˈeɪ d͡ʒ d ˈæ n d s t ˈɔ ɹ m d ,
+DUMMY1/LJ046-0111.wav|ð ə s ˈi k ɹ ɪ t s ˈɚ v ɪ s h ˈæ z ə t ˈɛ m p t ɪ d t ə p ɚ f ˈɔ ɹ m ð ˈɪ s f ˈʌ ŋ k ʃ ə n θ ɹ ˈu ð ə æ k t ˈɪ v ɪ t i z ə v ˈɪ t s p ɹ ə t ˈɛ k t ɪ v ɹ i s ˈɚ t͡ʃ s ˈɛ k ʃ ə n
+DUMMY1/LJ012-0257.wav|b ˈʌ t ð ə ə f ˈɛ ɹ s t ˈɪ l ɹ ɪ m ˈeɪ n d ə p ɹ oʊ f ˈaʊ n d m ˈɪ s t ɚ i . n ˈoʊ l ˈaɪ t w ə z θ ɹ ˈoʊ n ə p ˈɑ n ˈɪ t t ˈɪ l , t ə w ˈɔ ɹ d z ð ə ˈɛ n d ə v m ˈɑ ɹ t͡ʃ ,
+DUMMY1/LJ002-0260.wav|j ˈɛ t ð ə p ˈʌ b l ɪ k ə p ˈɪ n j ə n ə v ð ə h ˈoʊ l b ˈɑ d i s ˈi m z t ə h ˈæ v t͡ʃ ˈɛ k t d ˌɪ s ɪ p ˈeɪ ʃ ə n .
+DUMMY1/LJ031-0014.wav|ð ə p ɹ ˌɛ z ɪ d ˈɛ n ʃ ə l l ˈɪ m ə z ˌi n ɚ ˈaɪ v d ˈæ t ð ə ɪ m ˈɚ d͡ʒ ə n s i ˈɛ n t ɹ ə n s ə v ð ə p ˈɑ ɹ k l ˌæ n d h ˈɔ s p ˌɪ t ə l ˈæ t ə b ˈaʊ t t w ˈɛ l v ˈɛ θ ˈɪ ɹ t i f ˈaɪ v p ˈi ˈɛ m
+DUMMY1/LJ047-0093.wav|ˈɔ z w ɔ l d w ə z ɚ ˈɛ s t ɪ d ˈæ n d d͡ʒ ˈeɪ l d b ˈaɪ ð ə n j ˈu ˈɔ ɹ l i n z p ə l ˈi s d ɪ p ˈɑ ɹ t m ə n t f ɚ d ɪ s t ˈɚ b ɪ ŋ ð ə p ˈi s , ˈɪ n k ə n ˈɛ k ʃ ə n w ˈɪ θ ə s t ɹ ˈi t f ˈaɪ t w ˈɪ t͡ʃ b ɹ ˈoʊ k ˈaʊ t w ˈɛ n h ˈi w ə z ə k ˈɔ s t ɪ d
+DUMMY1/LJ003-0324.wav|ɡ ˈeɪ m ɪ ŋ ə v ˈɔ l s ˈɔ ɹ t s ʃ ˈʊ d b ˈi p ɚ ə m p t ˈɔ ɹ ə l i f ɚ b ˈɪ d ə n ˈʌ n d ɚ h ˈɛ v i p ˈeɪ n z ˈæ n d p ˈɛ n ə l t i z .
+DUMMY1/LJ021-0115.wav|w ˈi h ˈæ v ɹ ˈi t͡ʃ t ˈɪ n t u ð ə h ˈɑ ɹ t ə v ð ə p ɹ ˈɑ b l ə m w ˈɪ t͡ʃ ˈɪ z t ə p ɹ ə v ˈaɪ d s ˈʌ t͡ʃ ˈæ n j u ə l ˈɚ n ɪ ŋ z f ɚ ð ə l ˈoʊ ɪ s t p ˈeɪ d w ˈɚ k ɚ ˈæ z w ˈɪ l m ˈi t h ˈɪ z m ˈɪ n ə m ə m n ˈi d z .
+DUMMY1/LJ046-0191.wav|ˈɪ t h ˈæ d ɪ s t ˈæ b l ɪ ʃ t p ˌɪ ɹ i ˈɑ d ɪ k ɹ ˈɛ ɡ j ə l ɚ ɹ ɪ v j ˈu ə v ð ə s t ˈæ t ə s ə v f ˈɔ ɹ h ˈʌ n d ɹ ɪ d ˌɪ n d ɪ v ˈɪ d͡ʒ u ə l z ;
+DUMMY1/LJ034-0197.wav|h ˈu w ə z w ˈʌ n ə v ð ə f ˈɚ s t w ˈɪ t n ɪ s ɪ z t ə ə l ˈɚ t ð ə p ə l ˈi s t ə ð ə d ɪ p ˈɑ z ɪ t ˌɔ ɹ i ˈæ z ð ə s ˈɔ ɹ s ə v ð ə ʃ ˈɑ t s , ˈæ z h ˈæ z b ˈɪ n d ɪ s k ˈʌ s t ˈɪ n t͡ʃ ˈæ p t ɚ θ ɹ ˈi .
+DUMMY1/LJ002-0253.wav|w ɚ ɡ ˈʌ v ɚ n d b ˈaɪ ɹ ˈu l z w ˈɪ t͡ʃ ð ˈeɪ ð ə m s ˈɛ l v z h ˈæ d f ɹ ˈeɪ m d , ˈæ n d ˈʌ n d ɚ w ˈɪ t͡ʃ s ə b s k ɹ ˈɪ p ʃ ə n z w ɚ l ˈɛ v i d
+DUMMY1/LJ048-0288.wav|m ˈaɪ t h ˈæ v b ˈɪ n m ˈɔ ɹ ə l ˈɚ t ˈɪ n ð ə d ˈæ l ə s m ˈoʊ t ɚ k ˌeɪ d ˈɪ f ð ˈeɪ h ˈæ d ɹ ɪ t ˈaɪ ɚ d p ɹ ˈɑ m p t l i ˈɪ n f ˈɔ ɹ t w ˈɚ θ .
+DUMMY1/LJ007-0112.wav|m ˈɛ n i ə v ð ə ˈoʊ l d k ˈʌ s t ə m z w ˈʌ n s p ɹ ˈɛ v ə l ə n t ˈɪ n ð ə s t ˈeɪ t s ˈaɪ d , s ˈoʊ p ɹ ˈɑ p ɚ l i k ə n d ˈɛ m d ˈæ n d ə b ˈɑ l ɪ ʃ t ,
+DUMMY1/LJ017-0189.wav|h ˈu w ə z p ɹ ˈɛ z ə n t l i ə t ˈæ k t ˈɪ n ð ə s ˈeɪ m w ˈeɪ ˈæ z ð ə ˈʌ ð ɚ z , b ˈʌ t , b ˈʌ t , θ ˈæ ŋ k s t ə ð ə p ɹ ˈɑ m p t æ d m ˌɪ n ɪ s t ɹ ˈeɪ ʃ ə n ə v ɹ ˈɛ m ə d i z , h ˈi ɹ ɪ k ˈʌ v ɚ d .
+DUMMY1/LJ042-0230.wav|b ˈeɪ s ɪ k l i , ɔ l ð ˈoʊ ˈaɪ h ˈeɪ t ð ə j ˈu ˈɛ s ˈɛ s ˈɑ ɹ ˈæ n d s ˈoʊ ʃ ə l ɪ s t s ˈɪ s t ə m ˈaɪ s t ˈɪ l θ ˈɪ ŋ k m ˈɑ ɹ k s ɪ z ə m k ə n w ˈɚ k ˈʌ n d ɚ d ˈɪ f ɹ ə n t s ˈɚ k ə m s t ˌæ n s ɪ z , ˈɛ n d k w ˈoʊ t .
+DUMMY1/LJ050-0161.wav|ð ə s ˈi k ɹ ɪ t s ˈɚ v ɪ s ʃ ˈʊ d n ˈɑ t ˈæ n d d ˈʌ z n ˈɑ t p l ˈæ n t ə d ɪ v ˈɛ l ə p ˈɪ t s ˈoʊ n ɪ n t ˈɛ l ɪ d͡ʒ ə n s ɡ ˈæ ð ɚ ɪ ŋ f ə s ˈɪ l ɪ t i z t ə d ˈu p l ɪ k ˌeɪ t ð ə ɪ ɡ z ˈɪ s t ɪ ŋ f ə s ˈɪ l ɪ t i z ə v ˈʌ ð ɚ f ˈɛ d ɚ ə l ˈeɪ d͡ʒ ə n s i z .
+DUMMY1/LJ003-0011.wav|ð ˈæ t n ˈɑ t m ˈɔ ɹ ð ə n w ˈʌ n b ˈɑ t ə l ə v w ˈaɪ n ˈɔ ɹ w ˈʌ n k w ˈɔ ɹ t ə v b ˈɪ ɹ k ˈʊ d b ˈi ˈɪ ʃ u d ˈæ t w ˈʌ n t ˈaɪ m . n ˈoʊ ə k ˈaʊ n t w ə z t ˈeɪ k ə n ə v ð ə ə m ˈaʊ n t ə v l ˈɪ k ɚ z æ d m ˈɪ t ɪ d ˈɪ n w ˈʌ n d ˈeɪ ,
+DUMMY1/LJ008-0206.wav|ˈæ n d k ˈɔ z d ə n ˈʌ m b ɚ ə v s t ˈaʊ t ə d ˈɪ ʃ ə n ə l b ˈɛ ɹ i ɚ z t ə b ˈi ɪ ɹ ˈɛ k t ɪ d ˈɪ n f ɹ ˈʌ n t ə v ð ə s k ˈæ f ə l d ,
+DUMMY1/LJ002-0261.wav|ð ə p ˈʊ ɹ ɚ p ɹ ˈɪ z n ɚ z w ɚ n ˈɑ t ˈɪ n æ b d͡ʒ ˈɛ k t w ˈɔ n t , ˈæ z ˈɪ n ˈʌ ð ɚ p ɹ ˈɪ z ə n z ,
+DUMMY1/LJ012-0189.wav|h ˈʌ n t , ˈɪ n k ə n s ˌɪ d ɚ ˈeɪ ʃ ə n ə v ð ə ˌɪ n f ɔ ɹ m ˈeɪ ʃ ə n h ˈi h ˈæ d ɡ ˈɪ v ə n , ɪ s k ˈeɪ p t d ˈɛ θ , ˈæ n d w ə z s ˈɛ n t ə n s t t ə t ɹ ˌæ n s p ɚ t ˈeɪ ʃ ə n f ɚ l ˈaɪ f .
+DUMMY1/LJ019-0317.wav|ð ə f ˈɔ ɹ m ɚ , w ˈɪ t͡ʃ k ə n s ˈɪ s t ɪ d p ɹ ˈɪ n s ɪ p l i ə v ð ə t ɹ ˈɛ d w ˈi l , k ɹ ˈæ ŋ k s , k ˈæ p s t ə n z , ʃ ˈɑ t d ɹ ˈɪ l ,
+DUMMY1/LJ011-0041.wav|v ˈɪ z ɪ t ɪ d m ˈɪ s t ɚ f ˈɔ n t l ɚ ˌɔɪ . m ˈaɪ ˌæ p l ɪ k ˈeɪ ʃ ə n f ɚ b ˈʊ k s f ɚ h ˈɪ m n ˈɑ t h ˈæ v ɪ ŋ b ˈɪ n ə t ˈɛ n d ɪ d , ˈaɪ h ˈæ d n ˈoʊ p ɹ ˈɛ ɹ b ˈʊ k t ə ɡ ˈɪ v h ˈɪ m .
+DUMMY1/LJ023-0089.wav|ð ˈæ t ˈɪ z n ˈɑ t ˈoʊ n l i m ˈaɪ ˌæ k j u z ˈeɪ ʃ ə n .
+DUMMY1/LJ044-0224.wav|w ˈʊ d n ˈɑ t ə ɡ ɹ ˈi w ˈɪ θ ð ˈæ t p ɚ t ˈɪ k j ə l ɚ w ˈɚ d ɪ ŋ , ˈɛ n d k w ˈoʊ t .
+DUMMY1/LJ013-0104.wav|h ˈi f ˈaʊ n d ð ˈɛ m ˈæ t l ˈɛ ŋ θ ɹ ɪ z ˈaɪ d ɪ ŋ ˈæ t ð ə l ˈæ t ɚ p l ˈeɪ s , w ˈʌ n ˈæ z ə l ˈæ n d ɪ d p ɹ ə p ɹ ˈaɪ ə t ɚ , ð ə ˈʌ ð ɚ ˈæ z ə p ˈʌ b l ɪ k ə n .
+DUMMY1/LJ013-0055.wav|ð ə d͡ʒ ˈʊ ɹ i d ˈɪ d n ˈɑ t b ɪ l ˈi v h ˈɪ m , ˈæ n d ð ə v ˈɚ d ɪ k t w ə z f ɚ ð ə d ɪ f ˈɛ n d ə n t s .
+DUMMY1/LJ014-0306.wav|ð ˈi z h ˈæ d b ˈɪ n ə t ɹ ˈɪ b j ə t ɪ d t ə p ə l ˈɪ t ɪ k ə l ˈæ k ʃ ə n ; s ˈʌ m θ ˈɔ t ð ˈæ t ð ə l ˈɑ ɹ d͡ʒ p ˈɚ t͡ʃ ə s ɪ z ˈɪ n f ˈɔ ɹ ə n ɡ ɹ ˈeɪ n z , ɪ f ˈɛ k t ɪ d ˈæ t l ˈu z ɪ ŋ p ɹ ˈaɪ s ɪ z ,
+DUMMY1/LJ029-0052.wav|t ə s ˌʌ p l ə m ˈɛ n t ð ə p ˈi ˈɑ ɹ ˈɛ s f ˈaɪ l z , ð ə s ˈi k ɹ ɪ t s ˈɚ v ɪ s d ɪ p ˈɛ n d z l ˈɑ ɹ d͡ʒ l i ˈɔ n l ˈoʊ k ə l p ə l ˈi s d ɪ p ˈɑ ɹ t m ə n t s ˈæ n d l ˈoʊ k ə l ˈɔ f ɪ s ɪ z ə v ˈʌ ð ɚ f ˈɛ d ɚ ə l ˈeɪ d͡ʒ ə n s i z
+DUMMY1/LJ028-0459.wav|ˈɪ t s b ɹ ˈɪ k s , m ˈɛ ʒ ɚ ɪ ŋ ə b ˈaʊ t θ ˈɚ t ˈi n ˈɪ n t͡ʃ ɪ z s k w ˈɛ ɹ ˈæ n d θ ɹ ˈi ˈɪ n t͡ʃ ɪ z ˈɪ n θ ˈɪ k n ə s , w ɚ b ˈɚ n d ˈæ n d s t ˈæ m p t w ˈɪ θ ð ə j ˈu ʒ u ə l ʃ ˈɔ ɹ t ɪ n s k ɹ ˈɪ p ʃ ə n :
+DUMMY1/LJ017-0183.wav|s ˈu n ˈæ f t ɚ w ɚ d z d ˈɪ k s ə n d ˈaɪ d , ʃ ˈoʊ ɪ ŋ ˈɔ l ð ə s ˈɪ m p t ə m z ɔ l ɹ ˈɛ d i d ɪ s k ɹ ˈaɪ b d .
+DUMMY1/LJ009-0084.wav|ˈæ t l ˈɛ ŋ θ ð ə ˈɔ ɹ d ɪ n ˌɛ ɹ i p ˈɔ z ɪ z , ˈæ n d ð ˈɛ n , ˈɪ n ə d ˈi p t ˈoʊ n , w ˈɪ t͡ʃ , ð ˈoʊ h ˈɑ ɹ d l i ə b ˈʌ v ə w ˈɪ s p ɚ , ˈɪ z ˈɔ d ɪ b ə l t ə ˈɔ l , s ˈɛ z ,
+DUMMY1/LJ007-0170.wav|ð ˈæ t ˈɪ n ð ˈɪ s v ˈæ s t m ə t ɹ ˈɑ p ə l ə s , ð ə s ˈɛ n t ɚ ə v w ˈɛ l θ , s ˌɪ v ə l ɪ z ˈeɪ ʃ ə n , ˈæ n d ˌɪ n f ɔ ɹ m ˈeɪ ʃ ə n ;
+DUMMY1/LJ016-0277.wav|ð ˈɪ s ˈɪ z p ɹ ˈu v d b ˈaɪ k ə n t ˈɛ m p ɚ ˌɛ ɹ i ə k ˈaʊ n t s , ɪ s p ˈɛ ʃ l i w ˈʌ n ɡ ɹ ˈæ f ɪ k ˈæ n d ɹ ˌi ə l ˈɪ s t ɪ k ˈɑ ɹ t ɪ k ə l w ˈɪ t͡ʃ ə p ˈɪ ɹ d ˈɪ n ð ə t ˈaɪ m z ,
+DUMMY1/LJ009-0061.wav|h ˈi s t ˈæ ɡ ɚ z t ə w ˈɔ ɹ d z ð ə p j ˈu , ɹ ˈi l z ˈɪ n t u ˈɪ t , s t ˈʌ m b ə l z f ˈɔ ɹ w ɚ d , f l ˈɪ ŋ z h ɪ m s ˈɛ l f ˈɔ n ð ə ɡ ɹ ˈaʊ n d , ˈæ n d , b ˈaɪ ə k j ˈʊ ɹ i ə s t w ˈɪ s t ə v ð ə s p ˈaɪ n ,
+DUMMY1/LJ019-0201.wav|t ə s ə l ˈɛ k t ə s ə f ˈɪ ʃ ə n t l i s p ˈeɪ ʃ ə s p ˈi s ə v ɡ ɹ ˈaʊ n d , ˈæ n d ɪ ɹ ˈɛ k t ə p ɹ ˈɪ z ə n w ˈɪ t͡ʃ f ɹ ˈʌ m f aʊ n d ˈeɪ ʃ ə n z t ə ɹ ˈu f s ʃ ˈʊ d b ˈi ˈɪ n k ə n f ˈɔ ɹ m ə t i w ˈɪ θ ð ə n ˈu ɪ s t aɪ d ˈi ə z .
+DUMMY1/LJ030-0063.wav|h ˈi h ˈæ d ɹ ɪ p ˈi t ɪ d ð ˈɪ s w ˈɪ ʃ ˈoʊ n l i ə f j ˈu d ˈeɪ z b ɪ f ˈɔ ɹ , d ˈʊ ɹ ɪ ŋ h ˈɪ z v ˈɪ z ɪ t t ə t ˈæ m p ə , f l ˈɔ ɹ ɪ d ə .
+DUMMY1/LJ010-0257.wav|ə θ ˈɚ d m ˈɪ s k ɹ i ə n t m ˈeɪ d ə s ˈɪ m ɪ l ɚ b ˈʌ t f ˈɑ ɹ l ˈɛ s s ˈɪ ɹ i ə s ə t ˈɛ m p t ˈɪ n ð ə m ˈʌ n θ ə v d͡ʒ ə l ˈaɪ f ˈɑ l oʊ ɪ ŋ .
+DUMMY1/LJ009-0106.wav|ð ə k ˈi p ɚ t ɹ ˈaɪ z t ə ə p ˈɪ ɹ ʌ n m ˈu v d , b ˈʌ t h ˈɪ z ˈaɪ w ˈɔ n d ɚ z ˈæ ŋ k ʃ ə s l i ˈoʊ v ɚ ð ə k ˈɑ m b ə s t ɪ b ə l ə s ˈɛ m b l i .
+DUMMY1/LJ008-0121.wav|ˈæ f t ɚ ð ə k ə n s t ɹ ˈʌ k ʃ ə n ˈæ n d ˈæ k ʃ ə n ə v ð ə m ə ʃ ˈi n h ˈæ d b ˈɪ n ɪ k s p l ˈeɪ n d , ð ə d ˈɑ k t ɚ ˈæ s k t ð ə ɡ ˈʌ v ɚ n ɚ w ˈʌ t k ˈaɪ n d ə v m ˈɛ n h ˈi h ˈæ d k ə m ˈæ n d ɪ d ˈæ t ɡ ˈɔ ɹ ˈi ,
+DUMMY1/LJ050-0069.wav|ð ə s ˈi k ɹ ɪ t s ˈɚ v ɪ s h ˈæ d ɹ ɪ s ˈi v d f ɹ ˈʌ m ð ə ˈɛ f b ˈi ˈaɪ s ˈʌ m n ˈaɪ n θ ˈaʊ z ə n d ɹ ɪ p ˈɔ ɹ t s ˈɔ n m ˈɛ m b ɚ z ə v ð ə k ˈɑ m j ə n ɪ s t p ˈɑ ɹ t i .
+DUMMY1/LJ006-0202.wav|ð ə n j ˈu z v ˈɛ n d ɚ w ə z ˈɔ l s oʊ ə t ˈoʊ b ə k ə n ɪ s t ,
+DUMMY1/LJ012-0230.wav|ʃ ˈɔ ɹ t l i b ɪ f ˈɔ ɹ ð ə d ˈeɪ f ˈɪ k s t f ɚ ˌɛ k s ɪ k j ˈu ʃ ə n , b ˈɪ ʃ ə p m ˈeɪ d ə f ˈʊ l k ə n f ˈɛ ʃ ə n , ð ə b ˈʌ l k ə v w ˈɪ t͡ʃ b ˈɔ ɹ ð ə ˈɪ m p ɹ ɛ s ə v t ɹ ˈu θ ,
+DUMMY1/LJ005-0248.wav|ˈæ n d s t ˈeɪ t ɪ d ð ˈæ t ˈɪ n h ˈɪ z ə p ˈɪ n j ə n n ˈu ɡ eɪ t , ˈæ z ð ə k ˈɑ m ə n d͡ʒ ˈeɪ l ə v m ˈɪ d ə l s ˌɛ k s , w ə z h ˈoʊ l i ɪ n ˈæ d ə k w ɪ t t ə ð ə p ɹ ˈɑ p ɚ k ə n f ˈaɪ n m ə n t ə v ˈɪ t s p ɹ ˈɪ z n ɚ z .
+DUMMY1/LJ037-0053.wav|h ˈu h ˈæ d b ˈɪ n ɡ ɹ ˈeɪ t l i ʌ p s ˈɛ t b ˈaɪ h ˈɚ ɪ k s p ˈɪ ɹ i ə n s , w ə z ˈeɪ b ə l t ə v j ˈu ə l ˈaɪ n ˌʌ p ə v f ˈɔ ɹ m ˈɛ n h ˈæ n d k ˌʌ f t t ə ɡ ˈɛ ð ɚ ˈæ t ð ə p ə l ˈi s s t ˈeɪ ʃ ə n .
+DUMMY1/LJ045-0177.wav|f ɚ ð ə f ˈɚ s t t ˈaɪ m
+DUMMY1/LJ004-0036.wav|ˈɪ t w ə z h ˈoʊ p t ð ˈæ t ð ˈɛ ɹ ɹ ˈu l ɚ z w ˈʊ d h ˈaɪ ɚ ə k ˌɑ m ə d ˈeɪ ʃ ə n ˈɪ n ð ə k ˈaʊ n t i p ɹ ˈɪ z ə n z , ˈæ n d ð ˈæ t ð ə ɪ n f ˈɪ ɹ i ɚ ɪ s t ˈæ b l ɪ ʃ m ə n t s w ˈʊ d ˈɪ n k ˈɔ ɹ s ə v t ˈaɪ m d ˌɪ s ə p ˈɪ ɹ .
+DUMMY1/LJ026-0054.wav|k ˌɑ ɹ b oʊ h ˈaɪ d ɹ eɪ t s s t ˈɑ ɹ t͡ʃ , s ˈɛ l j ə l ˌoʊ s ˈæ n d f ˈæ t s .
+DUMMY1/LJ020-0085.wav|b ɹ ˈeɪ k ə p ˈɑ ɹ t f ɹ ˈʌ m w ˈʌ n ə n ˈʌ ð ɚ ˈæ n d p ˈaɪ l ˈɔ n ə p l ˈeɪ t , θ ɹ ˈoʊ ɪ ŋ ə k l ˈi n d ˈɔɪ l i ˈɔ ɹ ə s m ˈɔ l n ˈæ p k ɪ n ˈoʊ v ɚ ð ˈɛ m . b ɹ ˈeɪ k ˈoʊ p ə n ˈæ t t ˈeɪ b ə l .
+DUMMY1/LJ046-0226.wav|ð ə s ˈɛ v ɚ ə l m ˈɪ l ɪ t ˌɛ ɹ i ɪ n t ˈɛ l ɪ d͡ʒ ə n s ˈeɪ d͡ʒ ə n s i z ɹ ɪ p ˈɔ ɹ t ɪ d k ɹ ˈæ ŋ k m ˈeɪ l ˈæ n d s ˈɪ m ɪ l ɚ θ ɹ ˈɛ t s ɪ n v ˈɑ l v ɪ ŋ ð ə p ɹ ˈɛ z ɪ d ə n t .
+DUMMY1/LJ014-0233.wav|h ˈi ʃ ˈɑ t ə n ˈoʊ l d s ˈoʊ l d͡ʒ ɚ h ˈu h ˈæ d ə t ˈɛ m p t ɪ d t ə d ɪ t ˈeɪ n h ˈɪ m . h ˈi w ə z k ə n v ˈɪ k t ɪ d ˈæ n d ˈɛ k s ɪ k j ˌu t ɪ d .
+DUMMY1/LJ033-0152.wav|ð ə p ˈɔ ɹ ʃ ə n ə v ð ə p ˈɑ m w ˈɪ t͡ʃ w ə z aɪ d ˈɛ n t ɪ f ˌaɪ d w ə z ð ə h ˈi l ə v ð ə ɹ ˈaɪ t p ˈɑ m , ˈaɪ ˈi , ð ə ˈɛ ɹ i ə n ˈɪ ɹ ð ə ɹ ˈɪ s t , ˈɔ n ð ə l ˈɪ t ə l f ˈɪ ŋ ɡ ɚ s ˈaɪ d .
+DUMMY1/LJ004-0009.wav|ˈæ z ˌɪ n d ɪ f ˈæ t ɪ ɡ ə b ə l ˈæ n d s ˈɛ l f s ˈæ k ɹ ə f ˌaɪ s ɪ ŋ , f ˈaʊ n d b ˈaɪ p ˈɚ s ə n ə l v ˌɪ z ɪ t ˈeɪ ʃ ə n ð ˈæ t ð ə k ə n d ˈɪ ʃ ə n ə v d͡ʒ ˈeɪ l z θ ɹ u ˈaʊ t ð ə k ˈɪ ŋ d ə m w ə z ,
+DUMMY1/LJ017-0134.wav|w ɪ ð ˈɪ n ə f j ˈu w ˈi k s ə k ˈɚ d ð ə l ˈi d z p ˈɔɪ z ə n ɪ ŋ k ˈeɪ s , ˈɪ n w ˈɪ t͡ʃ ð ə m ˈɚ d ɚ ɚ ʌ n d ˈaʊ t ɪ d l i w ə z ɪ n s p ˈaɪ ɚ d b ˈaɪ ð ə f ˈæ k t s m ˈeɪ d p ˈʌ b l ɪ k ˈæ t p ˈɑ m ɚ z t ɹ ˈaɪ l .
+DUMMY1/LJ019-0318.wav|w ə z t ə b ˈi ð ə ɹ ˈu l f ɚ ˈɔ l k ə n v ˈɪ k t ɪ d p ɹ ˈɪ z n ɚ z θ ɹ u ˈaʊ t ð ə ˈɚ l i s t ˈeɪ d͡ʒ ɪ z ə v ð ˈɛ ɹ d ɪ t ˈɛ n ʃ ə n ;
+DUMMY1/LJ020-0093.wav|ɹ ˈaɪ z , w ˈɔ ʃ f ˈeɪ s ˈæ n d h ˈæ n d z , ɹ ˈɪ n s ð ə m ˈaʊ θ ˈaʊ t ˈæ n d b ɹ ˈʌ ʃ b ˈæ k ð ə h ˈɛ ɹ .
+DUMMY1/LJ012-0188.wav|p ɹ ˈɑ b ɚ t w ə z ð ˈɛ n æ d m ˈɪ t ɪ d ˈæ z ə w ˈɪ t n ə s , ˈæ n d ð ə k ˈeɪ s w ə z f ˈʊ l i p ɹ ˈu v d ə ɡ ˈɛ n s t θ ˈɚ t ə l , h ˈu w ə z h ˈæ ŋ d ˈɪ n f ɹ ˈʌ n t ə v h ˈɚ t f ɚ d d͡ʒ ˈeɪ l .
+DUMMY1/LJ019-0202.wav|ð ə p ɹ ˈɛ f ɚ ə n s ɡ ˈɪ v ə n t ə ð ə p ˈɛ n t ə n v ˈɪ l s ˈɪ s t ə m d ɪ s t ɹ ˈɔɪ d ˈɔ l h ˈoʊ p s ə v ə k ə m p l ˈi t ɹ ˌɛ f ɚ m ˈeɪ ʃ ə n ə v n ˈu ɡ eɪ t .
+DUMMY1/LJ039-0027.wav|ˈɔ z w ɔ l d z ɹ ɪ v ˈɑ l v ɚ
+DUMMY1/LJ040-0176.wav|h ˈi æ d m ˈɪ t ɪ d t ə f ˈæ n t ə s i z ə b ˈaʊ t b ˈi ɪ ŋ p ˈaʊ ɚ f ə l ˈæ n d s ˈʌ m t ˌaɪ m z h ˈɚ t ɪ ŋ ˈæ n d k ˈɪ l ɪ ŋ p ˈi p ə l , b ˈʌ t ɹ ɪ f j ˈu z d t ə ɪ l ˈæ b ɚ ˌeɪ t ˈɔ n ð ˈɛ m .
+DUMMY1/LJ018-0354.wav|d ˈaʊ t s w ɚ l ˈɔ ŋ ˌɛ n t ɚ t ˈeɪ n d w ˈɛ ð ɚ t ˈɑ m ə s w ˈeɪ n ɹ ˌaɪ t ,
+DUMMY1/LJ031-0185.wav|f ɹ ˈʌ m ð ə p ɹ ˌɛ z ɪ d ˈɛ n ʃ ə l ˈɛ ɹ p l ˌeɪ n , ð ə v ˈaɪ s p ɹ ˈɛ z ɪ d ə n t t ˈɛ l ə f ˌoʊ n d ə t ˈɚ n i d͡ʒ ˈɛ n ɚ ə l ɹ ˈɑ b ɚ t ˈɛ f k ˈɛ n ə d i ,
+DUMMY1/LJ006-0137.wav|ð ˈeɪ w ɚ n ˈɑ t ə b l ˈaɪ d͡ʒ d t ə ə t ˈɛ n d t͡ʃ ˈæ p ə l , ˈæ n d s ˈɛ l d ə m ˈɪ f ˈɛ v ɚ w ˈɛ n t ; p ɹ ˈɪ z n ɚ z , s ˈɛ d w ˈʌ n ə v ð ˈɛ m ˈʌ n d ɚ ɪ ɡ z ˌæ m ə n ˈeɪ ʃ ə n , d ˈɪ d n ˈɑ t l ˈaɪ k ð ə t ɹ ˈʌ b ə l ə v ɡ ˈoʊ ɪ ŋ t ə t͡ʃ ˈæ p ə l .
+DUMMY1/LJ032-0085.wav|ð ə h ˈaɪ d ə l s ˈɪ ɡ n ə t͡ʃ ɚ ˈɔ n ð ə n ˈoʊ t ɪ s ə v k l ˌæ s ɪ f ɪ k ˈeɪ ʃ ə n w ə z ˈɪ n ð ə h ˈæ n d ɹ ˌaɪ t ɪ ŋ ə v ˈɔ z w ɔ l d .
+DUMMY1/LJ009-0037.wav|ð ə s k ˈu l m ˌæ s t ɚ ˈæ n d ð ə d͡ʒ ˈu v ə n ˌaɪ l p ɹ ˈɪ z n ɚ z b ˈi ɪ ŋ s ˈi t ɪ d ɹ ˈaʊ n d ð ə k ə m j ˈu n j ə n t ˈeɪ b ə l , ˈɑ p ə z ɪ t ð ə p ˈʊ l p ɪ t .
+DUMMY1/LJ006-0021.wav|l ˈeɪ t ɚ ˈɔ n h ˈi h ˈæ d d ɪ v ˈoʊ t ɪ d h ɪ m s ˈɛ l f t ə ð ə p ˈɚ s ə n ə l ɪ n v ˌɛ s t ə ɡ ˈeɪ ʃ ə n ə v ð ə p ɹ ˈɪ z ə n z ə v ð ə j u n ˈaɪ t ɪ d s t ˈeɪ t s .
+DUMMY1/LJ006-0082.wav|ˈæ n d ð ˈɪ s p ɚ t ˈɪ k j ə l ɚ ə f ˈɪ ʃ ə l t ˈʊ k ˈɛ k s ə l ə n t k ˈɛ ɹ t ə s ə l ˈɛ k t ˈæ z ɹ ˈɛ z ɪ d ə n t s f ɚ h ˈɪ z ˈoʊ n w ˈɔ ɹ d ð ˈoʊ z m ˈoʊ s t s ˈu t ə b ə l f ɹ ˈʌ m h ˈɪ z ˈoʊ n p ˈɔɪ n t ə v v j ˈu .
+DUMMY1/LJ016-0380.wav|w ˈɪ θ h ˈoʊ p t ə ð ə l ˈæ s t . ð ˈɛ ɹ ˈɪ z ˈɔ l w ˌeɪ z ð ə t͡ʃ ˈæ n s ə v ə f l ˈɔ ˈɪ n ð ə ɪ n d ˈaɪ t m ə n t , ə v ə m ˈɪ s ɪ ŋ w ˈɪ t n ə s , ˈɔ ɹ ɪ k s t ˈɛ n j u ˌeɪ t ɪ ŋ s ˈɚ k ə m s t ˌæ n s ɪ z .
+DUMMY1/LJ019-0344.wav|m ˈɑ n ə t ɚ , ˈɔ ɹ s k ˈu l m ˌæ s t ɚ , n ˈɔ ɹ t ə b ˈi ɪ ŋ ɡ ˈeɪ d͡ʒ d ˈɪ n ð ə s ˈɚ v ɪ s ə v ˈɛ n i ˈɔ f ɪ s ɚ ə v ð ə p ɹ ˈɪ z ə n .
+DUMMY1/LJ019-0161.wav|ð ˈi z d ˈɪ s ə p l ə n ˌɛ ɹ i ɪ m p ɹ ˈu v m ə n t s w ɚ , h ˌaʊ ˈɛ v ɚ , ˈoʊ n l i s l ˈoʊ l i ˈæ n d ɡ ɹ ˈæ d͡ʒ u l i ˌɪ n t ɹ oʊ d ˈu s t .
+DUMMY1/LJ028-0145.wav|ˈæ n d h ˈɪ ɹ ˈaɪ m ˈeɪ n ˈɑ t oʊ m ˈɪ t t ə t ˈɛ l ð ə j ˈu s t ə w ˈɪ t͡ʃ ð ə m ˈoʊ l d d ˈʌ ɡ ˈaʊ t ə v ð ə ɡ ɹ ˈeɪ t m ˈoʊ t w ə z t ˈɚ n d , n ˈɔ ɹ ð ə m ˈæ n ɚ w ɛ ɹ ˈɪ n ð ə w ˈɔ l w ə z ɹ ˈɔ t .
+DUMMY1/LJ018-0349.wav|h ˈɪ z d ɪ s k l ˈeɪ m ɚ , d ɪ s t ˈɪ ŋ k t ˈæ n d d ɪ t ˈeɪ l d ˈɔ n ˈɛ v ɹ i p ˈɔɪ n t , w ə z ɪ n t ˈɛ n d ɪ d s ˈɪ m p l i f ɚ ɪ f ˈɛ k t .
+DUMMY1/LJ043-0010.wav|s ˈʌ m ə v ð ə m ˈɛ m b ɚ z ə v ð ˈæ t ɡ ɹ ˈu p s ˈɔ ə ɡ ˈʊ d d ˈi l ə v ð ə oʊ s w ˈɔ l d z θ ɹ ˈu ð ə f ˈɔ l ə v n ˈaɪ n t ˈi n s ˈɪ k s t i θ ɹ ˈi ,
+DUMMY1/LJ027-0178.wav|ð ˈi z w ɚ ʌ n d ˈaʊ t ɪ d l i p ɚ ˈɛ n ˈɪ b ɹ ˈæ n t͡ʃ s . ˈɪ n ð ə p ˈɚ m i ə n ˈæ n d t ɹ ˌaɪ ˈæ s ɪ k h ˈaɪ ɚ f ˈɔ ɹ m z ə p ˈɪ ɹ d , w ˈɪ t͡ʃ w ɚ s ˈɚ t ə n l i k ˈæ d ˈu s ɪ b ɹ ˈæ n t͡ʃ .
+DUMMY1/LJ041-0070.wav|h ˈi d ˈɪ d n ˈɑ t ɹ ˈaɪ z ə b ˈʌ v ð ə ɹ ˈæ ŋ k ə v p ɹ ˈaɪ v ɪ t f ˈɚ s t k l ˈæ s , ˈi v ə n ð ˈoʊ h ˈi h ˈæ d p ˈæ s t ə k w ˈɑ l ə f ˌaɪ ɪ ŋ ɪ ɡ z ˌæ m ə n ˈeɪ ʃ ə n f ɚ ð ə ɹ ˈæ ŋ k ə v k ˈɔ ɹ p ɚ ə l .
+DUMMY1/LJ008-0266.wav|ð ˈʌ s ˈɪ n ð ə j ˈɪ ɹ z b ɪ t w ˈi n m ˈeɪ f ˈɚ s t , eɪ t ˈi n t w ˈɛ n t i s ˈɛ v ə n , ˈæ n d θ ˈɚ t i ɪ θ ˈeɪ p ɹ ə l , eɪ t ˈi n θ ˈɚ t i w ˈʌ n ,
+DUMMY1/LJ021-0091.wav|ˈɪ n ð ˈɪ s ɹ ˈi s ə n t ɹ ˌi ɔ ɹ ɡ ə n ə z ˈeɪ ʃ ə n w ˈi h ˈæ v ɹ ˈɛ k ə ɡ n ˌaɪ z d θ ɹ ˈi d ɪ s t ˈɪ ŋ k t f ˈʌ ŋ k ʃ ə n z :
+DUMMY1/LJ019-0129.wav|w ˈɪ t͡ʃ m ˈɑ ɹ k t ð ə ɡ ɹ ˈoʊ θ ə v p ˈʌ b l ɪ k ˈɪ n t ɚ ˌɛ s t ˈɪ n p ɹ ˈɪ z ə n ə f ˈɛ ɹ z , ˈæ n d w ˈɪ t͡ʃ w ə z ð ə d͡ʒ ˈɚ m ə v ð ə n j ˈu s ˈɪ s t ə m
+DUMMY1/LJ018-0215.wav|w ˈɪ l j ə m ɹ ˈu p ə l w ə z ð ə ˈɛ l d ɪ s t b ˈʌ t ˌɪ l ɪ d͡ʒ ˈɪ t ə m ɪ t s ˈʌ n ə v ə w ˈɛ l θ i m ˈæ n h ˈu s ˈʌ b s ə k w ə n t l i m ˈɛ ɹ i d ɹ ˈu p ˈɛ l z m ˈʌ ð ɚ , ˈæ n d h ˈæ d f ˈɚ ð ɚ l ɪ d͡ʒ ˈɪ t ə m ɪ t ˈɪ ʃ u .
+DUMMY1/LJ015-0194.wav|ˈæ n d b ɪ h ˈeɪ v d s ˈoʊ ˈæ z t ə d͡ʒ ˈʌ s t ɪ f ˌaɪ ə b ɪ l ˈi f ð ˈæ t h ˈi h ˈæ d b ˈɪ n ə d͡ʒ ˈeɪ l b ˈɚ d ˈɔ l h ˈɪ z l ˈaɪ f .
+DUMMY1/LJ016-0137.wav|ð ˈæ t n ˈʌ m b ɚ z ə v m ˈɛ n , l ˈaɪ f ɚ z , ˈæ n d ˈʌ ð ɚ z w ˈɪ θ t ˈɛ n , f ˌɔ ɹ t ˈi n , ˈɔ ɹ t w ˈɛ n t i j ˈɪ ɹ z t ə d ˈu , k ə n b ˈi t ɹ ˈʌ s t ɪ d t ə w ˈɚ k ˈaʊ t ə v d ˈɔ ɹ z w ɪ ð ˈaʊ t b ˈoʊ l t s ˈæ n d b ˈɑ ɹ z
+DUMMY1/LJ002-0289.wav|ð ə l ˈæ t ɚ ɹ ˈeɪ z d eɪ t ˈi n p ˈɛ n s ə m ˈʌ ŋ ð ˈɛ m t ə p ˈeɪ f ɚ ə t ɹ ˈʌ s ə v s t ɹ ˈɔ f ɚ ð ə p ˈʊ ɹ w ˈʊ m ə n t ə l ˈaɪ ˈɔ n .
+DUMMY1/LJ023-0016.wav|ˈɪ n n ˈaɪ n t ˈi n θ ˈɚ t i θ ɹ ˈi j ˈu ˈæ n d ˈaɪ n j ˈu ð ˈæ t w ˈi m ˈʌ s t n ˈɛ v ɚ l ˈɛ t ˈaʊ ɚ ˌɛ k ə n ˈɑ m ɪ k s ˈɪ s t ə m ɡ ˈɛ t k ə m p l ˈi t l i ˈaʊ t ə v d͡ʒ ˈɔɪ n t ə ɡ ˈɛ n
+DUMMY1/LJ011-0141.wav|ð ˈɛ ɹ w ɚ ˈæ t ð ə m ˈoʊ m ə n t ˈɪ n n ˈu ɡ eɪ t s ˈɪ k s k ˈɑ n v ɪ k t s s ˈɛ n t ə n s t t ə d ˈɛ θ f ɚ f ˈɔ ɹ d͡ʒ ɪ ŋ w ˈɪ l z .
+DUMMY1/LJ016-0283.wav|t ə d ˈu ð ˈɛ m m ˈɪ ɹ d͡ʒ ˈʌ s t ɪ s , ð ˈɛ ɹ w ə z ˈæ t l ˈi s t t ˈɪ l ð ˈɛ n ə h ˈæ f d ɹ ˈʌ ŋ k ə n ɹ ˈaɪ b ɑ l d ɡ ˈeɪ t i ə m ˈʌ ŋ ð ə k ɹ ˈaʊ d ð ˈæ t m ˈeɪ d ð ˈɛ m ˈɔ l ə k ˈɪ n .
+DUMMY1/LJ035-0082.wav|ð ə ˈoʊ n l i ˈɪ n t ɚ v ə l w ə z ð ə t ˈaɪ m n ˈɛ s ɪ s ˌɛ ɹ i t ə ɹ ˈaɪ d ˈɪ n ð ə ˈɛ l ə v ˌeɪ t ɚ f ɹ ˈʌ m ð ə s ˈɛ k ə n d t ə ð ə s ˈɪ k s θ f l ˈɔ ɹ ˈæ n d w ˈɔ k b ˈæ k t ə ð ə s ˌaʊ θ ˈi s t k ˈɔ ɹ n ɚ .
+DUMMY1/LJ045-0194.wav|ˈɛ n i w ˌʌ n h ˈu w ə z f ə m ˈɪ l j ɚ w ˈɪ θ ð ˈæ t ˈɛ ɹ i ə ə v d ˈæ l ə s w ˈʊ d h ˈæ v n ˈoʊ n ð ˈæ t ð ə m ˈoʊ t ɚ k ˌeɪ d w ˈʊ d p ɹ ˈɑ b ə b l i p ˈæ s ð ə t ˈɛ k s ə s s k ˈu l b ˈʊ k d ɪ p ˈɑ z ɪ t ˌɔ ɹ i t ə ɡ ˈɛ t f ɹ ˈʌ m m ˈeɪ n s t ɹ ˈi t
+DUMMY1/LJ009-0124.wav|ˈɑ k j ə p ˌaɪ d w ˈɛ n ð ˈeɪ s ˈɔ ˈɪ t l ˈæ s t , b ˈʌ t ə f j ˈu ˈaʊ ɚ z ə ɡ ˈoʊ , b ˈaɪ ð ˈɛ ɹ k ˈɑ m ɹ ˌæ d z h ˈu ˈɑ ɹ n ˈaʊ d ˈɛ d ;
+DUMMY1/LJ030-0162.wav|ˈɪ n ð ə p ɹ ˌɛ z ɪ d ˈɛ n ʃ ə l l ˈɪ m ə z ˌi n
+DUMMY1/LJ050-0223.wav|ð ə p l ˈæ n p ɹ ə v ˈaɪ d z f ɚ ə n ə d ˈɪ ʃ ə n ə l t ˈu h ˈʌ n d ɹ ɪ d f ˈaɪ v ˈeɪ d͡ʒ ə n t s f ɚ ð ə s ˈi k ɹ ɪ t s ˈɚ v ɪ s . s ˈɛ v ə n t ˈi n ə v ð ˈɪ s n ˈʌ m b ɚ ˈɑ ɹ p ɹ ə p ˈoʊ z d f ɚ ð ə p ɹ ə t ˈɛ k t ɪ v ɹ i s ˈɚ t͡ʃ s ˈɛ k ʃ ə n ;
+DUMMY1/LJ008-0228.wav|ð ˈɛ ɹ h ˈɑ ɹ ʃ ˈæ n d h ˈæ f k ɹ ˈæ k t v ˈɔɪ s ɪ z f ˈʊ l ə v m ˈɔ d l ɪ n , b ɪ s ˈɔ t ɪ d s ˈɪ m p ə θ i f ɚ ð ˈoʊ z ə b ˈaʊ t t ə d ˈaɪ .
+DUMMY1/LJ002-0096.wav|ð ə ˈeɪ t k ˈɔ ɹ t s ə b ˈʌ v ɪ n ˈu m ɚ ˌeɪ t ɪ d w ɚ w ˈɛ l s ə p l ˈaɪ d w ˈɪ θ w ˈɔ t ɚ ;
+DUMMY1/LJ018-0288.wav|ˈæ f t ɚ ð ˈɪ s ð ə ˈʌ ð ɚ k ə n s p ˈɪ ɹ ə t ɚ z t ɹ ˈæ v ə l d t ə ə b t ˈeɪ n d͡ʒ ˈɛ n j u ɪ n b ˈɪ l z ˈæ n d m ˈæ s t ɚ ð ə s ˈɪ s t ə m ə v ð ə l ˈi d ɪ ŋ h ˈaʊ z ɪ z ˈæ t h ˈoʊ m ˈæ n d ə b ɹ ˈɔ d .
+DUMMY1/LJ002-0106.wav|ˈɪ n w ˈɪ t͡ʃ l ˈæ t ɚ l i ə k ˈɑ p ɚ h ˈæ d b ˈɪ n f ˈɪ k s t f ɚ ð ə k ˈʊ k ɪ ŋ ə v p ɹ ə v ˈɪ ʒ ə n z s ˈɛ n t ˈɪ n b ˈaɪ t͡ʃ ˈɛ ɹ ɪ t ə b ə l p ˈɚ s ə n z .
+DUMMY1/LJ025-0129.wav|ˈɔ n ˈi t͡ʃ l ˈoʊ b ə v ð ə b ˈaɪ l ˈoʊ b d l ˈi f ə v v ˈi n ə s f l ˈaɪ t ɹ ˌæ p ˈɑ ɹ θ ɹ ˈi d ˈɛ l ɪ k ɪ t f ˈɪ l ə m ə n t s w ˈɪ t͡ʃ s t ˈæ n d ˈaʊ t ˈæ t ɹ ˈaɪ t ˈæ ŋ ɡ ə l z f ɹ ˈʌ m ð ə s ˈɚ f ɪ s ə v ð ə l ˈi f .
+DUMMY1/LJ044-0013.wav|h ˈæ n d z ˈɔ f k j ˈu b ə , ˈɛ n d k w ˈoʊ t , ə n ˌæ p l ɪ k ˈeɪ ʃ ə n f ˈɔ ɹ m f ɚ , ˈæ n d ə m ˈɛ m b ɚ ʃ ˌɪ p k ˈɑ ɹ d ˈɪ n ,
+DUMMY1/LJ049-0115.wav|ə v ð ə p ˈɚ s ə n h ˈu ˈɪ z ˈæ k t͡ʃ ə l i ˈɪ n ð ə ˈɛ k s ɚ s ˌaɪ z ə v ð ə ɪ ɡ z ˈɛ k j ə t ɪ v p ˈaʊ ɚ , ˈɔ ɹ
+DUMMY1/LJ019-0145.wav|b ˈʌ t ɹ ˌɛ f ɚ m ˈeɪ ʃ ə n w ə z ˈoʊ n l i s k ˈɪ n d ˈi p . b ɪ l ˈoʊ ð ə s ˈɚ f ɪ s m ˈɛ n i ə v ð ə ˈoʊ l d ˈi v ə l z s t ˈɪ l ɹ ˈæ ŋ k ə l d .
+DUMMY1/LJ019-0355.wav|k ˈeɪ m ˈʌ p ˈɪ n ˈɔ l ɹ ɪ s p ˈɛ k t s t ə m ˈɑ d ɚ n ɹ ɪ k w ˈaɪ ɹ m ə n t s .
+DUMMY1/LJ019-0289.wav|ð ˈɛ ɹ w ə z ˌʌ n ɹ i s t ɹ ˈeɪ n d ə s ˌoʊ ʃ i ˈeɪ ʃ ə n ə v ʌ n t ɹ ˈaɪ d ˈæ n d k ə n v ˈɪ k t ɪ d , d͡ʒ ˈu v ə n ˌaɪ l w ˈɪ θ ə d ˈʌ l t p ɹ ˈɪ z n ɚ z , v ˈeɪ ɡ ɹ ə n t s , m ˈɪ s d ɪ m ə n ə n t s , f ˈɛ l ə n z .
+DUMMY1/LJ048-0222.wav|ˈɪ n f ˈɔ ɹ t w ˈɚ θ , ð ˈɛ ɹ ə k ˈɚ d ə b ɹ ˈi t͡ʃ ə v d ˈɪ s ə p l ə n b ˈaɪ s ˈʌ m m ˈɛ m b ɚ z ə v ð ə s ˈi k ɹ ɪ t s ˈɚ v ɪ s h ˈu w ɚ ə f ˈɪ ʃ ə l i t ɹ ˈæ v ə l ɪ ŋ w ˈɪ θ ð ə p ɹ ˈɛ z ɪ d ə n t .
+DUMMY1/LJ016-0367.wav|ˈʌ n d ɚ ð ə n j ˈu s ˈɪ s t ə m ð ə h ˈoʊ l ə v ð ə ɚ ˈeɪ n d͡ʒ m ə n t s f ɹ ˈʌ m f ˈɚ s t t ə l ˈæ s t f ˈɛ l ə p ˈɑ n ð ə ˈɔ f ɪ s ɚ z .
+DUMMY1/LJ047-0097.wav|ˈeɪ d͡ʒ ə n t k w ˈɪ ɡ l i d ˈɪ d n ˈɑ t n ˈoʊ ə v ˈɔ z w ɔ l d z p ɹ ˈaɪ ɚ ˈɛ f b ˈi ˈaɪ ɹ ˈɛ k ɚ d w ˈɛ n h ˈi ˈɪ n t ɚ v j ˌu d h ˈɪ m ,
+DUMMY1/LJ007-0075.wav|ˈæ z ɪ f ɪ k t͡ʃ u ə l i t ə ɹ ɪ b j ˈu k ˈæ n d ə b ˈæ ʃ ð ə p ɹ oʊ f ˈeɪ n s p ˈɪ ɹ ɪ t ə v ð ə m ˈɔ ɹ ˈɪ n s ə l ə n t ˈæ n d d ˈɛ ɹ ɪ ŋ ə v ð ə k ɹ ˈɪ m ə n ə l z .
+DUMMY1/LJ047-0022.wav|p ɹ ə v ˈaɪ d ɪ d b ˈaɪ ˈʌ ð ɚ ˈeɪ d͡ʒ ə n s i z .
+DUMMY1/LJ007-0085.wav|ˈæ t n ˈu ɡ eɪ t ˈæ n d j ˈɔ ɹ k k ˈæ s ə l ˈæ z l ˈɔ ŋ ˈæ z f ˈaɪ v j ˈɪ ɹ z ; ˈæ t ˈɪ l t͡ʃ ˈɛ s t ɚ ˈæ n d m ˈɔ ɹ p ˈɛ θ f ɚ s ˈɛ v ə n j ˈɪ ɹ z ; ˈæ t w ˈɔ ɹ ɪ k f ɚ ˈeɪ t j ˈɪ ɹ z ,
+DUMMY1/LJ047-0075.wav|h ˈɑ s t i h ˈæ d ɪ ŋ k w ˈaɪ ɚ d ˈɚ l i ɚ ˈæ n d f ˈaʊ n d n ˈoʊ ˈɛ v ə d ə n s ð ˈæ t ˈɪ t w ə z f ˈʌ ŋ k ʃ ə n ɪ ŋ ˈɪ n ð ə d ˈæ l ə s ˈɛ ɹ i ə .
+DUMMY1/LJ008-0098.wav|w ˈʌ n w ə z ð ə j ˈoʊ m ə n ə v ð ə h ˈɔ l t ɚ , ə n ˈu ɡ eɪ t ə f ˈɪ ʃ ə l , ð ə ˌɛ k s ɪ k j ˈu ʃ ə n ɚ z ə s ˈɪ s t ə n t , h ˈu m m ˈɪ s t ɚ d͡ʒ ˈeɪ t ˈi s m ˈɪ θ , h ˈu w ə z p ɹ ˈɛ z ə n t ˈæ t ð ə ˌɛ k s ɪ k j ˈu ʃ ə n ,
+DUMMY1/LJ017-0102.wav|ð ə s ˈɛ k ə n d ə t ˈæ k w ə z f ˈeɪ t ə l , ˈæ n d ˈɛ n d ɪ d ˈɪ n k ˈʊ k s d ˈɛ θ f ɹ ˈʌ m t ˈɛ t ə n ə s .
+DUMMY1/LJ046-0105.wav|s ˈɛ k ə n d , ð ə ˈæ d ə k w ə s i ə v ˈʌ ð ɚ ə d v ˈæ n s p ɹ ˌɛ p ɚ ˈeɪ ʃ ə n z f ɚ ð ə s ɪ k j ˈʊ ɹ ɪ t i ə v ð ə p ɹ ˈɛ z ɪ d ə n t , d ˈʊ ɹ ɪ ŋ h ˈɪ z v ˈɪ z ɪ t t ə d ˈæ l ə s ,
+DUMMY1/LJ018-0206.wav|h ˈi w ə z ə t ˈɔ l , s l ˈɛ n d ɚ m ˈæ n , w ˈɪ θ ə l ˈɔ ŋ f ˈeɪ s ˈæ n d ˈaɪ ɚ n ɡ ɹ ˈeɪ h ˈɛ ɹ .
+DUMMY1/LJ012-0271.wav|w ˈɛ ð ɚ ˈɪ t w ə z ɡ ɹ ˈi d ˈɔ ɹ ə k w ˈɔ ɹ ə l ð ˈæ t d ɹ ˈoʊ v ɡ ɹ ˈi n ə k ɹ i t ə ð ə d ˈɛ s p ɚ ɪ t d ˈi d ɹ ɪ m ˈeɪ n z ə b s k j ˈʊ ɹ .
+DUMMY1/LJ005-0086.wav|w ˈɪ θ s ˈʌ t͡ʃ f ˈɚ ð ɚ s ˌɛ p ɚ ˈeɪ ʃ ə n ˈæ z ð ə d͡ʒ ˈʌ s t ɪ s ɪ z ʃ ˈʊ d d ˈi m k ə n d ˈu s ɪ v t ə ɡ ˈʊ d ˈɔ ɹ d ɚ ˈæ n d d ˈɪ s ə p l ə n .
+DUMMY1/LJ042-0097.wav|ˈæ n d k ə n s ˈɪ d ɚ ə b l i b ˈɛ t ɚ l ˈɪ v ɪ ŋ k w ˈɔ ɹ t ɚ z ð ə n ð ˈoʊ z ə k ˈɔ ɹ d ɪ d t ə s ˈoʊ v i ə t s ˈɪ t ɪ z ə n z ə v ˈi k w ə l ˈeɪ d͡ʒ ˈæ n d s t ˈeɪ ʃ ə n .
+DUMMY1/LJ047-0126.wav|w ˈi w ˈʊ d h ˈæ n d ə l ˈɪ t ˈɪ n d ˈu k ˈɔ ɹ s , ˈɪ n ə k ˈɔ ɹ d w ˈɪ θ ð ə h ˈoʊ l k ˈɑ n t ɛ k s t ə v ð ə ɪ n v ˌɛ s t ə ɡ ˈeɪ ʃ ə n . ˈɛ n d k w ˈoʊ t .
+DUMMY1/LJ041-0022.wav|ˈɔ z w ɔ l d f ˈɚ s t ɹ ˈoʊ t , k w ˈoʊ t , ˈɛ d w ɚ d v ˈoʊ ɡ ə l , ˈɛ n d k w ˈoʊ t , ə n ˈɑ b v i ə s m ɪ s s p ˈɛ l ɪ ŋ ə v v ˈoʊ b ə l z n ˈeɪ m ,
+DUMMY1/LJ015-0025.wav|ð ə b ˈæ ŋ k ɪ n d͡ʒ ˈɔɪ d ə n ˈɛ k s ə l ə n t ɹ ˌɛ p j ə t ˈeɪ ʃ ə n , ˈɪ t h ˈæ d ə ɡ ˈʊ d k ə n ˈɛ k ʃ ə n , ˈæ n d w ə z s ə p ˈoʊ z d t ə b ˈi p ˈɚ f ə k t l i s ˈaʊ n d .
+DUMMY1/LJ012-0194.wav|b ˈʌ t b ˈɚ k ˈæ n d h ˈɛ ɹ h ˈæ d ð ˈɛ ɹ ˈɪ m ɪ t ˌeɪ t ɚ z f ˈɚ ð ɚ s ˈaʊ θ ,
+DUMMY1/LJ028-0416.wav|ˈɪ f m ˈæ n m ˈeɪ s p ˈi k s ˈoʊ k ˈɑ n f ə d ə n t l i ə v h ˈɪ z ɡ ɹ ˈeɪ t ɪ m p ˈɛ n ə t ɹ ə b ə l k ˈaʊ n s ə l z , f ɚ ə n ɪ t ˈɚ n ə l t ˈɛ s t ɪ m ˌoʊ n i ə v h ˈɪ z ɡ ɹ ˈeɪ t w ˈɚ k ˈɪ n ð ə k ə n f j ˈu ʒ ə n ə v m ˈæ n z p ɹ ˈaɪ d ,
+DUMMY1/LJ007-0130.wav|ˈɑ ɹ ˈɔ l h ˈʌ d ə l d t ə ɡ ˈɛ ð ɚ w ɪ ð ˈaʊ t d ɪ s k ɹ ˌɪ m ə n ˈeɪ ʃ ə n , ˈoʊ v ɚ s ˌaɪ t , ˈɔ ɹ k ə n t ɹ ˈoʊ l .
+DUMMY1/LJ015-0005.wav|ə b ˈaʊ t ð ˈɪ s t ˈaɪ m d ˈeɪ v ɪ d s ə n ˈæ n d ɡ ˈɔ ɹ d ə n , ð ə p ˈi p ə l ə b ˈʌ v m ˈɛ n ʃ ə n d ,
+DUMMY1/LJ016-0125.wav|w ˈɪ θ ð ˈɪ s , p l ˈeɪ s t ə ɡ ˈɛ n s t ð ə w ˈɔ l n ˈɪ ɹ ð ə t͡ʃ ˈɛ v ə d ə f ɹ ˈaɪ z , h ˈi m ˈeɪ d ə n ˌɛ s k ʌ l ˈeɪ d .
+DUMMY1/LJ014-0224.wav|ˈæ z d w ˈaɪ ɚ s ɚ v ˈaɪ v d , k ˈæ n ə n ɪ s k ˈeɪ p t ð ə d ˈɛ θ s ˈɛ n t ə n s , w ˈɪ t͡ʃ w ə z k ə m j ˈu t ɪ d t ə p ˈi n ə l s ˈɚ v ɪ t ˌu d f ɚ l ˈaɪ f .
+DUMMY1/LJ005-0019.wav|ɹ ɪ f j ˈu t ɪ d b ˈaɪ ə b ˈʌ n d ə n t ˈɛ v ə d ə n s , ˈæ n d h ˈæ v ɪ ŋ n ˈoʊ f aʊ n d ˈeɪ ʃ ə n w ˌʌ t ˈɛ v ɚ ˈɪ n t ɹ ˈu θ .
+DUMMY1/LJ042-0221.wav|w ˈɪ θ ˈi ð ɚ ɡ ɹ ˈeɪ t æ m b ˈɪ v ə l ə n s , ˈɔ ɹ k ˈoʊ l d k ˌæ l k j ə l ˈeɪ ʃ ə n h ˈi p ɹ i p ˈɛ ɹ d k ə m p l ˈi t l i d ˈɪ f ɹ ə n t ˈæ n s ɚ z t ə ð ə s ˈeɪ m k w ˈɛ s t͡ʃ ə n z .
+DUMMY1/LJ001-0063.wav|w ˈɪ t͡ʃ w ə z d͡ʒ ˈɛ n ɚ ə l i m ˈɔ ɹ f ˈɔ ɹ m ə l i ɡ ˈɑ θ ɪ k ð ə n ð ə p ɹ ˈɪ n t ɪ ŋ ə v ð ə d͡ʒ ˈɚ m ə n w ˈɚ k m ɪ n ,
+DUMMY1/LJ030-0006.wav|ð ˈeɪ t ˈʊ k ˈɔ f ˈɪ n ð ə p ɹ ˌɛ z ɪ d ˈɛ n ʃ ə l p l ˈeɪ n , ˈɛ ɹ f ˈɔ ɹ s w ˈʌ n , ˈæ t ɪ l ˈɛ v ə n ˈeɪ ˈɛ m , ɚ ˈaɪ v ɪ ŋ ˈæ t s ˈæ n æ n t ˈoʊ n i oʊ ˈæ t ˈoʊ n ˈɛ θ ˈɪ ɹ t i p ˈi ˈɛ m , ˈi s t ɚ n s t ˈæ n d ɚ d t ˈaɪ m .
+DUMMY1/LJ024-0054.wav|d ɪ m ˈɑ k ɹ ə s i w ˈɪ l h ˈæ v f ˈeɪ l d f ˈɑ ɹ b ɪ j ˈɔ n d ð ə ɪ m p ˈɔ ɹ t ə n s t ə ˈɪ t ə v ˈɛ n i k ˈɪ ŋ ə v p ɹ ˈɛ s ɪ d ə n t k ə n s ˈɚ n ɪ ŋ ð ə d͡ʒ u d ˈɪ ʃ i ˌɛ ɹ i .
+DUMMY1/LJ006-0044.wav|ð ə s ˈeɪ m k ˈæ l ə s ɪ n d ˈɪ f ɹ ə n s t ə ð ə m ˈɔ ɹ ə l w ˈɛ l b ˈi ɪ ŋ ə v ð ə p ɹ ˈɪ z n ɚ z , ð ə s ˈeɪ m w ˈɔ n t ə v ɪ m p l ˈɔɪ m ə n t ˈæ n d ə v ˈɔ l d ˈɪ s ə p l ə n ˌɛ ɹ i k ə n t ɹ ˈoʊ l .
+DUMMY1/LJ039-0154.wav|f ˈɔ ɹ p ˈɔɪ n t ˈeɪ t t ə f ˈaɪ v p ˈɔɪ n t s ˈɪ k s s ˈɛ k ə n d z ˈɪ f ð ə s ˈɛ k ə n d ʃ ˈɑ t m ˈɪ s t ,
+DUMMY1/LJ050-0090.wav|ð ˈeɪ s ˈi m ʌ n d ˈu l i ɹ i s t ɹ ˈɪ k t ɪ v ˈɪ n k ə n t ˈɪ n j u ɪ ŋ t ə ɹ ɪ k w ˈaɪ ɚ s ˈʌ m m ˌæ n ɪ f ɛ s t ˈeɪ ʃ ə n ə v ˈæ n ɪ m ə s ə ɡ ˈɛ n s t ə ɡ ˈʌ v ɚ n m ə n t ə f ˈɪ ʃ ə l .
+DUMMY1/LJ028-0421.wav|ˈɪ t w ə z ð ə b ɪ ɡ ˈɪ n ɪ ŋ ə v ð ə ɡ ɹ ˈeɪ t k ə l ˈɛ k ʃ ə n z ə v b ˌæ b ə l ˈoʊ n i ə n æ n t ˈɪ k w ə t i z ˈɪ n ð ə m j u z ˈi ə m z ə v ð ə w ˈɛ s t ɚ n w ˈɚ l d .
+DUMMY1/LJ033-0205.wav|ð ˈɛ n ˈaɪ w ˈʊ d s ˈeɪ ð ə p ˌɑ s ə b ˈɪ l ə t i ɪ ɡ z ˈɪ s t s , ð ˈi z f ˈaɪ b ɚ z k ˈʊ d h ˈæ v k ˈʌ m f ɹ ˈʌ m ð ˈɪ s b l ˈæ ŋ k ɪ t , ˈɛ n d k w ˈoʊ t .
+DUMMY1/LJ019-0335.wav|ð ə b ˈʊ k s ˈæ n d d͡ʒ ˈɚ n ə l z h ˈi w ə z t ə k ˈi p w ɚ m aɪ n ˈu t l i s p ˈɛ s ə f ˌaɪ d , ˈæ n d h ˈɪ z k ˈɑ n s t ə n t p ɹ ˈɛ z ə n s ˈɪ n ˈɔ ɹ n ˈɪ ɹ ð ə d͡ʒ ˈeɪ l w ə z ɪ n s ˈɪ s t ɪ d ə p ˈɑ n .
+DUMMY1/LJ013-0045.wav|w ˈɔ l ɪ s ɪ z ɹ i l ˈeɪ ʃ ə n z w ˈɔ ɹ n d h ˈɪ m ə ɡ ˈɛ n s t h ˈɪ z l ˈɪ v ɚ p ˌu l f ɹ ˈɛ n d ,
+DUMMY1/LJ037-0002.wav|t͡ʃ ˈæ p t ɚ f ˈɔ ɹ . ð ə ə s ˈæ s ə n : p ˈɑ ɹ t s ˈɪ k s .
+DUMMY1/LJ018-0159.wav|ð ˈɪ s w ə z ˈɔ l ð ə p ə l ˈi s w ˈɔ n t ɪ d t ə n ˈoʊ .
+DUMMY1/LJ026-0140.wav|ˈɪ n ð ə p l ˈæ n t ˈæ z ˈɪ n ð ə ˈæ n ə m ə l m ə t ˈæ b ə l ˌɪ z ə m m ˈʌ s t k ˈɑ n s ɪ s t ə v ˌæ n ə b ˈɑ l ɪ k ˈæ n d k ˈæ t ə b ˈɑ l ɪ k p ɹ ˈɑ s ɛ s ɪ z .
+DUMMY1/LJ014-0171.wav|ˈaɪ w ˈɪ l b ɹ ˈi f l i d ɪ s k ɹ ˈaɪ b w ˈʌ n ˈɔ ɹ t ˈu ə v ð ə m ˈɔ ɹ ɹ ɪ m ˈɑ ɹ k ə b ə l m ˈɚ d ɚ z ˈɪ n ð ə j ˈɪ ɹ z ɪ m ˈi d i ɪ t l i f ˈɑ l oʊ ɪ ŋ , ð ˈɛ n p ˈæ s ˈɔ n t ə ə n ˈʌ ð ɚ b ɹ ˈæ n t͡ʃ ə v k ɹ ˈaɪ m .
+DUMMY1/LJ037-0007.wav|θ ɹ ˈi ˈʌ ð ɚ z s ˈʌ b s ə k w ə n t l i aɪ d ˈɛ n t ɪ f ˌaɪ d ˈɔ z w ɔ l d f ɹ ˈʌ m ə f ˈoʊ t ə ɡ ɹ ˌæ f .
+DUMMY1/LJ033-0174.wav|m ˌaɪ k ɹ oʊ s k ˈɑ p ɪ k ˈæ n d j ˈu v ˈi ˈʌ l t ɹ ə v ˈaɪ ə l ɪ t k ˌɛ ɹ ɪ k t ɚ ˈɪ s t ɪ k s , ˈɛ n d k w ˈoʊ t .
+DUMMY1/LJ040-0110.wav|h ˈi ə p ˈɛ ɹ ə n t l i ə d͡ʒ ˈʌ s t ɪ d w ˈɛ l ɪ n ˈʌ f ð ˈɛ ɹ t ə h ˈæ v h ˈæ d ə n ˈæ v ɚ ɪ d͡ʒ , ɔ l ð ˈoʊ ɡ ɹ ˈæ d͡ʒ u l i d ɪ t ˈɪ ɹ i ɚ ˌeɪ t ɪ ŋ , s k ˈu l ɹ ˈɛ k ɚ d
+DUMMY1/LJ039-0192.wav|h ˈi h ˈæ d ə t ˈoʊ t ə l ə v b ɪ t w ˈi n f ˈɔ ɹ p ˈɔɪ n t ˈeɪ t ˈæ n d f ˈaɪ v p ˈɔɪ n t s ˈɪ k s s ˈɛ k ə n d z b ɪ t w ˈi n ð ə t ˈu ʃ ˈɑ t s w ˈɪ t͡ʃ h ˈɪ t
+DUMMY1/LJ032-0261.wav|w ˈɛ n h ˈi ə p ˈɪ ɹ d b ɪ f ˈɔ ɹ ð ə k ə m ˈɪ ʃ ə n , m ˈaɪ k ə l p ˈeɪ n l ˈɪ f t ɪ d ð ə b l ˈæ ŋ k ɪ t
+DUMMY1/LJ040-0097.wav|l ˈi w ə z b ɹ ˈɔ t ˈʌ p ˈɪ n ð ˈɪ s ˈæ t m ə s f ˌɪ ɹ ə v k ˈɑ n s t ə n t m ˈʌ n i p ɹ ˈɑ b l ə m z , ˈæ n d ˈaɪ ˈæ m ʃ ˈʊ ɹ ˈɪ t h ˈæ d k w ˈaɪ t ə n ɪ f ˈɛ k t ˈɔ n h ˈɪ m , ˈæ n d ˈɔ l s oʊ ɹ ˈɑ b ɚ t , ˈɛ n d k w ˈoʊ t .
+DUMMY1/LJ037-0249.wav|m ˈɪ s ɪ z ˈɚ l i n ɹ ˈɑ b ɚ t s , ð ə h ˈaʊ s k ˌi p ɚ ˈæ t ˈɔ z w ɔ l d z ɹ ˈu m ɪ ŋ h ˌaʊ s ˈæ n d ð ə l ˈæ s t p ˈɚ s ə n n ˈoʊ n t ə h ˈæ v s ˈi n h ˈɪ m b ɪ f ˈɔ ɹ h ˈi ɹ ˈi t͡ʃ t t ˈɛ n θ s t ɹ ˈi t ˈæ n d p ˈæ t ə n ˈæ v ə n ˌu ,
+DUMMY1/LJ016-0248.wav|m ˈɑ ɹ w ˌʊ d w ə z p ɹ ˈaʊ d ə v h ˈɪ z k ˈɔ l ɪ ŋ , ˈæ n d w ˈɛ n k w ˈɛ s t͡ʃ ə n d ˈæ z t ə w ˈɛ ð ɚ h ˈɪ z p ɹ ˈɑ s ˌɛ s w ə z s ˌæ t ɪ s f ˈæ k t ɚ i , ɹ ɪ p l ˈaɪ d ð ˈæ t h ˈi h ˈɚ d n ˈoʊ k ə m p l ˈeɪ n t s .
+DUMMY1/LJ004-0083.wav|ˈæ z m ˈɪ s t ɚ b ˈʌ k s t ə n p ˈɔɪ n t ɪ d ˈaʊ t , m ˈɛ n i ˈoʊ l d ˈæ k t s ə v p ˈɑ ɹ l ə m ə n t d ɪ z ˈaɪ n d t ə p ɹ ə t ˈɛ k t ð ə p ɹ ˈɪ z n ɚ w ɚ s t ˈɪ l ˈɪ n f ˈʊ l f ˈɔ ɹ s .
+DUMMY1/LJ014-0029.wav|ð ˈɪ s w ə z d ˈɛ l ˈɑ ɹ ˈu z w ˈɔ t͡ʃ , f ˈʊ l i aɪ d ˈɛ n t ɪ f ˌaɪ d ˈæ z s ˈʌ t͡ʃ , w ˈɪ t͡ʃ h ˈɑ k ɚ t ˈoʊ l d h ˈɪ z b ɹ ˈʌ ð ɚ d ˈɛ l ˈɑ ɹ ˈu h ˈæ d ɡ ˈɪ v ə n h ˈɪ m ð ə m ˈɔ ɹ n ɪ ŋ ə v ð ə m ˈɚ d ɚ .
+DUMMY1/LJ021-0110.wav|h ˈæ v b ˈɪ n b ˈɛ s t k ˈæ l k j ə l ˌeɪ t ɪ d t ə p ɹ ə m ˈoʊ t ɪ n d ˈʌ s t ɹ i ə l ɹ ɪ k ˈʌ v ɚ i ˈæ n d ə p ˈɚ m ə n ə n t ɪ m p ɹ ˈu v m ə n t ə v b ˈɪ z n ɪ s ˈæ n d l ˈeɪ b ɚ k ə n d ˈɪ ʃ ə n z .
+DUMMY1/LJ003-0107.wav|h ˈi s l ˈɛ p t ˈɪ n ð ə s ˈeɪ m b ˈɛ d w ˈɪ θ ə h ˈaɪ w ˌeɪ m ə n ˈɔ n w ˈʌ n s ˈaɪ d , ˈæ n d ə m ˈæ n t͡ʃ ˈɑ ɹ d͡ʒ d w ˈɪ θ m ˈɚ d ɚ ˈɔ n ð ə ˈʌ ð ɚ .
+DUMMY1/LJ039-0076.wav|ɹ ˈɑ n ə l d s ˈɪ m ə n z , t͡ʃ ˈi f ə v ð ə j ˈu ˈɛ s ˈɑ ɹ m i ˈɪ n f ə n t ɹ i w ˈɛ p ə n z ɪ v ˌæ l j u ˈeɪ ʃ ə n b ɹ ˈæ n t͡ʃ ə v ð ə b ə l ˈɪ s t ɪ k s ɹ i s ˈɚ t͡ʃ l ˈæ b ɹ ə t ˌɔ ɹ i , s ˈɛ d , k w ˈoʊ t ,
+DUMMY1/LJ016-0347.wav|h ˈæ d ʌ n d ˈaʊ t ɪ d l i ə s ˈɑ l ə m , ɪ m p ɹ ˈɛ s ɪ v ɪ f ˈɛ k t ə p ˈɑ n ð ˈoʊ z ˈaʊ t s aɪ d .
+DUMMY1/LJ001-0072.wav|ˈæ f t ɚ ð ə ˈɛ n d ə v ð ə f ɪ f t ˈi n θ s ˈɛ n t͡ʃ ɚ i ð ə d ˌɛ ɡ ɹ ə d ˈeɪ ʃ ə n ə v p ɹ ˈɪ n t ɪ ŋ , ɪ s p ˈɛ ʃ l i ˈɪ n d͡ʒ ˈɚ m ə n i ˈæ n d ˈɪ t ə l i ,
+DUMMY1/LJ024-0018.wav|k ˈɑ n s ə k w ˌɛ n t l i , ɔ l ð ˈoʊ ð ˈɛ ɹ n ˈɛ v ɚ k ə n b ˈi m ˈɔ ɹ ð ə n f ɪ f t ˈi n , ð ˈɛ ɹ m ˈeɪ b ˈi ˈoʊ n l i f ˌɔ ɹ t ˈi n , ˈɔ ɹ θ ˈɚ t ˈi n , ˈɔ ɹ t w ˈɛ l v .
+DUMMY1/LJ032-0180.wav|ð ˈæ t ð ə f ˈaɪ b ɚ z w ɚ k ˈɔ t ˈɪ n ð ə k ɹ ˈɛ v ɪ s ə v ð ə ɹ ˈaɪ f ə l z b ˈʌ t p l ˈeɪ t , k w ˈoʊ t , ˈɪ n ð ə ɹ ˈi s ə n t p ˈæ s t , ˈɛ n d k w ˈoʊ t ,
+DUMMY1/LJ010-0083.wav|ˈæ n d m ˈɛ ʒ ɚ z t ˈeɪ k ə n t ə ɚ ˈɛ s t ð ˈɛ m w ˈɛ n ð ˈɛ ɹ p l ˈæ n z w ɚ s ˈoʊ f ˈɑ ɹ d ɪ v ˈɛ l ə p t ð ˈæ t n ˈoʊ d ˈaʊ t k ˈʊ d ɹ ɪ m ˈeɪ n ˈæ z t ə ð ˈɛ ɹ ɡ ˈɪ l t .
+DUMMY1/LJ002-0299.wav|ˈæ n d ɡ ˈeɪ v ð ə ɡ ˈɑ ɹ n ɪ ʃ f ɚ ð ə k ˈɑ m ə n s ˈaɪ d ˈæ t ð ˈæ t s ˈʌ m , w ˈɪ t͡ʃ ˈɪ z f ˈaɪ v ʃ ˈɪ l ɪ ŋ z m ˈɔ ɹ ð ə n m ˈɪ s t ɚ n ˈi l d s ˈɛ z w ə z ɛ k s t ˈɔ ɹ t ɪ d ˈɔ n ð ə k ˈɑ m ə n s ˈaɪ d .
+DUMMY1/LJ048-0143.wav|ð ə s ˈi k ɹ ɪ t s ˈɚ v ɪ s d ˈɪ d n ˈɑ t ˈæ t ð ə t ˈaɪ m ə v ð ə ə s ˌæ s ə n ˈeɪ ʃ ə n h ˈæ v ˈɛ n i ɪ s t ˈæ b l ɪ ʃ t p ɹ oʊ s ˈi d͡ʒ ɚ ɡ ˈʌ v ɚ n ɪ ŋ ˈɪ t s ɹ i l ˈeɪ ʃ ə n ʃ ˌɪ p s w ˈɪ θ ð ˈɛ m .
+DUMMY1/LJ012-0054.wav|s ˈoʊ l ə m ə n z , w ˈaɪ l w ˈeɪ t ɪ ŋ t ə ə p ˈɪ ɹ ˈɪ n k ˈɔ ɹ t , p ɚ s w ˈeɪ d ɪ d ð ə t ˈɚ ŋ k ˌaɪ z t ə t ˈeɪ k h ˈɪ m t ə ə p ˈʌ b l ɪ k h ˈaʊ s , w ˈɛ ɹ ˈɔ l m ˈaɪ t ɹ ɪ f ɹ ˈɛ ʃ .
+DUMMY1/LJ019-0270.wav|v ˈɛ d͡ʒ t ə b ə l z , ɪ s p ˈɛ ʃ l i ð ə p ə t ˈeɪ t oʊ , ð ˈæ t m ˈoʊ s t v ˈæ l j u b ə l ˈæ n t aɪ s k ˈɔ ɹ b j ˈu t ɪ k , w ə z t ˈu ˈɔ f t ə n oʊ m ˈɪ t ɪ d .
+DUMMY1/LJ035-0164.wav|θ ɹ ˈi m ˈɪ n ɪ t s ˈæ f t ɚ ð ə ʃ ˈu t ɪ ŋ .
+DUMMY1/LJ014-0326.wav|m ˈæ l t b i ˈæ n d k ˈʌ m p ə n i w ˈʊ d ˈɪ ʃ u w ˈɔ ɹ ə n t s ˈɔ n ð ˈɛ m d ɪ l ˈɪ v ɚ ə b ə l t ə ð ə ɪ m p ˈɔ ɹ t ɚ , ˈæ n d ð ə ɡ ˈʊ d z w ɚ ð ˈɛ n p ˈæ s t t ə b ˈi s t ˈɔ ɹ d ˈɪ n n ˈeɪ b ɚ ɪ ŋ w ˈɛ ɹ h ˌaʊ s ɪ z .
+DUMMY1/LJ001-0173.wav|ð ə ɪ s ˈɛ n ʃ ə l p ˈɔɪ n t t ə b ˈi ɹ ɪ m ˈɛ m b ɚ d ˈɪ z ð ˈæ t ð ə ˈɔ ɹ n ə m ə n t , w ˌʌ t ˈɛ v ɚ ˈɪ t ˈɪ z , w ˈɛ ð ɚ p ˈɪ k t͡ʃ ɚ ˈɔ ɹ p ˈæ t ɚ n w ˈɚ k , ʃ ˈʊ d f ˈɔ ɹ m p ˈɑ ɹ t ə v ð ə p ˈeɪ d͡ʒ ,
+DUMMY1/LJ050-0056.wav|ˈɔ n d ɪ s ˈɛ m b ɚ t w ˈɛ n t i s ˈɪ k s , n ˈaɪ n t ˈi n s ˈɪ k s t i θ ɹ ˈi , ð ə ˈɛ f b ˈi ˈaɪ s ˈɚ k j ə l ˌeɪ t ɪ d ə d ˈɪ ʃ ə n ə l ɪ n s t ɹ ˈʌ k ʃ ə n z t ə ˈɔ l ˈɪ t s ˈeɪ d͡ʒ ə n t s ,
+DUMMY1/LJ003-0319.wav|p ɹ ə v ˈaɪ d ɪ d ˈoʊ n l i ð ˈæ t ð ˈɛ ɹ s ɪ k j ˈʊ ɹ ɪ t i w ə z n ˈɑ t d͡ʒ ˈɛ p ɚ d ˌaɪ z d , ˈæ n d d ɪ p ˈɛ n d ə n t ə p ˈɑ n ð ə ɪ n f ˈɔ ɹ s m ə n t ə v ə n ˈʌ ð ɚ n j ˈu ɹ ˈu l ,
+DUMMY1/LJ006-0040.wav|ð ə f ˈæ k t w ə z ð ˈæ t ð ə j ˈɪ ɹ z ˈæ z ð ˈeɪ p ˈæ s t , n ˈɪ ɹ l i t w ˈɛ n t i ˈɪ n ˈɔ l , h ˈæ d w ˈɚ k t b ˈʌ t l ˈɪ t ə l p ˈɚ m ə n ə n t ɪ m p ɹ ˈu v m ə n t ˈɪ n ð ˈɪ s d ɪ t ˈɛ s t ə b ə l p ɹ ˈɪ z ə n .
+DUMMY1/LJ017-0231.wav|h ˈɪ z b ˈɑ d i w ə z f ˈaʊ n d l ˈaɪ ɪ ŋ ˈɪ n ə p ˈu l ə v b l ˈʌ d ˈɪ n ə n ˈaɪ t d ɹ ˈɛ s , s t ˈæ b d ˈoʊ v ɚ ˈæ n d ˈoʊ v ɚ ə ɡ ˈɛ n ˈɪ n ð ə l ˈɛ f t s ˈaɪ d .
+DUMMY1/LJ017-0226.wav|w ˈʌ n h ˈæ f ə v ð ə m j ˌu t ɪ n ˈɪ ɹ z f ˈɛ l ə p ˈɑ n h ˈɪ m ˌʌ n ə w ˈɛ ɹ z w ˈɪ θ h ˈæ n d s p ˈaɪ k s ˈæ n d k ˈæ p s t ə n b ˈɑ ɹ z .
+DUMMY1/LJ004-0239.wav|h ˈi h ˈæ d b ˈɪ n k ə m ˈɪ t ɪ d f ɚ ə n ə f ˈɛ n s f ɚ w ˈɪ t͡ʃ h ˈi w ə z ə k w ˈɪ t ɪ d .
+DUMMY1/LJ048-0112.wav|ð ə k ə m ˈɪ ʃ ə n ˈɔ l s oʊ ɹ ɪ ɡ ˈɑ ɹ d z ð ə s ɪ k j ˈʊ ɹ ɪ t i ɚ ˈeɪ n d͡ʒ m ə n t s w ˈɚ k t ˈaʊ t b ˈaɪ l ˈɔ s ə n ˈæ n d s ˈɔ ɹ ə l z ˈæ t l ˈʌ v f ˈi l d ˈæ z ɪ n t ˈaɪ ɚ l i ˈæ d ə k w ɪ t .
+DUMMY1/LJ039-0125.wav|ð ˈæ t ˈɔ z w ɔ l d w ə z ə ɡ ˈʊ d ʃ ˈɑ t , s ˈʌ m w ˈʌ t b ˈɛ t ɚ ð ə n ˈɔ ɹ ˈi k w ə l t ə b ˈɛ t ɚ ð ə n ð ə ˈæ v ɚ ɪ d͡ʒ l ˈɛ t ˈʌ s s ˈeɪ .
+DUMMY1/LJ030-0196.wav|h ˈi k ɹ ˈaɪ d ˈaʊ t , k w ˈoʊ t , ˈoʊ , n ˈoʊ , n ˈoʊ , n ˈoʊ . m ˈaɪ ɡ ˈɑ d , ð ˈeɪ ˈɑ ɹ ɡ ˈoʊ ɪ ŋ t ə k ˈɪ l ˈʌ s ˈɔ l , ˈɛ n d k w ˈoʊ t ,
+DUMMY1/LJ010-0228.wav|h ˈi w ə z ɹ i l ˈi s t f ɹ ˈʌ m b ɹ ˈoʊ d m ˌʊ ɹ ˈɪ n eɪ t ˈi n s ˈɛ v ə n t i ˈeɪ t , ˈæ n d w ˈɛ n t ə b ɹ ˈɔ d .
+DUMMY1/LJ045-0228.wav|ˈɔ n ð ə ˈʌ ð ɚ h ˈæ n d , h ˈi k ˈʊ d h ˈæ v t ɹ ˈæ v ə l d s ˈʌ m d ˈɪ s t ə n s w ˈɪ θ ð ə m ˈʌ n i h ˈi d ˈɪ d h ˈæ v ˈæ n d h ˈi d ˈɪ d ɹ ɪ t ˈɚ n t ə h ˈɪ z ɹ ˈu m w ˈɛ ɹ h ˈi ə b t ˈeɪ n d h ˈɪ z ɹ ɪ v ˈɑ l v ɚ .
+DUMMY1/LJ028-0168.wav|ˈɪ n ð ə ˈʌ ð ɚ w ə z ð ə s ˈeɪ k ɹ ɪ d p ɹ ˈi s ɪ ŋ k t ə v d͡ʒ ˈu p ɪ t ɚ b ˈɛ l ə s ,
+DUMMY1/LJ021-0140.wav|ˈæ n d ˈɪ n s ˈʌ t͡ʃ ə n ˈɛ f ɚ t w ˈi ʃ ˈʊ d b ˈi ˈeɪ b ə l t ə s ɪ k j ˈʊ ɹ f ɚ ɪ m p l ˈɔɪ ɚ z ˈæ n d ɪ m p l ˈɔɪ i z ˈæ n d k ə n s ˈu m ɚ z
+DUMMY1/LJ009-0280.wav|ə ɡ ˈɛ n ð ə ɹ ˈɛ t͡ʃ ɪ d k ɹ ˈi t͡ʃ ɚ s ə k s ˈi d ɪ d ˈɪ n ə b t ˈeɪ n ɪ ŋ f ˈʊ t h ˌoʊ l d , b ˈʌ t ð ˈɪ s t ˈaɪ m ˈɔ n ð ə l ˈɛ f t s ˈaɪ d ə v ð ə d ɹ ˈɑ p .
+DUMMY1/LJ003-0159.wav|t ə k ˈɑ n s t ə t ˌu t ð ˈɪ s ð ə ɚ ˌɪ s t ə k ɹ ˈæ t ɪ k k w ˈɔ ɹ t ɚ , ʌ n w ˈɔ ɹ ˈæ n t ə b ə l d ɪ m ˈæ n d z w ɚ m ˈeɪ d ə p ˈɑ n ð ə s p ˈeɪ s p ɹ ˈɑ p ɚ l i ə l ˈɑ t ɪ d t ə ð ə f ˈi m ˌeɪ l f ˈɛ l ə n z ,
+DUMMY1/LJ016-0274.wav|ˈæ n d ð ə w ˈɪ n d oʊ z ə v ð ə ˈɑ p ə z ɪ t h ˈaʊ z ɪ z , w ˈɪ t͡ʃ k ə m ˈæ n d ɪ d ə ɡ ˈʊ d v j ˈu , ˈæ z j ˈu ʒ u ə l f ˈɛ t͡ʃ t h ˈaɪ p ɹ ˈaɪ s ɪ z .
+DUMMY1/LJ035-0014.wav|ˈɪ t s ˈaʊ n d ɪ d h ˈaɪ ˈæ n d ˈaɪ ɪ m ˈi d i ɪ t l i k ˈaɪ n d ə v l ˈʊ k t ˈʌ p ,
+DUMMY1/LJ033-0120.wav|w ˈɪ t͡ʃ h ˈi b ɪ l ˈi v d w ə z w ˈɛ ɹ ð ə b ˈæ ɡ ɹ ˈi t͡ʃ t w ˈɛ n ˈɪ t w ə z l ˈeɪ d ˈɔ n ð ə s ˈi t w ˈɪ θ w ˈʌ n ˈɛ d͡ʒ ə ɡ ˈɛ n s t ð ə d ˈɔ ɹ .
+DUMMY1/LJ045-0015.wav|w ˈɪ t͡ʃ d͡ʒ ˈɑ n s ə n s ˈɛ d h ˈi d ˈɪ d n ˈɑ t ɹ ɪ s ˈi v ʌ n t ˈɪ l ˈæ f t ɚ ð ə ə s ˌæ s ə n ˈeɪ ʃ ə n . ð ə l ˈɛ t ɚ s ˈɛ d ˈɪ n p ˈɑ ɹ t , k w ˈoʊ t ,
+DUMMY1/LJ003-0299.wav|ð ə l ˈæ t ɚ ˈɛ n d ə v ð ə n ˈaɪ n t ˈi n θ s ˈɛ n t͡ʃ ɚ i , s ˈɛ v ɚ ə l ə v w ˈɪ t͡ʃ s t ˈɪ l f ˈɔ l f ˈɑ ɹ ʃ ˈɔ ɹ t ə v ˈaʊ ɚ ˈɪ ŋ ɡ l ɪ ʃ aɪ d ˈi ə l ,
+DUMMY1/LJ032-0206.wav|ˈæ f t ɚ k ə m p ˈɛ ɹ ɪ ŋ ð ə ɹ ˈaɪ f ə l ˈɪ n ð ə s ˈɪ m j ə l ˌeɪ t ɪ d f ˈoʊ t ə ɡ ɹ ˌæ f w ˈɪ θ ð ə ɹ ˈaɪ f ə l ˈɪ n ɪ ɡ z ˈɪ b ɪ t n ˈʌ m b ɚ w ˈʌ n θ ˈɚ t i θ ɹ ˈi ə , ʃ ˈæ n i f ɛ l t t ˈɛ s t ɪ f ˌaɪ d , k w ˈoʊ t ,
+DUMMY1/LJ028-0494.wav|b ɪ t w ˈi n ð ə s ˈɛ v ɚ ə l s ˈɛ k ʃ ə n z w ɚ w ˈaɪ d s p ˈeɪ s ɪ z w ˈɛ ɹ f ˈʊ t s ˈoʊ l d͡ʒ ɚ z ˈæ n d t͡ʃ ˈɑ ɹ i oʊ t ˈɚ z m ˈaɪ t f ˈaɪ t .
+DUMMY1/LJ005-0099.wav|ˈæ n d ɹ ɪ p ˈɔ ɹ t ˈæ t l ˈɛ ŋ θ ə p ˈɑ n ð ə k ə n d ˈɪ ʃ ə n ə v ð ə p ɹ ˈɪ z ə n z ə v ð ə k ˈʌ n t ɹ i .
+DUMMY1/LJ015-0144.wav|d ɪ v ˈɛ l ə p t t ə ə k ə l ˈɔ s ə l ɪ k s t ˈɛ n t ð ə f ɹ ˈɔ d z h ˈi h ˈæ d ɔ l ɹ ˈɛ d i p ɹ ˈæ k t ɪ s t ˈæ z ə s ə b ˈɔ ɹ d ə n ɪ t .
+DUMMY1/LJ019-0221.wav|ˈɪ t w ə z ɪ n t ˈɛ n d ɪ d ˈæ z f ˈɑ ɹ ˈæ z p ˈɑ s ə b ə l ð ˈæ t , ɪ k s ˈɛ p t ə w ˈeɪ t ɪ ŋ t ɹ ˈaɪ l , n ˈoʊ p ɹ ˈɪ z n ɚ ʃ ˈʊ d f ˈaɪ n d h ɪ m s ˈɛ l f ɹ ˈɛ l ə ɡ ˌeɪ t ɪ d t ə n ˈu ɡ eɪ t .
+DUMMY1/LJ003-0088.wav|ˈɪ n w ˈʌ n , f ɚ s ˈɛ v ə n j ˈɪ ɹ z ð ˈæ t ə v ə m ˈæ n s ˈɛ n t ə n s t t ə d ˈɛ θ , f ɚ h ˈu m ɡ ɹ ˈeɪ t ˈɪ n t ɚ ˌɛ s t h ˈæ d b ˈɪ n m ˈeɪ d , b ˈʌ t h ˈu m ˈɪ t w ə z n ˈɑ t θ ˈɔ t ɹ ˈaɪ t t ə p ˈɑ ɹ d ə n .
+DUMMY1/LJ045-0216.wav|n ˈaɪ n t ˈi n s ˈɪ k s t i θ ɹ ˈi , m ˈɪ ɹ l i t ə d ɪ s ˈɑ ɹ m h ˈɚ ˈæ n d t ə p ɹ ə v ˈaɪ d ə d͡ʒ ˌʌ s t ɪ f ɪ k ˈeɪ ʃ ə n ə v s ˈɔ ɹ t s ,
+DUMMY1/LJ042-0135.wav|ð ˈæ t h ˈi w ə z n ˈɑ t j ˈɛ t t w ˈɛ n t i j ˈɪ ɹ z ˈoʊ l d w ˈɛ n h ˈi w ˈɛ n t t ə ð ə s ˈoʊ v i ə t j ˈu n j ə n w ˈɪ θ s ˈʌ t͡ʃ h ˈaɪ h ˈoʊ p s ˈæ n d n ˈɑ t k w ˈaɪ t t w ˈɛ n t i θ ɹ ˈi w ˈɛ n h ˈi ɹ ɪ t ˈɚ n d b ˈɪ t ɚ l i d ˌɪ s ə p ˈɔɪ n t ɪ d .
+DUMMY1/LJ049-0196.wav|ˈɔ n ð ə ˈʌ ð ɚ h ˈæ n d , ˈɪ t ˈɪ z ˈɚ d͡ʒ d ð ˈæ t ˈɔ l f ˈi t͡ʃ ɚ z ə v ð ə p ɹ ə t ˈɛ k ʃ ə n ə v ð ə p ɹ ˈɛ z ɪ d ə n t ˈæ n d h ˈɪ z f ˈæ m ɪ l i ʃ ˈʊ d b ˈi k ə m ˈɪ t ɪ d t ə ə n ɪ l ˈi t ˈæ n d ˌɪ n d ɪ p ˈɛ n d ə n t k ˈɔ ɹ .
+DUMMY1/LJ018-0278.wav|ð ˈɪ s w ə z ð ə w ˈɛ l ˈæ n d ə s t ˈu t l i d ɪ v ˈaɪ z d p l ˈɑ t ə v ð ə b ɹ ˈʌ ð ɚ z b ˈɪ d w ˌɛ l ,
+DUMMY1/LJ030-0238.wav|ˈæ n d ð ˈɛ n l ˈʊ k t ɚ ˈaʊ n d ə ɡ ˈɛ n ˈæ n d s ˈɔ m ˈɔ ɹ ə v ð ˈɪ s m ˈu v m ə n t , ˈæ n d s ˈoʊ ˈaɪ p ɹ oʊ s ˈi d ɪ d t ə ɡ ˈoʊ t ə ð ə b ˈæ k s ˈi t ˈæ n d ɡ ˈɛ t ˈɔ n t ˈɑ p ə v h ˈɪ m .
+DUMMY1/LJ018-0309.wav|w ˈɛ ɹ p ɹ ˈɑ b ə b l i ð ə m ˈʌ n i s t ˈɪ l ɹ ɪ m ˈeɪ n z .
+DUMMY1/LJ041-0199.wav|ˈɪ z ʃ ˈoʊ n m ˈoʊ s t k l ˈɪ ɹ l i b ˈaɪ h ˈɪ z ɪ m p l ˈɔɪ m ə n t ɹ i l ˈeɪ ʃ ə n z ˈæ f t ɚ h ˈɪ z ɹ ɪ t ˈɚ n f ɹ ˈʌ m ð ə s ˈoʊ v i ə t j ˈu n j ə n . ə v k ˈɔ ɹ s , h ˈi m ˈeɪ d h ˈɪ z ɹ ˈi l p ɹ ˈɑ b l ə m z w ˈɚ s t ə ð ə ɪ k s t ˈɛ n t
+DUMMY1/LJ007-0076.wav|ð ə l ˈæ k s d ˈɪ s ə p l ə n m eɪ n t ˈeɪ n d ˈɪ n n ˈu ɡ eɪ t w ə z s t ˈɪ l f ˈɚ ð ɚ d ɪ t ˈɪ ɹ i ɚ ˌeɪ t ɪ d b ˈaɪ ð ə p ɹ ˈɛ z ə n s ə v t ˈu ˈʌ ð ɚ k l ˈæ s ɪ z ə v p ɹ ˈɪ z n ɚ z h ˈu ˈɔ t n ˈɛ v ɚ t ə h ˈæ v b ˈɪ n ˈɪ n m ˌeɪ t s ə v s ˈʌ t͡ʃ ə d͡ʒ ˈeɪ l .
+DUMMY1/LJ039-0118.wav|h ˈi h ˈæ d h ˈaɪ m ˌoʊ t ə v ˈeɪ ʃ ə n . h ˈi h ˈæ d p ɹ ɪ z ˈu m ə b l i ə ɡ ˈʊ d t ə ˈɛ k s ə l ə n t ɹ ˈaɪ f ə l ˈæ n d ɡ ˈʊ d ˌæ m j ə n ˈɪ ʃ ə n .
+DUMMY1/LJ024-0019.wav|ˈæ n d ð ˈɛ ɹ m ˈeɪ b ˈi ˈoʊ n l i n ˈaɪ n .
+DUMMY1/LJ008-0085.wav|ð ə f ˈaɪ ɚ h ˈæ d n ˈɑ t k w ˈaɪ t b ˈɚ n t ˈaʊ t ˈæ t t w ˈɛ l v , ˈɪ n n ˈɪ ɹ l i f ˈɔ ɹ ˈaʊ ɚ z , ð ˈæ t ˈɪ z t ə s ˈeɪ .
+DUMMY1/LJ018-0031.wav|ð ˈɪ s f ˈɪ k s t ð ə k ɹ ˈaɪ m p ɹ ˈɪ t i s ˈɚ t ə n l i ə p ˈɑ n m ə l ɚ , h ˈu h ˈæ d ɔ l ɹ ˈɛ d i l ˈɛ f t ð ə k ˈʌ n t ɹ i , ð ˈʌ s ɪ ŋ k ɹ ˈi s ɪ ŋ s ə s p ˈɪ ʃ ə n ˈʌ n d ɚ w ˈɪ t͡ʃ h ˈi l ˈeɪ .
+DUMMY1/LJ030-0032.wav|d ˈæ l ə s p ə l ˈi s s t ˈʊ d ˈæ t ˈɪ n t ɚ v ə l z ə l ˈɔ ŋ ð ə f ˈɛ n s ˈæ n d d ˈæ l ə s p l ˈeɪ n k l ˈoʊ ð z m ˈɛ n m ˈɪ k s t ˈɪ n ð ə k ɹ ˈaʊ d .
+DUMMY1/LJ050-0004.wav|d͡ʒ ˈɛ n ɚ ə l s ˌu p ɚ v ˈɪ ʒ ə n ə v ð ə s ˈi k ɹ ɪ t s ˈɚ v ɪ s
+DUMMY1/LJ039-0096.wav|ð ˈɪ s ˈɪ z ə d ˈɛ f ɪ n ɪ t æ d v ˈæ n t ɪ d͡ʒ t ə ð ə ʃ ˈu t ɚ , ð ə v ˈi ɪ k ə l m ˈu v ɪ ŋ d ɪ ɹ ˈɛ k t l i ə w ˈeɪ f ɹ ˈʌ m h ˈɪ m ˈæ n d ð ə d ˈaʊ ŋ ɡ ɹ ˈeɪ d ə v ð ə s t ɹ ˈi t , ˈæ n d h ˈi b ˈi ɪ ŋ ˈɪ n ə n ˈɛ l ə v ˌeɪ t ɪ d p ə z ˈɪ ʃ ə n
+DUMMY1/LJ041-0195.wav|ˈɔ z w ɔ l d z ˈɪ n t ɚ ˌɛ s t ˈɪ n m ˈɑ ɹ k s ɪ z ə m l ˈɛ d s ˈʌ m p ˈi p ə l t ə ə v ˈɔɪ d h ˈɪ m ,
+DUMMY1/LJ047-0158.wav|ˈæ f t ɚ ə m ˈoʊ m ə n t s h ˌɛ z ɪ t ˈeɪ ʃ ə n , ʃ ˈi t ˈoʊ l d m ˈi ð ˈæ t h ˈi w ˈɚ k t ˈæ t ð ə t ˈɛ k s ə s s k ˈu l b ˈʊ k d ɪ p ˈɑ z ɪ t ˌɔ ɹ i n ˈɪ ɹ ð ə d ˈaʊ n t ˈaʊ n ˈɛ ɹ i ə ə v d ˈæ l ə s .
+DUMMY1/LJ050-0162.wav|ˈɪ n p l ˈæ n ɪ ŋ ˈɪ t s d ˈæ t ə p ɹ ˈɑ s ɛ s ɪ ŋ t ɛ k n ˈi k s ,
+DUMMY1/LJ001-0051.wav|ˈæ n d p ˈeɪ ɪ ŋ ɡ ɹ ˈeɪ t ə t ˈɛ n ʃ ə n t ə ð ə p ɹ ˈɛ s w ˈɚ k ˈɔ ɹ ˈæ k t͡ʃ u ə l p ɹ ˈɑ s ˌɛ s ə v p ɹ ˈɪ n t ɪ ŋ ,
+DUMMY1/LJ028-0136.wav|ə v ˈɔ l ð ə ˈeɪ n ʃ ə n t d ɪ s k ɹ ˈɪ p ʃ ə n z ə v ð ə f ˈeɪ m ə s w ˈɔ l z ˈæ n d ð ə s ˈɪ t i ð ˈeɪ p ɹ ə t ˈɛ k t ɪ d , ð ˈæ t ə v h ˈɛ ɹ oʊ d ə t ə s ˈɪ z ð ə f ˈʊ l ɪ s t .
+DUMMY1/LJ034-0134.wav|ʃ ˈɔ ɹ t l i ˈæ f t ɚ ð ə ə s ˌæ s ə n ˈeɪ ʃ ə n b ɹ ˈɛ n ə n n ˈoʊ t ɪ s t
+DUMMY1/LJ019-0348.wav|ˈɛ v ɹ i f ə s ˈɪ l ɪ t i w ə z p ɹ ˈɑ m ə s t . ð ə s ˈæ ŋ k ʃ ə n ə v ð ə s ˈɛ k ɹ ɪ t ˌɛ ɹ i ə v s t ˈeɪ t w ˈʊ d n ˈɑ t b ˈi w ɪ θ h ˈɛ l d ˈɪ f p l ˈæ n z ˈæ n d ˈɛ s t ɪ m ɪ t s w ɚ d ˈu l i s ʌ b m ˈɪ t ɪ d ,
+DUMMY1/LJ010-0219.wav|w ˈaɪ l w ˈʌ n s t ˈʊ d ˈoʊ v ɚ ð ə f ˈaɪ ɚ w ˈɪ θ ð ə p ˈeɪ p ɚ z , ə n ˈʌ ð ɚ s t ˈʊ d w ˈɪ θ l ˈaɪ t ɪ d t ˈɔ ɹ t͡ʃ t ə f ˈaɪ ɚ ð ə h ˈaʊ s .
+DUMMY1/LJ011-0245.wav|m ˈɪ s t ɚ m ˈʌ l ˈeɪ k ˈɔ l d ə ɡ ˈɛ n , t ˈeɪ k ɪ ŋ w ˈɪ θ h ˈɪ m f ˈaɪ v h ˈʌ n d ɹ ɪ d p ˈaʊ n d z ˈɪ n k ˈæ ʃ . h ˈaʊ ɚ d d ɪ s k ˈʌ v ɚ d ð ˈɪ s , ˈæ n d h ˈɪ z m ˈæ n ɚ w ə z v ˈɛ ɹ i s ə s p ˈɪ ʃ ə s ;
+DUMMY1/LJ030-0035.wav|ˌɔ ɹ ɡ ə n ə z ˈeɪ ʃ ə n ə v ð ə m ˈoʊ t ɚ k ˌeɪ d
+DUMMY1/LJ044-0135.wav|w ˈaɪ l h ˈi h ˈæ d d ɹ ˈɔ n s ˈʌ m ə t ˈɛ n ʃ ə n t ə h ɪ m s ˈɛ l f ˈæ n d h ˈæ d ˈæ k t͡ʃ ə l i ə p ˈɪ ɹ d ˈɔ n t ˈu ɹ ˈeɪ d i oʊ p ɹ ˈoʊ ɡ ɹ ˌæ m z , h ˈi h ˈæ d b ˈɪ n ə t ˈæ k t b ˈaɪ k j ˈu b ə n ˈɛ k s ˌaɪ l z ˈæ n d ɚ ˈɛ s t ɪ d ,
+DUMMY1/LJ045-0090.wav|h ˈi w ə z v ˈɛ ɹ i m ˈʌ t͡ʃ ˈɪ n t ɚ ˌɛ s t ɪ d ˈɪ n ˌɔ t oʊ b ˌaɪ ə ɡ ɹ ˈæ f ɪ k ə l w ˈɚ k s ə v ˌaʊ t s t ˈæ n d ɪ ŋ s t ˈeɪ t s m ɪ n ə v ð ə j u n ˈaɪ t ɪ d s t ˈeɪ t s , t ə h ˈu m h ˈɪ z w ˈaɪ f θ ˈɔ t h ˈi k ə m p ˈɛ ɹ d h ɪ m s ˈɛ l f .
+DUMMY1/LJ026-0034.wav|w ˈɛ n ˈɛ n i ɡ ˈɪ v ə n p ɹ ˈoʊ t ɪ s t h ˈæ z t ə b ˈi k l ˈæ s ɪ f ˌaɪ d ð ə k ˈeɪ s m ˈʌ s t b ˈi d ɪ s ˈaɪ d ɪ d ˈɔ n ˈɪ t s ˌɪ n d ɪ v ˈɪ d͡ʒ u ə l m ˈɛ ɹ ɪ t s ;
+DUMMY1/LJ045-0092.wav|ˈæ z t ə ð ə f ˈæ k t ð ˈæ t h ˈi w ə z ə n ˌaʊ t s t ˈæ n d ɪ ŋ m ˈæ n , ˈɛ n d k w ˈoʊ t .
+DUMMY1/LJ017-0050.wav|p ˈɑ m ɚ , h ˈu w ə z ˈoʊ n l i θ ˈɚ t i w ˈʌ n ˈæ t ð ə t ˈaɪ m ə v h ˈɪ z t ɹ ˈaɪ l , w ə z ˈɪ n ə p ˈɪ ɹ ə n s ʃ ˈɔ ɹ t ˈæ n d s t ˈaʊ t , w ˈɪ θ ə ɹ ˈaʊ n d h ˈɛ d
+DUMMY1/LJ036-0104.wav|w ˈeɪ l i p ˈɪ k t ˈɔ z w ɔ l d .
+DUMMY1/LJ019-0055.wav|h ˈaɪ ə θ ˈɔ ɹ ɪ t i z w ɚ ˈɪ n f ˈeɪ v ɚ ə v k ə n t ˈɪ n j u ə s s ˌɛ p ɚ ˈeɪ ʃ ə n .
+DUMMY1/LJ010-0030.wav|ð ə b ɹ ˈu t ə l f ɚ ˈɑ s ə t i ə v ð ə w ˈaɪ l d b ˈi s t w ˈʌ n s ɚ ˈaʊ z d , ð ə s ˈeɪ m m ˈi n z , ð ə s ˈeɪ m w ˈɛ p ə n z w ɚ ɪ m p l ˈɔɪ d t ə d ˈu ð ə d ɹ ˈɛ d f ə l d ˈi d ,
+DUMMY1/LJ038-0047.wav|s ˈʌ m ə v ð ə ˈɔ f ɪ s ɚ z s ˈɔ ˈɔ z w ɔ l d s t ɹ ˈaɪ k m ə k d ˈɑ n ə l d w ˈɪ θ h ˈɪ z f ˈɪ s t . m ˈoʊ s t ə v ð ˈɛ m h ˈɚ d ə k l ˈɪ k w ˈɪ t͡ʃ ð ˈeɪ ə s ˈu m d t ə b ˈi ə k l ˈɪ k ə v ð ə h ˈæ m ɚ ə v ð ə ɹ ɪ v ˈɑ l v ɚ .
+DUMMY1/LJ009-0074.wav|l ˈɛ t ˈʌ s p ˈæ s ˈɔ n .
+DUMMY1/LJ048-0069.wav|ˈɛ f ɚ t s m ˈeɪ d b ˈaɪ ð ə b j ˈʊ ɹ oʊ s ˈɪ n s ð ə ə s ˌæ s ə n ˈeɪ ʃ ə n , ˈɔ n ð ə ˈʌ ð ɚ h ˈæ n d ,
+DUMMY1/LJ003-0211.wav|ð ˈeɪ w ɚ n ˈɛ v ɚ l ˈɛ f t k w ˈaɪ t ə l ˈoʊ n f ɚ f ˈɪ ɹ ə v s ˈu ɪ s ˌaɪ d , ˈæ n d f ɚ ð ə s ˈeɪ m ɹ ˈi z ə n ð ˈeɪ w ɚ s ˈɚ t͡ʃ t f ɚ w ˈɛ p ə n z ˈɔ ɹ p ˈɔɪ z ə n z .
+DUMMY1/LJ048-0053.wav|ˈɪ t ˈɪ z ð ə k ə ŋ k l ˈu ʒ ə n ə v ð ə k ə m ˈɪ ʃ ə n ð ˈæ t , ˈi v ə n ˈɪ n ð ə ˈæ b s ə n s ə v s ˈi k ɹ ɪ t s ˈɚ v ɪ s k ɹ aɪ t ˈɪ ɹ i ə
+DUMMY1/LJ033-0093.wav|f ɹ ˈeɪ ʒ ɚ ˈɛ s t ɪ m ˌeɪ t ɪ d ð ˈæ t ð ə b ˈæ ɡ w ə z t ˈu f ˈi t l ˈɔ ŋ , k w ˈoʊ t , ɡ ˈɪ v ˈæ n d t ˈeɪ k ə f j ˈu ˈɪ n t͡ʃ ɪ z , ˈɛ n d k w ˈoʊ t , ˈæ n d ə b ˈaʊ t f ˈaɪ v ˈɔ ɹ s ˈɪ k s ˈɪ n t͡ʃ ɪ z w ˈaɪ d .
+DUMMY1/LJ006-0149.wav|ð ə t ˈɚ ŋ k ˌaɪ z l ˈɛ f t ð ə p ɹ ˈɪ z n ɚ z v ˈɛ ɹ i m ˈʌ t͡ʃ t ə ð ə m s ˈɛ l v z , n ˈɛ v ɚ ˈɛ n t ɚ ɪ ŋ ð ə w ˈɔ ɹ d z ˈæ f t ɚ l ˈɑ k ɪ ŋ ˈʌ p t ˈaɪ m , ˈæ t d ˈʌ s k , t ˈɪ l ʌ n l ˈɑ k ɪ ŋ n ˈɛ k s t m ˈɔ ɹ n ɪ ŋ ,
+DUMMY1/LJ018-0211.wav|ð ə f ˈɔ l s k ˈɔɪ n w ə z b ˈɔ t b ˈaɪ ə n ˈeɪ d͡ʒ ə n t f ɹ ˈʌ m ə n ˈeɪ d͡ʒ ə n t , ˈæ n d d ˈi l ɪ ŋ z w ɚ k ˈɛ ɹ i d ˈɔ n s ˈi k ɹ ɪ t l i ˈæ t ð ə k l ˈɑ k h ˈaʊ s ˈɪ n s ˈɛ v ə n d ˈaɪ l z .
+DUMMY1/LJ008-0054.wav|ð ˈɪ s k ə n t ɹ ˈaɪ v ə n s ə p ˈɪ ɹ z t ə h ˈæ v b ˈɪ n k ˈɑ p i d w ˈɪ θ ɪ m p ɹ ˈu v m ə n t s f ɹ ˈʌ m ð ˈæ t w ˈɪ t͡ʃ h ˈæ d b ˈɪ n j ˈu s t ˈɪ n d ˈʌ b l ɪ n ˈæ t ə s t ˈɪ l ˈɚ l i ɚ d ˈeɪ t ,
+DUMMY1/LJ040-0052.wav|ð ˈæ t h ˈɪ z k ə m ˈɪ t m ə n t t ə m ˈɑ ɹ k s ɪ z ə m w ə z ə n ɪ m p ˈɔ ɹ t ə n t f ˈæ k t ɚ ˈɪ n f l ˌu ə n s ɪ ŋ h ˈɪ z k ˈɑ n d ʌ k t d ˈʊ ɹ ɪ ŋ h ˈɪ z ə d ˈʌ l t j ˈɪ ɹ z .
+DUMMY1/LJ028-0023.wav|t ˈu w ˈi k s p ˈæ s , ˈæ n d ˈæ t l ˈæ s t j ˈu s t ˈæ n d ˈɔ n ð ə ˈi s t ɚ n ˈɛ d͡ʒ ə v ð ə p l æ t ˈoʊ
+DUMMY1/LJ009-0184.wav|l ˈɔ ɹ d f ˈɛ ɹ ɚ z b ˈɑ d i w ə z b ɹ ˈɔ t t ə s ˈɚ d͡ʒ ə n z h ˈɔ l ˈæ f t ɚ ˌɛ k s ɪ k j ˈu ʃ ə n ˈɪ n h ˈɪ z ˈoʊ n k ˈɛ ɹ ɪ d͡ʒ ˈæ n d s ˈɪ k s ;
+DUMMY1/LJ005-0252.wav|ə k ə m ˈɪ t i w ə z ə p ˈɔɪ n t ɪ d , ˈʌ n d ɚ ð ə p ɹ ˈɛ z ɪ d ə n s i ə v ð ə d ˈu k ə v ɹ ˈɪ t͡ʃ m ə n d
+DUMMY1/LJ015-0266.wav|h ˈæ z p ɹ ˈɑ b ə b l i n ˈoʊ p ˈɛ ɹ ə l ˌɛ l ˈɪ n ð ə ˈæ n ə l z ə v k ɹ ˈaɪ m . s ˈaʊ ɚ d h ɪ m s ˈɛ l f ˈɪ z ə s t ɹ ˈaɪ k ɪ ŋ ˈæ n d ˈɪ n s ˈʌ m ɹ ɪ s p ˈɛ k t s ə n j u n ˈi k f ˈɪ ɡ j ɚ ˈɪ n k ɹ ˈɪ m ə n ə l h ˈɪ s t ɚ i .
+DUMMY1/LJ017-0059.wav|ˈi v ə n ˈæ f t ɚ s ˈɛ n t ə n s , ˈæ n d ʌ n t ˈɪ l w ɪ ð ˈɪ n ə f j ˈu ˈaʊ ɚ z ə v ˌɛ k s ɪ k j ˈu ʃ ə n , h ˈi w ə z b ˈu i d ˈʌ p w ˈɪ θ ð ə h ˈoʊ p ə v ɹ i p ɹ ˈi v .
+DUMMY1/LJ024-0034.wav|w ˈʌ t d ˈu ð ˈeɪ m ˈi n b ˈaɪ ð ə w ˈɚ d z p ˈæ k ɪ ŋ ð ə k ˈɔ ɹ t ?
+DUMMY1/LJ016-0089.wav|h ˈi w ə z ɪ ŋ ɡ ˈeɪ d͡ʒ d ˈɪ n w ˈaɪ t w ˈɔ ʃ ɪ ŋ ˈæ n d k l ˈi n ɪ ŋ ; ð ə ˈɔ f ɪ s ɚ h ˈu h ˈæ d h ˈɪ m ˈɪ n t͡ʃ ˈɑ ɹ d͡ʒ l ˈɛ f t h ˈɪ m ˈɔ n ð ə s t ˈɛ ɹ z l ˈi d ɪ ŋ t ə ð ə ɡ ˈæ l ɚ i .
+DUMMY1/LJ039-0227.wav|w ˈɪ θ t ˈu h ˈɪ t s , w ɪ ð ˈɪ n f ˈɔ ɹ p ˈɔɪ n t ˈeɪ t ˈæ n d f ˈaɪ v p ˈɔɪ n t s ˈɪ k s s ˈɛ k ə n d z .
+DUMMY1/LJ001-0096.wav|h ˈæ v n ˈaʊ k ˈʌ m ˈɪ n t u d͡ʒ ˈɛ n ɚ ə l j ˈu s ˈæ n d ˈɑ ɹ ˈɑ b v i ə s l i ə ɡ ɹ ˈeɪ t ɪ m p ɹ ˈu v m ə n t ˈɔ n ð ə ˈɔ ɹ d ɪ n ˌɛ ɹ i m ˈɑ d ɚ n s t ˈaɪ l ˈɪ n j ˈu s ˈɪ n ˈɪ ŋ ɡ l ə n d , w ˈɪ t͡ʃ ˈɪ z ˈɪ n f ˈæ k t ð ə b ˈoʊ d ə n i t ˈaɪ p
+DUMMY1/LJ018-0129.wav|h ˈu θ ɹ ˈɛ t ə n d t ə b ɪ t ɹ ˈeɪ ð ə θ ˈɛ f t . b ˈʌ t b ɹ ˈu ɚ , ˈi ð ɚ b ɪ f ˈɔ ɹ ˈɔ ɹ ˈæ f t ɚ ð ˈɪ s , s ə k ˈʌ m d t ə t ɛ m t ˈeɪ ʃ ə n ,
+DUMMY1/LJ010-0157.wav|ˈæ n d ð ˈæ t , ˈæ z h ˈi w ə z s t ˈɑ ɹ v ɪ ŋ , h ˈi h ˈæ d ɹ i z ˈɑ l v d ˈɔ n ð ˈɪ s d ˈɛ s p ɚ ɪ t d ˈi d ,
+DUMMY1/LJ038-0264.wav|h ˈi k ə ŋ k l ˈu d ɪ d ð ˈæ t , k w ˈoʊ t , ð ə d͡ʒ ˈɛ n ɚ ə l ɹ ˈaɪ f l ɪ ŋ k ˌɛ ɹ ɪ k t ɚ ˈɪ s t ɪ k s ə v ð ə ɹ ˈaɪ f ə l ˈɑ ɹ ə v ð ə s ˈeɪ m t ˈaɪ p ˈæ z ð ˈoʊ z f ˈaʊ n d ˈɔ n ð ə b ˈʊ l ɪ t
+DUMMY1/LJ031-0165.wav|w ˈɛ n s ɪ k j ˈʊ ɹ ɪ t i ɚ ˈeɪ n d͡ʒ m ə n t s ˈæ t ð ə ˈɛ ɹ p ˌɔ ɹ t w ɚ k ə m p l ˈi t , ð ə s ˈi k ɹ ɪ t s ˈɚ v ɪ s m ˈeɪ d ð ə n ˈɛ s ɪ s ˌɛ ɹ i ɚ ˈeɪ n d͡ʒ m ə n t s f ɚ ð ə v ˈaɪ s p ɹ ˈɛ z ɪ d ə n t t ə l ˈi v ð ə h ˈɔ s p ˌɪ t ə l .
+DUMMY1/LJ018-0244.wav|ð ə ɪ f ˈɛ k t ə v ɪ s t ˈæ b l ɪ ʃ ɪ ŋ ð ə f ˈɔ ɹ d͡ʒ ɚ i z w ˈʊ d b ˈi t ə ɹ ɪ s t ˈɔ ɹ t ə ð ə ɹ ˈu p ə l f ˈæ m ɪ l i l ˈæ n d z f ɚ w ˈɪ t͡ʃ ə p ɹ ˈaɪ s h ˈæ d ɔ l ɹ ˈɛ d i b ˈɪ n p ˈeɪ d
+DUMMY1/LJ007-0071.wav|ˈɪ n ð ə f ˈeɪ s ə v ɪ m p ˈɛ d ə m ə n t s k ˈɑ n f ˈɛ s ˈɛ d l i d ɪ s k ˈɚ ɪ d͡ʒ ɪ ŋ
+DUMMY1/LJ028-0340.wav|s ˈʌ t͡ʃ ə v ð ə b ˌæ b ə l ˈoʊ n i ə n z ˈæ z w ˈɪ t n ɪ s t ð ə t ɹ ˈɛ t͡ʃ ɚ i t ˈʊ k ɹ ˈɛ f j u d͡ʒ ˈɪ n ð ə t ˈɛ m p ə l ə v d͡ʒ ˈu p ɪ t ɚ b ˈɛ l ə s ;
+DUMMY1/LJ017-0164.wav|w ˈɪ θ ð ə aɪ d ˈi ə ə v s ə b d͡ʒ ˈɛ k t ɪ ŋ h ˈɚ t ə ð ə ˈɪ ɹ ə t ə n t p ˈɔɪ z ə n s l ˈoʊ l i b ˈʌ t ʃ ˈʊ ɹ l i ʌ n t ˈɪ l ð ə d ɪ z ˈaɪ ɚ d ɪ f ˈɛ k t , d ˈɛ θ , w ə z ə t͡ʃ ˈi v d .
+DUMMY1/LJ048-0197.wav|ˈaɪ ð ˈɛ n t ˈoʊ l d ð ə ˈɔ f ɪ s ɚ z ð ˈæ t ð ˈɛ ɹ p ɹ ˈaɪ m ˌɛ ɹ i d ˈu t i w ə z t ɹ ˈæ f ɪ k ˈæ n d k ɹ ˈaʊ d k ə n t ɹ ˈoʊ l ˈæ n d ð ˈæ t ð ˈeɪ ʃ ˈʊ d b ˈi ə l ˈɚ t f ɚ ˈɛ n i p ˈɚ s ə n z h ˈu m ˈaɪ t ə t ˈɛ m p t t ə θ ɹ ˈoʊ ˈɛ n i θ ˌɪ ŋ
+DUMMY1/LJ013-0098.wav|m ˈɪ s t ɚ ˈɑ k s ˈɛ n f ɚ d h ˈæ v ɪ ŋ d ɪ n ˈaɪ d ð ˈæ t h ˈi h ˈæ d m ˈeɪ d ˈɛ n i t ɹ ˈæ n s f ɚ ə v s t ˈɑ k , ð ə m ˈæ t ɚ w ə z ˈæ t w ˈʌ n s p ˈʊ t ˈɪ n t u ð ə h ˈæ n d z ə v ð ə p ə l ˈi s .
+DUMMY1/LJ012-0049.wav|l ˈɛ d h ˈɪ m t ə θ ˈɪ ŋ k s ˈɪ ɹ i ə s l i ə v t ɹ ˈaɪ ɪ ŋ h ˈɪ z f ˈɔ ɹ t͡ʃ u n z ˈɪ n ə n ˈʌ ð ɚ l ˈæ n d .
+DUMMY1/LJ030-0014.wav|k w ˈoʊ t , ð ˈæ t ð ə k ɹ ˈaʊ d w ə z ə b ˈaʊ t ð ə s ˈeɪ m ˈæ z ð ə w ˈʌ n w ˈɪ t͡ʃ k ˈeɪ m t ə s ˈi h ˈɪ m b ɪ f ˈɔ ɹ b ˈʌ t ð ˈɛ ɹ w ɚ w ˈʌ n h ˈʌ n d ɹ ɪ d θ ˈaʊ z ə n d ˈɛ k s t ɹ ə p ˈi p ə l ˈɔ n h ˈæ n d h ˈu k ˈeɪ m t ə s ˈi m ˈɪ s ɪ z k ˈɛ n ə d i .
+DUMMY1/LJ014-0186.wav|ə m ˈɪ l ɪ n ɚ z p ˈɔ ɹ t ɚ ,
+DUMMY1/LJ015-0027.wav|j ˈɛ t ˈi v ə n s ˈoʊ ˈɚ l i ˈæ z ð ə d ˈɛ θ ə v ð ə f ˈɚ s t s ˈɚ d͡ʒ ˈɑ n p ˈɔ l ,
+DUMMY1/LJ047-0049.wav|m ɚ ˈi n ə ˈɔ z w ɔ l d , h ˌaʊ ˈɛ v ɚ , ɹ ɪ k ˈɔ l d ð ˈæ t h ˈɚ h ˈʌ z b ə n d w ə z ʌ p s ˈɛ t b ˈaɪ ð ˈɪ s ˈɪ n t ɚ v j ˌu .
+DUMMY1/LJ012-0021.wav|ˈæ t f ˌɔ ɹ t ˈi n h ˈi w ə z ə p ˈɪ k p ˌɑ k ə t ˈæ n d ə d ˈʌ f ɚ , ˈɔ ɹ ə s ˈɛ l ɚ ə v ʃ ˈæ m ɡ ˈʊ d z .
+DUMMY1/LJ003-0140.wav|ˈʌ ð ɚ w ˌaɪ z h ˈi w ˈʊ d h ˈæ v b ˈɪ n s t ɹ ˈɪ p t ə v h ˈɪ z k l ˈoʊ ð z . ˈɛ n d k w ˈoʊ t .
+DUMMY1/LJ042-0130.wav|ʃ ˈɔ ɹ t l i ð ɛ ɹ ˈæ f t ɚ , l ˈɛ s ð ə n eɪ t ˈi n m ˈʌ n θ s ˈæ f t ɚ h ˈɪ z d ɪ f ˈɛ k ʃ ə n , ə b ˈaʊ t s ˈɪ k s w ˈi k s b ɪ f ˈɔ ɹ h ˈi m ˈɛ t m ɚ ˈi n ə p ɹ ˈu s ə k ˈoʊ v ə ,
+DUMMY1/LJ019-0180.wav|h ˈɪ z l ˈɛ t ɚ t ə ð ə k ˌɔ ɹ p ɚ ˈeɪ ʃ ə n , ˈʌ n d ɚ d ˈeɪ t f ˈɔ ɹ θ d͡ʒ ˈu n ,
+DUMMY1/LJ017-0108.wav|h ˈi w ə z s t ɹ ˈʌ k w ˈɪ θ ð ə ə p ˈɪ ɹ ə n s ə v ð ə k ˈɔ ɹ p s , w ˈɪ t͡ʃ w ə z n ˈɑ t ɪ m ˈeɪ ʃ i ˌeɪ t ɪ d , ˈæ z ˈæ f t ɚ ə l ˈɔ ŋ d ɪ z ˈi z ˈɛ n d ɪ ŋ ˈɪ n d ˈɛ θ ;
+DUMMY1/LJ006-0268.wav|w ˈɪ m ə n s ˈɔ m ˈɛ n ˈɪ f ð ˈeɪ m ˈɪ ɹ l i p ɹ i t ˈɛ n d ɪ d t ə b ˈi w ˈaɪ v z ; ˈi v ə n b ˈɔɪ z w ɚ v ˈɪ z ɪ t ɪ d b ˈaɪ ð ˈɛ ɹ s w ˈi t h ˌɑ ɹ t s .
+DUMMY1/LJ044-0125.wav|ə v ɹ ˈɛ z ɪ d ə n s ˈɪ n ð ə j ˈu ˈɛ s ˈɛ s ˈɑ ɹ ə ɡ ˈɛ n s t ˈɛ n i k ˈɔ z w ˈɪ t͡ʃ ˈaɪ d͡ʒ ˈɔɪ n , b ˈaɪ ə s ˌoʊ ʃ i ˈeɪ ʃ ə n ,
+DUMMY1/LJ015-0231.wav|ˈɪ t w ə z t ˈɛ s t ɚ z b ˈɪ z n ɪ s , h ˈu h ˈæ d ˈæ k s ˌɛ s t ə ð ə ɹ ˈeɪ l w ˌeɪ k ˈʌ m p ə n i z b ˈʊ k s , t ə w ˈɔ t͡ʃ f ɚ ð ˈɪ s .
+DUMMY1/LJ002-0225.wav|ð ə ɹ ˈɛ n t ə l z ə v ɹ ˈu m z ˈæ n d f ˈi z w ˈɛ n t t ə ð ə w ˈɔ ɹ d ə n , h ˈu z ˈɪ ŋ k ˌʌ m w ə z t ˈu θ ˈaʊ z ə n d θ ɹ ˈi h ˈʌ n d ɹ ɪ d s ˈɛ v ə n t i t ˈu p ˈaʊ n d z .
+DUMMY1/LJ034-0072.wav|ð ə ɪ m p l ˈɔɪ i z ɹ ˈeɪ s t ð ə ˈɛ l ə v ˌeɪ t ɚ z t ə ð ə f ˈɚ s t f l ˈɔ ɹ . ɡ ˈɪ v ə n z s ˈɔ ˈɔ z w ɔ l d s t ˈæ n d ɪ ŋ ˈæ t ð ə ɡ ˈeɪ t ˈɔ n ð ə f ˈɪ f θ f l ˈɔ ɹ ˈæ z ð ə ˈɛ l ə v ˌeɪ t ɚ w ˈɛ n t b ˈaɪ .
+DUMMY1/LJ045-0033.wav|h ˈi b ɪ ɡ ˈæ n t ə t ɹ ˈi t m ˈi b ˈɛ t ɚ . h ˈi h ˈɛ l p t m ˈi m ˈɔ ɹ ɔ l ð ˈoʊ h ˈi ˈɔ l w ˌeɪ z d ˈɪ d h ˈɛ l p . b ˈʌ t h ˈi w ə z m ˈɔ ɹ ə t ˈɛ n t ɪ v , ˈɛ n d k w ˈoʊ t .
+DUMMY1/LJ031-0058.wav|t ə ɪ n f j ˈu z b l ˈʌ d ˈæ n d f l ˈu ɪ d z ˈɪ n t u ð ə s ˈɚ k j ə l ə t ˌɔ ɹ i s ˈɪ s t ə m .
+DUMMY1/LJ029-0197.wav|d ˈʊ ɹ ɪ ŋ n oʊ v ˈɛ m b ɚ ð ə d ˈæ l ə s p ˈeɪ p ɚ z ɹ ɪ p ˈɔ ɹ t ɪ d f ɹ ˈi k w ə n t l i ˈɔ n ð ə p l ˈæ n z f ɚ p ɹ ə t ˈɛ k t ɪ ŋ ð ə p ɹ ˈɛ z ɪ d ə n t , s t ɹ ˈɛ s ɪ ŋ ð ə θ ˈɚ oʊ n ə s ə v ð ə p ɹ ˌɛ p ɚ ˈeɪ ʃ ə n z .
+DUMMY1/LJ043-0047.wav|ˈɔ z w ɔ l d ˈæ n d h ˈɪ z f ˈæ m ɪ l i l ˈɪ v d f ɚ ə b ɹ ˈi f p ˈɪ ɹ i ə d w ˈɪ θ h ˈɪ z m ˈʌ ð ɚ ˈæ t h ˈɚ ˈɚ d͡ʒ ɪ ŋ , b ˈʌ t ˈɔ z w ɔ l d s ˈu n d ɪ s ˈaɪ d ɪ d t ə m ˈu v ˈaʊ t .
+DUMMY1/LJ021-0026.wav|s ˈi m z n ˈɛ s ɪ s ˌɛ ɹ i t ə p ɹ ə d ˈu s ð ə s ˈeɪ m ɹ ɪ z ˈʌ l t ə v d͡ʒ ˈʌ s t ɪ s ˈæ n d ɹ ˈaɪ t k ˈɑ n d ʌ k t
+DUMMY1/LJ003-0230.wav|ð ə p ɹ ˈɪ z ə n ə l ˈaʊ ə n s ɪ z w ɚ ˈi k t ˈaʊ t b ˈaɪ ð ə b ɹ ˈoʊ k ə n v ˈɪ k t͡ʃ u ə l z d͡ʒ ˈɛ n ɚ ə s l i ɡ ˈɪ v ə n b ˈaɪ s ˈɛ v ɚ ə l ˈi t ɪ ŋ h ˈaʊ s k ˈi p ɚ z ˈɪ n ð ə s ˈɪ t i ,
+DUMMY1/LJ037-0252.wav|t ˈɛ d k ˈæ l ə w eɪ , h ˈu s ˈɔ ð ə ɡ ˈʌ n m ə n m ˈoʊ m ə n t s ˈæ f t ɚ ð ə ʃ ˈu t ɪ ŋ , t ˈɛ s t ɪ f ˌaɪ d ð ˈæ t k ə m ˈɪ ʃ ə n ɪ ɡ z ˈɪ b ɪ t n ˈʌ m b ɚ w ˈʌ n s ˈɪ k s t i t ˈu
+DUMMY1/LJ031-0008.wav|m ˈi n w ˌaɪ l , t͡ʃ ˈi f k ˈɚ i ˈɔ ɹ d ɚ d ð ə p ə l ˈi s b ˈeɪ s s t ˈeɪ ʃ ə n t ə n ˈoʊ t ɪ f ˌaɪ p ˈɑ ɹ k l ˌæ n d h ˈɔ s p ˌɪ t ə l ð ˈæ t ð ə w ˈu n d ɪ d p ɹ ˈɛ z ɪ d ə n t w ə z ˈɛ n ɹ ˈaʊ t .
+DUMMY1/LJ030-0021.wav|ˈɔ l w ˈʌ n h ˈæ d t ə d ˈu w ə z ɡ ˈɛ t ə h ˈaɪ b ˈɪ l d ɪ ŋ s ˈʌ m d ˌeɪ w ˈɪ θ ə t ˌɛ l ə s k ˈɔ p ɪ k ɹ ˈaɪ f ə l , ˈæ n d ð ˈɛ ɹ w ə z n ˈʌ θ ɪ ŋ ˈɛ n i b ə d i k ˈʊ d d ˈu t ə d ɪ f ˈɛ n d ə ɡ ˈɛ n s t s ˈʌ t͡ʃ ə n ə t ˈɛ m p t .
+DUMMY1/LJ046-0179.wav|b ˈi ɪ ŋ ɹ ɪ v j ˈu d ɹ ˈɛ ɡ j ə l ɚ l i .
+DUMMY1/LJ025-0118.wav|ˈæ n d ð ˈæ t , h ˌaʊ ˈɛ v ɚ d aɪ v ˈɚ s m ˈeɪ b ˈi ð ə f ˈæ b ɹ ɪ k s ˈɔ ɹ t ˈɪ ʃ u z ə v w ˈɪ t͡ʃ ð ˈɛ ɹ b ˈɑ d i z ˈɑ ɹ k ə m p ˈoʊ z d , ˈɔ l ð ˈi z v ˈɛ ɹ i d s t ɹ ˈʌ k t͡ʃ ɚ z ɹ ɪ z ˈʌ l t
+DUMMY1/LJ028-0278.wav|z ə p i ɹ ə s , w ˈɛ n ð ˈeɪ t ˈoʊ l d h ˈɪ m , n ˈɑ t θ ˈɪ ŋ k ɪ ŋ ð ˈæ t ˈɪ t k ˈʊ d b ˈi t ɹ ˈu , w ˈɛ n t ˈæ n d s ˈɔ ð ə k ˈoʊ l t w ˈɪ θ h ˈɪ z ˈoʊ n ˈaɪ z ;
+DUMMY1/LJ007-0090.wav|n ˈɑ t ˈoʊ n l i d ˈɪ d ð ˈɛ ɹ p ɹ ˈɛ z ə n s t ˈɛ n d ɡ ɹ ˈeɪ t l i t ə ˌɪ n t ɚ f ˈɪ ɹ w ˈɪ θ ð ə d ˈɪ s ə p l ə n ə v ð ə p ɹ ˈɪ z ə n , b ˈʌ t ð ˈɛ ɹ k ə n d ˈɪ ʃ ə n w ə z d ɪ p l ˈɔ ɹ ə b ə l ˈɪ n ð ə ɪ k s t ɹ ˈi m .
+DUMMY1/LJ045-0045.wav|ð ˈæ t ʃ ˈi w ˈʊ d b ˈi ˈeɪ b ə l t ə l ˈi v ð ə s ˈoʊ v i ə t j ˈu n j ə n . m ɚ ˈi n ə ˈɔ z w ɔ l d h ˈæ z d ɪ n ˈaɪ d ð ˈɪ s .
+DUMMY1/LJ028-0289.wav|f ɚ h ˈi k ˈʌ t ˈɔ f h ˈɪ z ˈoʊ n n ˈoʊ z ˈæ n d ˈɪ ɹ z , ˈæ n d ð ˈɛ n , k l ˈɪ p ɪ ŋ h ˈɪ z h ˈɛ ɹ k l ˈoʊ s ˈæ n d f l ˈɑ ɡ ɪ ŋ h ɪ m s ˈɛ l f w ˈɪ θ ə s k ˈɚ d͡ʒ ,
+DUMMY1/LJ009-0276.wav|k ˈæ l k ɹ ˌæ f t , ð ə m ˈoʊ m ə n t h ˈi h ˈæ d ə d͡ʒ ˈʌ s t ɪ d ð ə k ˈæ p ˈæ n d ɹ ˈoʊ p , ɹ ˈæ n d ˈaʊ n ð ə s t ˈɛ p s , d ɹ ˈu ð ə b ˈoʊ l t , ˈæ n d d ˌɪ s ə p ˈɪ ɹ d .
+DUMMY1/LJ031-0122.wav|t ɹ ˈi t ɪ d ð ə ɡ ˈʌ n ʃ ˌɑ t w ˈu n d ˈɪ n ð ə l ˈɛ f t θ ˈaɪ .
+DUMMY1/LJ016-0205.wav|h ˈi ɹ ɪ s ˈi v d ə ɹ ɪ t ˈeɪ n ɪ ŋ f ˈi ə v f ˈaɪ v p ˈaʊ n d z , f ˈaɪ v ʃ ˈɪ l ɪ ŋ z , w ˈɪ θ ð ə j ˈu ʒ u ə l ɡ ˈɪ n i f ɚ ˈi t͡ʃ d͡ʒ ˈɑ b ;
+DUMMY1/LJ019-0248.wav|l ˈi d ɪ ŋ t ə ə n ˌɪ n ɪ k w ˈɑ l ə t i , ʌ n s ˈɚ t ə n t i , ˈæ n d ɪ n ɪ f ˈɪ ʃ ə n s i ə v p ˈʌ n ɪ ʃ m ə n t p ɹ ə d ˈʌ k t ɪ v ə v ð ə m ˈoʊ s t p ɹ ˌɛ d͡ʒ ə d ˈɪ ʃ ə l ɹ ɪ z ˈʌ l t s .
+DUMMY1/LJ033-0183.wav|ˈɪ t w ə z n ˈɑ t s ə p ɹ ˈaɪ z ɪ ŋ ð ˈæ t ð ə ɹ ˈɛ p l ɪ k ə s ˈæ k m ˈeɪ d ˈɔ n d ɪ s ˈɛ m b ɚ w ˈʌ n , n ˈaɪ n t ˈi n s ˈɪ k s t i θ ɹ ˈi ,
+DUMMY1/LJ037-0001.wav|ɹ ɪ p ˈɔ ɹ t ə v ð ə p ɹ ˈɛ z ɪ d ə n t s k ə m ˈɪ ʃ ə n ˈɔ n ð ə ə s ˌæ s ə n ˈeɪ ʃ ə n ə v p ɹ ˈɛ z ɪ d ə n t k ˈɛ n ə d i . ð ə w ˈɔ ɹ ə n k ə m ˈɪ ʃ ə n ɹ ɪ p ˈɔ ɹ t . b ˈaɪ ð ə p ɹ ˈɛ z ɪ d ə n t s k ə m ˈɪ ʃ ə n ˈɔ n ð ə ə s ˌæ s ə n ˈeɪ ʃ ə n ə v p ɹ ˈɛ z ɪ d ə n t k ˈɛ n ə d i .
+DUMMY1/LJ018-0218.wav|ˈɪ n eɪ t ˈi n f ˈɪ f t i f ˈaɪ v
+DUMMY1/LJ001-0102.wav|h ˈɪ ɹ ˈæ n d ð ˈɛ ɹ ə b ˈʊ k ˈɪ z p ɹ ˈɪ n t ɪ d ˈɪ n f ɹ ˈæ n s ˈɔ ɹ d͡ʒ ˈɚ m ə n i w ˈɪ θ s ˈʌ m p ɹ i t ˈɛ n ʃ ə n t ə ɡ ˈʊ d t ˈeɪ s t ,
+DUMMY1/LJ007-0125.wav|ˈɪ t w ə z d ɪ v ˈɚ t ɪ d f ɹ ˈʌ m ˈɪ t s p ɹ ˈɑ p ɚ j ˈu z ɪ z , ˈæ n d , ˈæ z ð ə p l ˈeɪ s ə v ð ə ɡ ɹ ˈeɪ t ɪ s t k ˈʌ m f ɚ t , w ə z ə l ˈɑ t ɪ d t ə p ˈɚ s ə n z h ˈu ʃ ˈʊ d n ˈɑ t h ˈæ v b ˈɪ n s ˈɛ n t t ə n ˈu ɡ eɪ t ˈæ t ˈɔ l .
+DUMMY1/LJ050-0022.wav|ə f ˈɔ ɹ m ə l ˈæ n d θ ˈɚ oʊ d ɪ s k ɹ ˈɪ p ʃ ə n ə v ð ə ɹ i s p ˌɑ n s ɪ b ˈɪ l ə t i z ə v ð ə ə d v ˈæ n s ˈeɪ d͡ʒ ə n t ˈɪ z n ˈaʊ ˈɪ n p ɹ ˌɛ p ɚ ˈeɪ ʃ ə n b ˈaɪ ð ə s ˈɚ v ɪ s .
+DUMMY1/LJ028-0212.wav|ˈɔ n ð ə n ˈaɪ t ə v ð ə ɪ l ˈɛ v ə n θ d ˈeɪ ɡ ˈɑ b ɹ i ə z k ˈɪ l d ð ə s ˈʌ n ə v ð ə k ˈɪ ŋ .
+DUMMY1/LJ028-0357.wav|j ˈɛ t w ˈi m ˈeɪ b ˈi ʃ ˈʊ ɹ ð ˈæ t b ˈæ b ə l ˌɑ n w ə z t ˈeɪ k ə n b ˈaɪ d ɚ ˈaɪ ə s ˈoʊ n l i b ˈaɪ j ˈu s ə v s t ɹ ˈæ t ɪ d͡ʒ ə m . ˈɪ t s w ˈɔ l z w ɚ ɪ m p ɹ ˈɛ ɡ n ə b ə l .
+DUMMY1/LJ014-0199.wav|ð ˈɛ ɹ w ə z n ˈoʊ k ˈeɪ s t ə m ˈeɪ k ˈaʊ t ; w ˈaɪ w ˈeɪ s t m ˈʌ n i ˈɔ n l ˈɔɪ ɚ z f ɚ ð ə d ɪ f ˈɛ n s ? h ˈɪ z d ɪ m ˈi n ɚ w ə z k ˈu l ˈæ n d k ə l ˈɛ k t ɪ d θ ɹ u ˈaʊ t ;
+DUMMY1/LJ016-0077.wav|ə m ˈæ n n ˈeɪ m d l ˈɛ ɹ z , ˈʌ n d ɚ s ˈɛ n t ə n s ə v t ɹ ˌæ n s p ɚ t ˈeɪ ʃ ə n f ɚ ə n ə t ˈɛ m p t ˈæ t m ˈɚ d ɚ ˈɔ n b ˈɔ ɹ d ʃ ˈɪ p , ɡ ˈɑ t ˈʌ p p ˈɑ ɹ t ə v ð ə w ˈeɪ ,
+DUMMY1/LJ009-0194.wav|ˈæ n d ð ˈæ t ɪ ɡ z ˈɛ k j ə t ɚ z ˈɔ ɹ p ˈɚ s ə n z h ˈæ v ɪ ŋ l ˈɔ f ə l p ə z ˈɛ ʃ ə n ə v ð ə b ˈɑ d i z
+DUMMY1/LJ014-0094.wav|d ɪ s k ˈʌ v ɚ i ə v ð ə m ˈɚ d ɚ k ˈeɪ m ˈɪ n ð ˈɪ s w ˈaɪ z . oʊ k ˈɑ n ɚ , ə p ˈʌ ŋ k t͡ʃ u ə l ˈæ n d w ˈɛ l k ə n d ˈʌ k t ɪ d ə f ˈɪ ʃ ə l , w ə z ˈæ t w ˈʌ n s m ˈɪ s t ˈæ t ð ə l ˈʌ n d ə n d ˈɑ k s .
+DUMMY1/LJ001-0079.wav|k ˈæ s l ə n z t ˈaɪ p ˈɪ z k l ˈɪ ɹ ˈæ n d n ˈi t , ˈæ n d f ˈɛ ɹ l i w ˈɛ l d ɪ z ˈaɪ n d ;
+DUMMY1/LJ026-0052.wav|ˈɪ n ð ə n u t ɹ ˈɪ ʃ ə n ə v ð ə ˈæ n ə m ə l ð ə m ˈoʊ s t ɪ s ˈɛ n ʃ ə l ˈæ n d k ˌɛ ɹ ɪ k t ɚ ˈɪ s t ɪ k p ˈɑ ɹ t ə v ð ə f ˈu d s ə p l ˈaɪ ˈɪ z d ɪ ɹ ˈaɪ v d f ɹ ˈʌ m v ˈɛ d͡ʒ t ə b ə l
+DUMMY1/LJ013-0005.wav|w ˈʌ n ə v ð ə ˈɚ l i ɪ s t ə v ð ə b ˈɪ ɡ ˈɑ p ɚ ˌeɪ t ɚ z ˈɪ n f ɹ ˈɔ d͡ʒ ə l ə n t f ɪ n ˈæ n s w ə z ˈɛ d w ɚ d b ˈoʊ m ɔ n t s m ˈɪ θ ,
+DUMMY1/LJ033-0072.wav|ˈaɪ ð ˈɛ n s t ˈɛ p t ˈɔ f ə v ˈɪ t ˈæ n d ð ə ˈɔ f ɪ s ɚ p ˈɪ k t ˈɪ t ˈʌ p ˈɪ n ð ə m ˈɪ d ə l ˈæ n d ˈɪ t b ˈɛ n t s ˈoʊ .
+DUMMY1/LJ036-0067.wav|ə k ˈɔ ɹ d ɪ ŋ t ə m ə k w ˈɔ t ɚ z , ð ə b ˈɛ k l i b ˈʌ s w ə z b ɪ h ˈaɪ n d ð ə m ɑ ɹ s ˈɑ l ˌɪ s b ˈʌ s , b ˈʌ t h ˈi d ˈɪ d n ˈɑ t ˈæ k t͡ʃ ə l i s ˈi ˈɪ t .
+DUMMY1/LJ025-0098.wav|ˈæ n d ˈɪ t ˈɪ z p ɹ ˈɑ b ə b ə l ð ˈæ t ˈæ m ɪ l ˌɔɪ d s ˈʌ b s t ə n s ɪ z ˈɑ ɹ j ˌu n ə v ˈɚ s ə l i p ɹ ˈɛ z ə n t ˈɪ n ð ə ˈæ n ə m ə l ˈɔ ɹ ɡ ə n ˌɪ z ə m , ð ˈoʊ n ˈɑ t ˈɪ n ð ə p ɹ ɪ s ˈaɪ s f ˈɔ ɹ m ə v s t ˈɑ ɹ t͡ʃ .
+DUMMY1/LJ005-0257.wav|d ˈʊ ɹ ɪ ŋ w ˈɪ t͡ʃ t ˈaɪ m ə h ˈoʊ s t ə v w ˈɪ t n ɪ s ɪ z w ɚ ɪ ɡ z ˈæ m ə n d , ˈæ n d ð ə k ə m ˈɪ t i p ɹ ɪ z ˈɛ n t ɪ d θ ɹ ˈi s ˈɛ p ɚ ɪ t ɹ ɪ p ˈɔ ɹ t s ,
+DUMMY1/LJ004-0024.wav|ð ˈʌ s ˈɪ n eɪ t ˈi n θ ˈɚ t ˈi n ð ə ɪ ɡ z ˈæ k ʃ ə n ə v d͡ʒ ˈeɪ l f ˈi z h ˈæ d b ˈɪ n f ɚ b ˈɪ d ə n b ˈaɪ l ˈɔ ,
+DUMMY1/LJ049-0154.wav|ˈɪ n eɪ t ˈi n n ˈaɪ n t i f ˈɔ ɹ ,
+DUMMY1/LJ039-0059.wav|θ ɹ ˈi h ˈɪ z ɪ k s p ˈɪ ɹ i ə n s ˈæ n d p ɹ ˈæ k t ɪ s ˈæ f t ɚ l ˈi v ɪ ŋ ð ə m ɚ ˈi n k ˈɔ ɹ , ˈæ n d f ˈɔ ɹ ð ə ˈæ k j ɚ ə s i ə v ð ə w ˈɛ p ə n ˈæ n d ð ə k w ˈɑ l ə t i ə v ð ə ˌæ m j ə n ˈɪ ʃ ə n .
+DUMMY1/LJ007-0150.wav|h ˈi ˈɪ z ə l ˈaʊ d ˈɪ n t ɚ k ˌɔ ɹ s w ˈɪ θ p ɹ ˈɑ s t ə t ˌu t s h ˈu , ˈɪ n n ˈaɪ n k ˈeɪ s ɪ z ˈaʊ t ə v t ˈɛ n , h ˈæ v ɚ ˈɪ d͡ʒ ə n ə l i k ˈɑ n d ˈu s t t ə h ˈɪ z ɹ ˈu ɪ n ;
+DUMMY1/LJ015-0001.wav|k ɹ ˈɑ n ɪ k ə l z ə v n ˈu ɡ eɪ t , v ˈɑ l j u m t ˈu . b ˈaɪ ˈɑ ɹ θ ɚ ɡ ɹ ˈɪ f ɪ θ s . s ˈɛ k ʃ ə n eɪ t ˈi n : n ˈu ɡ eɪ t n ˈoʊ t ɚ i t i z k ə n t ˈɪ n j u d , p ˈɑ ɹ t θ ɹ ˈi .
+DUMMY1/LJ010-0158.wav|f ˈi l ɪ ŋ , ˈæ z h ˈi s ˈɛ d , ð ˈæ t h ˈi m ˈaɪ t ˈæ z w ˈɛ l b ˈi ʃ ˈɑ t ˈɔ ɹ h ˈæ ŋ d ˈæ z ɹ ɪ m ˈeɪ n ˈɪ n s ˈʌ t͡ʃ ə s t ˈeɪ t .
+DUMMY1/LJ010-0281.wav|h ˈu h ˈæ d b ˈɔ ɹ n ð ə k w ˈi n z k ə m ˈɪ ʃ ə n , f ˈɚ s t ˈæ z k ɔ ɹ n ˈɛ t , ˈæ n d ð ˈɛ n l u t ˈɛ n ə n t , ˈɪ n ð ə t ˈɛ n θ h ˈʌ s ɚ z .
+DUMMY1/LJ033-0055.wav|ˈæ n d h ˈi k ˈʊ d d ˌɪ s ə s ˈɛ m b ə l ˈɪ t m ˈɔ ɹ ɹ ˈæ p ɪ d l i .
+DUMMY1/LJ015-0218.wav|ə n j ˈu ə k ˈɑ m p l ɪ s w ə z n ˈaʊ n ˈi d ɪ d w ɪ ð ˈɪ n ð ə k ˈʌ m p ə n i z ɪ s t ˈæ b l ɪ ʃ m ə n t , ˈæ n d p ˈɪ ɹ s l ˈʊ k t ə b ˈaʊ t l ˈɔ ŋ b ɪ f ˈɔ ɹ h ˈi f ˈaʊ n d ð ə ɹ ˈaɪ t p ˈɚ s ə n .
+DUMMY1/LJ027-0006.wav|ˈɪ n ˈɔ l ð ˈi z l ˈaɪ n z ð ə f ˈæ k t s ˈɑ ɹ d ɹ ˈɔ n t ə ɡ ˈɛ ð ɚ b ˈaɪ ə s t ɹ ˈɔ ŋ θ ɹ ˈɛ d ə v j ˈu n ɪ t i .
+DUMMY1/LJ016-0049.wav|h ˈi h ˈæ d h ˈɪ ɹ k ə m p l ˈi t ɪ d h ˈɪ z ə s ˈɛ n t .
+DUMMY1/LJ006-0088.wav|ˈɪ t w ə z n ˈɑ t l ˈaɪ k l i ð ˈæ t ə s ˈɪ s t ə m w ˈɪ t͡ʃ l ˈɛ f t ˈɪ n ə s ə n t m ˈɛ n f ɚ ð ə ɡ ɹ ˈeɪ t b ˈʌ l k ə v n j ˈu ɚ ˈaɪ v ə l z w ɚ s t ˈɪ l ʌ n t ɹ ˈaɪ d
+DUMMY1/LJ042-0133.wav|ə ɡ ɹ ˈeɪ t t͡ʃ ˈeɪ n d͡ʒ m ˈʌ s t h ˈæ v ə k ˈɚ d ˈɪ n ˈɔ z w ɔ l d z θ ˈɪ ŋ k ɪ ŋ t ə ɪ n d ˈu s h ˈɪ m t ə ɹ ɪ t ˈɚ n t ə ð ə j u n ˈaɪ t ɪ d s t ˈeɪ t s .
+DUMMY1/LJ045-0234.wav|w ˈaɪ l h ˈi d ˈɪ d b ɪ k ˈʌ m ɪ n ɹ ˈeɪ d͡ʒ d ˈæ t ˈæ t l ˈi s t w ˈʌ n p ˈɔɪ n t ˈɪ n h ˈɪ z ɪ n t ˌɛ ɹ ə ɡ ˈeɪ ʃ ə n ,
+DUMMY1/LJ046-0033.wav|ð ə ˈæ d ə k w ə s i ə v ɪ ɡ z ˈɪ s t ɪ ŋ p ɹ oʊ s ˈi d͡ʒ ɚ z k ə n f ˈɛ ɹ l i b ˈi ə s ˈɛ s t ˈoʊ n l i ˈæ f t ɚ f ˈʊ l k ə n s ˌɪ d ɚ ˈeɪ ʃ ə n ə v ð ə d ˈɪ f ɪ k ʌ l t i ə v ð ə p ɹ ə t ˈɛ k t ɪ v ə s ˈaɪ n m ə n t ,
+DUMMY1/LJ037-0061.wav|ˈæ n d h ˈæ v ɪ ŋ , k w ˈoʊ t , s ˈʌ m w ˈʌ t b ˈʊ ʃ i , ˈɛ n d k w ˈoʊ t , h ˈɛ ɹ .
+DUMMY1/LJ032-0025.wav|ð ə ˈɔ f ɪ s ɚ z ə v k l ˈaɪ n z d ɪ s k ˈʌ v ɚ d ð ˈæ t ə ɹ ˈaɪ f ə l b ˈɛ ɹ ɪ ŋ s ˈɪ ɹ i ə l n ˈʌ m b ɚ s ˈi t ˈu s ˈɛ v ə n s ˈɪ k s s ˈɪ k s h ˈæ d b ˈɪ n ʃ ˈɪ p t t ə w ˈʌ n ˈeɪ h ˈaɪ d ə l ,
+DUMMY1/LJ047-0197.wav|ˈɪ n v j ˈu ə v ˈɔ l ð ə ˌɪ n f ɔ ɹ m ˈeɪ ʃ ə n k ə n s ˈɚ n ɪ ŋ ˈɔ z w ɔ l d ˈɪ n ˈɪ t s f ˈaɪ l z , ʃ ˈʊ d h ˈæ v ə l ˈɚ t ɪ d ð ə s ˈi k ɹ ɪ t s ˈɚ v ɪ s t ə ˈɔ z w ɔ l d z p ɹ ˈɛ z ə n s ˈɪ n d ˈæ l ə s
+DUMMY1/LJ018-0130.wav|ˈæ n d s t ˈoʊ l p ˈeɪ p ɚ ˈɔ n ə m ˈʌ t͡ʃ l ˈɑ ɹ d͡ʒ ɚ s k ˈeɪ l ð ə n b ɹ ˈaʊ n .
+DUMMY1/LJ005-0265.wav|ˈɪ t w ə z ɹ ˌɛ k ə m ˈɛ n d ɪ d ð ˈæ t ð ə d ˈi t ˈɑ ɹ i z ʃ ˈʊ d b ˈi s ʌ b m ˈɪ t ɪ d ˈæ n d ə p ɹ ˈu v d l ˈaɪ k ð ə ɹ ˈu l z ; ð ˈæ t k ə n v ˈɪ k t ɪ d p ɹ ˈɪ z n ɚ z ʃ ˈʊ d n ˈɑ t ɹ ɪ s ˈi v ˈɛ n i f ˈu d b ˈʌ t ð ə d͡ʒ ˈeɪ l ə l ˈaʊ ə n s ;
+DUMMY1/LJ044-0105.wav|h ˈi p ɹ ɪ z ˈɛ n t ɪ d ˈɑ ɹ n ə l d d͡ʒ ˈɑ n s ə n , ɡ ˈʌ s h ˈɔ l ,
+DUMMY1/LJ015-0043.wav|ð ˈɪ s w ˈɛ n t ˈɔ n f ɚ s ˈʌ m t ˈaɪ m , ˈæ n d m ˈaɪ t n ˈɛ v ɚ h ˈæ v b ˈɪ n d ɪ s k ˈʌ v ɚ d h ˈæ d s ˈʌ m ɡ ˈʊ d s t ɹ ˈoʊ k ə v l ˈʌ k p ɹ ə v ˈaɪ d ɪ d ˈɛ n i ə v ð ə p ˈɑ ɹ t n ɚ z
+DUMMY1/LJ030-0125.wav|ˈɔ n s ˈɛ v ɚ ə l ɔ k ˈeɪ ʒ ə n z w ˈɛ n ð ə v ˈaɪ s p ɹ ˈɛ z ɪ d ə n t s k ˈɑ ɹ w ə z s l ˈoʊ d d ˈaʊ n b ˈaɪ ð ə θ ɹ ˈɔ ŋ , s p ˈɛ ʃ ə l ˈeɪ d͡ʒ ə n t j ˈʌ ŋ b l ˌʌ d s t ˈɛ p t ˈaʊ t t ə h ˈoʊ l d ð ə k ɹ ˈaʊ d b ˈæ k .
+DUMMY1/LJ043-0140.wav|h ˈi ˈɔ l s oʊ s t ˈʌ d i d d ˈæ l ə s b ˈʌ s s k ˈɛ d͡ʒ u l z t ə p ɹ i p ˈɛ ɹ f ɚ h ˈɪ z l ˈeɪ t ɚ j ˈu s ə v b ˈʌ s ɪ z t ə t ɹ ˈæ v ə l t ə ˈæ n d f ɹ ˈʌ m d͡ʒ ˈɛ n ɚ ə l w ˈɔ k ɚ z h ˈaʊ s .
+DUMMY1/LJ002-0220.wav|ˈɪ n k ˈɑ n s ə k w ə n s ə v ð ˈi z d ɪ s k l ˈoʊ ʒ ɚ z , b ˈoʊ θ b ˈæ m b ɹ ˈɪ d͡ʒ ˈæ n d h ˈʌ ɡ ɪ n , h ˈɪ z p ɹ ˈɛ d ə s ˌɛ s ɚ ˈɪ n ð ə ˈɔ f ɪ s , w ɚ k ə m ˈɪ t ɪ d t ə n ˈu ɡ eɪ t ,
+DUMMY1/LJ034-0117.wav|ˈæ t ˈoʊ n ˈɛ t w ˈɛ n t i n ˈaɪ n p ˈi ˈɛ m ð ə p ə l ˈi s ɹ ˈeɪ d i oʊ ɹ ɪ p ˈɔ ɹ t ɪ d
+DUMMY1/LJ018-0276.wav|ð ə f ˈɚ s t p l ˈɑ t w ə z ə ɡ ˈɛ n s t m ˈɪ s t ɚ h ˈɛ ɹ i ɪ m ˈæ n j u ə l , b ˈʌ t h ˈi ɪ s k ˈeɪ p t , ˈæ n d ð ə ə t ˈɛ m p t w ə z m ˈeɪ d ə p ˈɑ n l ˈaʊ d ə n ˈæ n d ɹ ˈaɪ d ɚ .
+DUMMY1/LJ004-0077.wav|n ˈɔ ɹ h ˈæ z h ˈi ə ɹ ˈaɪ t t ə p ˈɔɪ z ə n ˈɔ ɹ s t ˈɑ ɹ v h ˈɪ z f ˈɛ l oʊ k ɹ ˈi t͡ʃ ɚ z .
+DUMMY1/LJ042-0194.wav|ð ˈeɪ ʃ ˈʊ d n ˈɑ t b ˈi k ə n f j ˈu z d w ˈɪ θ s l ˈoʊ n ə s , ɪ n d ɪ s ˈɪ ʒ ə n ˈɔ ɹ f ˈɪ ɹ . ˈoʊ n l i ð ə ˌɪ n t ə l ˈɛ k t͡ʃ u l i f ˈɪ ɹ l ə s k ˈʊ d ˈi v ə n b ˈi ɹ i m ˈoʊ t l i ə t ɹ ˈæ k t ɪ d t ə ˈaʊ ɚ d ˈɑ k t ɹ ɪ n ,
+DUMMY1/LJ029-0114.wav|ð ə ɹ ˈaʊ t t͡ʃ ˈoʊ z ə n f ɹ ˈʌ m ð ə ˈɛ ɹ p ˌɔ ɹ t t ə m ˈeɪ n s t ɹ ˈi t w ə z ð ə n ˈɔ ɹ m ə l w ˈʌ n , ɪ k s ˈɛ p t w ˈɛ ɹ h ˈɑ ɹ w ˌʊ d s t ɹ ˈi t w ə z s ə l ˈɛ k t ɪ d ˈæ z ð ə m ˈi n z ə v ˈæ k s ˌɛ s t ə m ˈeɪ n s t ɹ ˈi t
+DUMMY1/LJ014-0194.wav|ð ə p ə l ˈi s m ɪ n w ɚ n ˈaʊ ˈɪ n p ə z ˈɛ ʃ ə n ;
+DUMMY1/LJ032-0027.wav|ə k ˈɔ ɹ d ɪ ŋ t ə ˈɪ t s m ˈaɪ k ɹ oʊ f ˌɪ l m ɹ ˈɛ k ɚ d z , k l ˈaɪ n z ɹ ɪ s ˈi v d ə n ˈɔ ɹ d ɚ f ɚ ə ɹ ˈaɪ f ə l ˈɔ n m ˈɑ ɹ t͡ʃ θ ˈɚ t ˈi n , n ˈaɪ n t ˈi n s ˈɪ k s t i θ ɹ ˈi ,
+DUMMY1/LJ048-0289.wav|h ˌaʊ ˈɛ v ɚ , ð ˈɛ ɹ ˈɪ z n ˈoʊ ˈɛ v ə d ə n s ð ˈæ t ð ˈi z m ˈɛ n f ˈeɪ l d t ə t ˈeɪ k ˈɛ n i ˈæ k ʃ ə n ˈɪ n d ˈæ l ə s w ɪ ð ˈɪ n ð ˈɛ ɹ p ˈaʊ ɚ ð ˈæ t w ˈʊ d h ˈæ v ə v ˈɚ t ɪ d ð ə t ɹ ˈæ d͡ʒ ə d i .
+DUMMY1/LJ043-0188.wav|ð ˈæ t h ˈi w ə z ð ə l ˈi d ɚ ə v ə f ˈæ ʃ ɪ s t ˌɔ ɹ ɡ ə n ə z ˈeɪ ʃ ə n , ˈæ n d w ˈɛ n ˈaɪ s ˈɛ d ð ˈæ t ˈi v ə n ð ˈoʊ ˈɔ l ə v ð ˈæ t m ˈaɪ t b ˈi t ɹ ˈu , d͡ʒ ˈʌ s t ð ə s ˈeɪ m h ˈi h ˈæ d n ˈoʊ ɹ ˈaɪ t t ə t ˈeɪ k h ˈɪ z l ˈaɪ f ,
+DUMMY1/LJ011-0118.wav|ˈɪ n eɪ t ˈi n t w ˈɛ n t i n ˈaɪ n ð ə ɡ ˈæ l oʊ z k l ˈeɪ m d t ˈu m ˈɔ ɹ v ˈɪ k t ɪ m z f ɚ ð ˈɪ s ə f ˈɛ n s .
+DUMMY1/LJ040-0201.wav|ˈæ f t ɚ h ˈɚ ˈɪ n t ɚ v j ˌu w ˈɪ θ m ˈɪ s ɪ z ˈɔ z w ɔ l d ,
+DUMMY1/LJ033-0056.wav|w ˈaɪ l ð ə ɹ ˈaɪ f ə l m ˈeɪ h ˈæ v ɔ l ɹ ˈɛ d i b ˈɪ n d ˌɪ s ə s ˈɛ m b ə l d w ˈɛ n ˈɔ z w ɔ l d ɚ ˈaɪ v d h ˈoʊ m ˈɔ n θ ˈɚ z d ˌeɪ , h ˈi h ˈæ d ˈæ m p ə l t ˈaɪ m ð ˈæ t ˈi v n ɪ ŋ t ə d ˌɪ s ə s ˈɛ m b ə l ð ə ɹ ˈaɪ f ə l
+DUMMY1/LJ047-0073.wav|h ˈɑ s t i k ə n s ˈɪ d ɚ d ð ə ˌɪ n f ɔ ɹ m ˈeɪ ʃ ə n t ə b ˈi , k w ˈoʊ t , s t ˈeɪ l , ˈʌ ŋ k w ˈoʊ t , b ˈaɪ ð ˈæ t t ˈaɪ m , ˈæ n d d ˈɪ d n ˈɑ t ə t ˈɛ m p t t ə v ˈɛ ɹ ə f ˌaɪ ˈɔ z w ɔ l d z ɹ ɪ p ˈɔ ɹ t ɪ d s t ˈeɪ t m ə n t .
+DUMMY1/LJ001-0153.wav|ˈoʊ n l i n ˈɑ m ə n ə l i s ˈoʊ , h ˌaʊ ˈɛ v ɚ , ˈɪ n m ˈɛ n i k ˈeɪ s ɪ z , s ˈɪ n s w ˈɛ n h ˈi j ˈu z ɪ z ə h ˈɛ d l ˌaɪ n h ˈi k ˈaʊ n t s ð ˈæ t ˈɪ n ,
+DUMMY1/LJ007-0158.wav|ˈɔ ɹ ˈɛ n i k ˈaɪ n d ə v m ˈɔ ɹ ə l ɪ m p ɹ ˈu v m ə n t w ə z ɪ m p ˈɑ s ɪ b ə l ; ð ə p ɹ ˈɪ z ə n ɚ z k ɚ ˈɪ ɹ w ə z ɪ n ˈɛ v ə t ə b l i d ˈaʊ n w ɚ d , t ˈɪ l h ˈi s t ɹ ˈʌ k ð ə l ˈoʊ ɪ s t d ˈɛ p θ s .
+DUMMY1/LJ028-0502.wav|ð ə ˈɪ ʃ t ɑ ɹ ɡ ˈeɪ t w ˌeɪ l ˈi d ɪ ŋ t ə ð ə p ˈæ l ɪ s w ə z ɪ ŋ k ˈeɪ s t w ˈɪ θ b j ˈu t ɪ f ə l b l ˈu ɡ l ˈeɪ z d b ɹ ˈɪ k s ,
+DUMMY1/LJ028-0226.wav|ð ˈoʊ h ˈɛ ɹ oʊ d ə t ə s ɹ ˈoʊ t n ˈɪ ɹ l i ə h ˈʌ n d ɹ ɪ d j ˈɪ ɹ z ˈæ f t ɚ b ˈæ b ə l ˌɑ n f ˈɛ l , h ˈɪ z s t ˈɔ ɹ i s ˈi m z t ə b ˈɛ ɹ ð ə s t ˈæ m p ə v t ɹ ˈu θ .
+DUMMY1/LJ010-0038.wav|ˈæ z ð ˈɛ ɹ h ˈæ d b ˈɪ n b ɪ f ˈɔ ɹ ; ˈæ z ˈɪ n ð ə j ˈɪ ɹ eɪ t ˈi n f ˈɔ ɹ t i n ˈaɪ n , ə j ˈɪ ɹ m ˈɛ m ɚ ə b ə l f ɚ ð ə ɹ ˈʌ ʃ m ˈɚ d ɚ z ˈæ t n ˈɔ ɹ w ɪ t͡ʃ ,
+DUMMY1/LJ019-0241.wav|b ˈʌ t ˈɪ n ð ə ˈɪ n t ɚ v ə l v ˈɛ ɹ i k ˌɑ m p ɹ i h ˈɛ n s ɪ v ˈæ n d , ˈaɪ θ ˈɪ ŋ k ˈɪ t m ˈʌ s t b ˈi æ d m ˈɪ t ɪ d , s ˈæ l j ə t ˌɛ ɹ i t͡ʃ ˈeɪ n d͡ʒ ɪ z w ɚ s ə k s ˈɛ s ɪ v l i ˌɪ n t ɹ oʊ d ˈu s t ˈɪ n t u ð ə m ˈæ n ɪ d͡ʒ m ə n t ə v p ɹ ˈɪ z ə n z .
+DUMMY1/LJ001-0094.wav|w ɚ ɪ n d ˈu s t t ə k ˈʌ t p ˈʌ n t͡ʃ ɪ z f ɚ ə s ˈɪ ɹ i z ə v ˈoʊ l d s t ˈaɪ l l ˈɛ t ɚ z .
+DUMMY1/LJ001-0015.wav|ð ə f ˈɔ ɹ m z ə v p ɹ ˈɪ n t ɪ d l ˈɛ t ɚ z ʃ ˈʊ d b ˈi b j ˈu t ɪ f ə l , ˈæ n d ð ˈæ t ð ˈɛ ɹ ɚ ˈeɪ n d͡ʒ m ə n t ˈɔ n ð ə p ˈeɪ d͡ʒ ʃ ˈʊ d b ˈi ɹ ˈi z n ə b ə l ˈæ n d ə h ˈɛ l p t ə ð ə ʃ ˈæ p l ɪ n s ə v ð ə l ˈɛ t ɚ z ð ə m s ˈɛ l v z .
+DUMMY1/LJ047-0015.wav|f ɹ ˈʌ m d ɪ f ˈɛ k ʃ ə n t ə ɹ ɪ t ˈɚ n t ə f ˈɔ ɹ t w ˈɚ θ .
+DUMMY1/LJ044-0139.wav|s ˈɪ n s ð ˈɛ ɹ w ə z n ˈoʊ b ˈæ k ɡ ɹ ˌaʊ n d t ə ð ə n j ˈu ˈɔ ɹ l i n z ˈɛ f p ˈi s ˈi s ˈi , k w ˈoʊ t , ˌɔ ɹ ɡ ə n ə z ˈeɪ ʃ ə n , ˈɛ n d k w ˈoʊ t , w ˈɪ t͡ʃ k ə n s ˈɪ s t ɪ d s ˈoʊ ə l i ə v ˈɔ z w ɔ l d .
+DUMMY1/LJ050-0031.wav|ð ˈæ t ð ə s ˈi k ɹ ɪ t s ˈɚ v ɪ s k ˈɑ n ʃ ə s l i s ˈɛ t ə b ˈaʊ t ð ə t ˈæ s k ə v ɪ ŋ k ə l k ˌeɪ t ɪ ŋ ˈæ n d m eɪ n t ˈeɪ n ɪ ŋ ð ə h ˈaɪ ɪ s t s t ˈæ n d ɚ d ə v ˈɛ k s ə l ə n s ˈæ n d ɪ s p ɹ ˈi , f ɚ ˈɔ l ə v ˈɪ t s p ˌɚ s ə n ˈɛ l .
+DUMMY1/LJ050-0235.wav|ˈɪ t h ˈæ z ˈɔ l s oʊ j ˈu s t ˈʌ ð ɚ f ˈɛ d ɚ ə l l ˈɔ ɪ n f ˈɔ ɹ s m ə n t ˈeɪ d͡ʒ ə n t s d ˈʊ ɹ ɪ ŋ p ɹ ˌɛ z ɪ d ˈɛ n ʃ ə l v ˈɪ z ɪ t s t ə s ˈɪ t i z ˈɪ n w ˈɪ t͡ʃ s ˈʌ t͡ʃ ˈeɪ d͡ʒ ə n t s ˈɑ ɹ s t ˈeɪ ʃ ə n d .
+DUMMY1/LJ050-0137.wav|ˈɛ f b ˈi ˈaɪ , ˈæ n d ð ə s ˈi k ɹ ɪ t s ˈɚ v ɪ s .
+DUMMY1/LJ031-0109.wav|ˈæ t ˈoʊ n ˈɛ θ ˈɪ ɹ t i f ˈaɪ v p ˈi ˈɛ m , ˈæ f t ɚ ɡ ˈʌ v ɚ n ɚ k ˈɑ n ə l i h ˈæ d b ˈɪ n m ˈu v d t ə ð ə ˈɑ p ɚ ˌeɪ t ɪ ŋ ɹ ˈu m , d ˈɑ k t ɚ ʃ ˈɔ s t ˈɑ ɹ t ɪ d ð ə f ˈɚ s t ˌɑ p ɚ ˈeɪ ʃ ə n
+DUMMY1/LJ031-0041.wav|h ˈi n ˈoʊ t ɪ d ð ˈæ t ð ə p ɹ ˈɛ z ɪ d ə n t w ə z b l ˈu w ˈaɪ t ˈɔ ɹ ˈæ ʃ ə n ˈɪ n k ˈʌ l ɚ ; h ˈæ d s l ˈoʊ , s p æ z m ˈɑ d ɪ k , ə ɡ ə n ə l ɹ ˌɛ s p ɚ ˈeɪ ʃ ə n w ɪ ð ˈaʊ t ˈɛ n i k oʊ ˌɔ ɹ d ɪ n ˈeɪ ʃ ə n ;
+DUMMY1/LJ021-0139.wav|ð ˈɛ ɹ ʃ ˈʊ d b ˈi ˈæ t l ˈi s t ə f ˈʊ l ˈæ n d f ˈɛ ɹ t ɹ ˈaɪ l ɡ ˈɪ v ə n t ə ð ˈi z m ˈi n z ə v ˈɛ n d ɪ ŋ ɪ n d ˈʌ s t ɹ i ə l w ˈɔ ɹ f ˌɛ ɹ ;
+DUMMY1/LJ029-0004.wav|ð ə n ˈɛ ɹ ɪ t ɪ v ə v ð ˈi z ɪ v ˈɛ n t s ˈɪ z b ˈeɪ s t l ˈɑ ɹ d͡ʒ l i ˈɔ n ð ə ɹ ˌɛ k ə l ˈɛ k ʃ ə n z ə v ð ə p ɑ ɹ t ˈɪ s ə p ə n t s ,
+DUMMY1/LJ023-0122.wav|ˈɪ t w ə z s ˈɛ d ˈɪ n l ˈæ s t j ˈɪ ɹ z d ˌɛ m ə k ɹ ˈæ t ɪ k p l ˈæ t f ˌɔ ɹ m ,
+DUMMY1/LJ005-0264.wav|ɪ n s p ˈɛ k t ɚ z ə v p ɹ ˈɪ z ə n z ʃ ˈʊ d b ˈi ə p ˈɔɪ n t ɪ d , h ˈu ʃ ˈʊ d v ˈɪ z ɪ t ˈɔ l ð ə p ɹ ˈɪ z ə n z f ɹ ˈʌ m t ˈaɪ m t ə t ˈaɪ m ˈæ n d ɹ ɪ p ˈɔ ɹ t t ə ð ə s ˈɛ k ɹ ɪ t ˌɛ ɹ i ə v s t ˈeɪ t .
+DUMMY1/LJ002-0105.wav|ˈæ n d b ɪ j ˈɔ n d ˈɪ t w ə z ə ɹ ˈu m k ˈɔ l d ð ə w ˈaɪ n ɹ ˈu m , b ɪ k ˈʌ z f ˈɔ ɹ m ɚ l i j ˈu s t f ɚ ð ə s ˈeɪ l ə v w ˈaɪ n , b ˈʌ t
+DUMMY1/LJ017-0035.wav|ˈɪ n ð ə ˈɪ n t ɚ ˌɛ s t s ˈæ n d f ɚ ð ə d ˈu p ɹ ə t ˈɛ k ʃ ə n ə v ð ə p ˈʌ b l ɪ k , ð ˈæ t ð ə f ˈʊ l ɪ s t ˈæ n d f ˈɛ ɹ ɪ s t ɪ ŋ k w ˈaɪ ɹ i ʃ ˈʊ d b ˈi m ˈeɪ d ,
+DUMMY1/LJ048-0252.wav|θ ɹ ˈi ə v ð ˈi z ˈeɪ d͡ʒ ə n t s ˈɑ k j ə p ˌaɪ d p ə z ˈɪ ʃ ə n z ˈɔ n ð ə ɹ ˈʌ n ɪ ŋ b ˈɔ ɹ d z ə v ð ə k ˈɑ ɹ , ˈæ n d ð ə f ˈɔ ɹ θ w ə z s ˈi t ɪ d ˈɪ n ð ə k ˈɑ ɹ .
+DUMMY1/LJ013-0109.wav|ð ə p ɹ oʊ s ˈi d z ə v ð ə ɹ ˈɑ b ɚ i w ɚ l ˈɑ d͡ʒ d ˈɪ n ə b ˈɔ s t ə n b ˈæ ŋ k ,
+DUMMY1/LJ039-0139.wav|ˈɔ z w ɔ l d ə b t ˈeɪ n d ə h ˈʌ n t ɪ ŋ l ˈaɪ s ə n s , d͡ʒ ˈɔɪ n d ə h ˈʌ n t ɪ ŋ k l ˈʌ b ˈæ n d w ˈɛ n t h ˈʌ n t ɪ ŋ ə b ˈaʊ t s ˈɪ k s t ˈaɪ m z , ˈæ z d ɪ s k ˈʌ s t m ˈɔ ɹ f ˈʊ l i ˈɪ n t͡ʃ ˈæ p t ɚ s ˈɪ k s .
+DUMMY1/LJ044-0047.wav|ð ˈæ t ˈɛ n i w ˌʌ n ˈɛ v ɚ ə t ˈæ k t ˈɛ n i s t ɹ ˈi t d ˌɛ m ə n s t ɹ ˈeɪ ʃ ə n ˈɪ n w ˈɪ t͡ʃ ˈɔ z w ɔ l d w ə z ɪ n v ˈɑ l v d , ɪ k s ˈɛ p t f ɚ ð ə b ɹ ˈɪ ŋ ɡ w i ɚ ˈɪ n s ɪ d ə n t m ˈɛ n ʃ ə n d ə b ˈʌ v ,
+DUMMY1/LJ016-0417.wav|k ˈæ θ ɚ ɪ n w ˈɪ l s ə n , ð ə p ˈɔɪ s ə n ɚ , w ə z ɹ ɪ z ˈɚ v d ˈæ n d ɹ ˈɛ t ɪ s ə n t t ə ð ə l ˈæ s t , ɪ k s p ɹ ˈɛ s ɪ ŋ n ˈoʊ k ə n t ɹ ˈɪ ʃ ə n , b ˈʌ t ˈɔ l s oʊ n ˈoʊ f ˈɪ ɹ
+DUMMY1/LJ045-0178.wav|h ˈi l ˈɛ f t h ˈɪ z w ˈɛ d ɪ ŋ ɹ ˈɪ ŋ ˈɪ n ə k ˈʌ p ˈɔ n ð ə d ɹ ˈɛ s ɚ ˈɪ n h ˈɪ z ɹ ˈu m . h ˈi ˈɔ l s oʊ l ˈɛ f t w ˈʌ n h ˈʌ n d ɹ ɪ d s ˈɛ v ə n t i d ˈɑ l ɚ z ˈɪ n ə w ˈɔ l ɪ t ˈɪ n w ˈʌ n ə v ð ə d ɹ ˈɛ s ɚ d ɹ ˈɔ ɹ z .
+DUMMY1/LJ009-0172.wav|w ˈaɪ l ˈɪ n l ˈʌ n d ə n , f ɚ ˈɪ n s t ə n s , ˈɪ n eɪ t ˈi n t w ˈɛ n t i n ˈaɪ n , t w ˈɛ n t i f ˈɔ ɹ p ˈɚ s ə n z h ˈæ d b ˈɪ n ˈɛ k s ɪ k j ˌu t ɪ d f ɚ k ɹ ˈaɪ m z ˈʌ ð ɚ ð ə n m ˈɚ d ɚ ,
+DUMMY1/LJ049-0202.wav|ˈɪ n s ɪ d ə n t t ə ˈɪ t s ɹ i s p ˌɑ n s ɪ b ˈɪ l ə t i z .
+DUMMY1/LJ032-0103.wav|ð ə n ˈeɪ m h ˈaɪ d ə l w ə z s t ˈæ m p t ˈɔ n s ˈʌ m ə v ð ə t͡ʃ ˈæ p t ɚ z p ɹ ˈɪ n t ɪ d l ˈɪ t ɚ ə t͡ʃ ɚ ˈæ n d ˈɔ n ð ə m ˈɛ m b ɚ ʃ ˌɪ p ˌæ p l ɪ k ˈeɪ ʃ ə n b l ˈæ ŋ k s .
+DUMMY1/LJ013-0091.wav|ˈæ n d ˈɛ l d ɚ h ˈæ d t ə b ˈi ə s ˈɪ s t ɪ d b ˈaɪ t ˈu b ˈæ ŋ k p ˈɔ ɹ t ɚ z , h ˈu k ˈɛ ɹ i d ˈɪ t f ɚ h ˈɪ m t ə ə k ˈɛ ɹ ɪ d͡ʒ w ˈeɪ t ɪ ŋ n ˈɪ ɹ ð ə m ˈæ n ʃ ə n h ˈaʊ s .
+DUMMY1/LJ037-0208.wav|n ˈaɪ n t ˈi n d ˈɑ l ɚ z , n ˈaɪ n t i f ˈaɪ v s ˈɛ n t s , p l ˈʌ s w ˈʌ n d ˈɑ l ɚ , t w ˈɛ n t i s ˈɛ v ə n s ˈɛ n t s ʃ ˈɪ p ɪ ŋ t͡ʃ ˈɑ ɹ d͡ʒ , h ˈæ d b ˈɪ n k ə l ˈɛ k t ɪ d f ɹ ˈʌ m ð ə k ˈɑ n s ˈɪ ɡ n i , h ˈaɪ d ə l .
+DUMMY1/LJ014-0128.wav|h ˈɚ h ˈɛ ɹ w ə z d ɹ ˈɛ s t ˈɪ n l ˈɔ ŋ k ɹ ˈeɪ p b ˈæ n d z . ʃ ˈi h ˈæ d l ˈeɪ s ɹ ˈʌ f ə l z ˈæ t h ˈɚ ɹ ˈɪ s t , ˈæ n d w ˈɔ ɹ p ɹ ˈɪ m ɹ oʊ z k ˈʌ l ɚ d k ˈɪ d ɡ l ˈʌ v z .
+DUMMY1/LJ015-0007.wav|ð ˈɪ s ə f ˈɛ k t ɪ d k ˈoʊ l z k ɹ ˈɛ d ɪ t , ˈæ n d ˈʌ ɡ l i ɹ ɪ p ˈɔ ɹ t s w ɚ ˈɪ n s ˈɚ k j ə l ˌeɪ ʃ ə n t͡ʃ ˈɑ ɹ d͡ʒ ɪ ŋ h ˈɪ m w ˈɪ θ ð ə ˈɪ ʃ u ə v s ˈɪ m j ə l ˌeɪ t ɪ d w ˈɔ ɹ ə n t s .
+DUMMY1/LJ036-0169.wav|h ˈi w ˈʊ d h ˈæ v ɹ ˈi t͡ʃ t h ˈɪ z d ˌɛ s t ɪ n ˈeɪ ʃ ə n ˈæ t ə p ɹ ˈɑ k s ə m ɪ t l i t w ˈɛ l v ˈɛ f ɪ f t i f ˈɔ ɹ p ˈi ˈɛ m
+DUMMY1/LJ021-0040.wav|ð ə s ˈɛ k ə n d s t ˈɛ p w ˈi h ˈæ v t ˈeɪ k ə n ˈɪ n ð ə ɹ ˌɛ s t ɚ ˈeɪ ʃ ə n ə v n ˈɔ ɹ m ə l b ˈɪ z n ɪ s ˈɛ n t ɚ p ɹ ˌaɪ z
+DUMMY1/LJ015-0036.wav|ð ə b ˈæ ŋ k w ə z ɔ l ɹ ˈɛ d i ɪ n s ˈɑ l v ə n t ,
+DUMMY1/LJ034-0041.wav|ɔ l ð ˈoʊ b j ˈʊ ɹ oʊ ɪ k s p ˈɛ ɹ ɪ m ə n t s h ˈæ d ʃ ˈoʊ n ð ˈæ t t w ˈɛ n t i f ˈɔ ɹ ˈaʊ ɚ z w ə z ə l ˈaɪ k l i m ˈæ k s ə m ə m t ˈaɪ m , l ɑ t ˈoʊ n ə s t ˈeɪ t ɪ d
+DUMMY1/LJ009-0192.wav|ð ə d aɪ s ˈɛ k ʃ ə n ə v ˈɛ k s ɪ k j ˌu t ɪ d k ɹ ˈɪ m ə n ə l z w ə z ə b ˈɑ l ɪ ʃ t s ˈu n ˈæ f t ɚ ð ə d ɪ s k ˈʌ v ɚ i ə v ð ə k ɹ ˈaɪ m ə v b ˈɚ k ɪ ŋ ,
+DUMMY1/LJ037-0248.wav|ð ə ˈaɪ w ˌɪ t n ə s ɪ z v ˈɛ ɹ i ˈɪ n ð ˈɛ ɹ aɪ d ˌɛ n t ɪ f ɪ k ˈeɪ ʃ ə n ə v ð ə d͡ʒ ˈæ k ɪ t .
+DUMMY1/LJ015-0289.wav|ˈæ z ˈi t͡ʃ t ɹ æ n z ˈæ k ʃ ə n w ə z k ˈɛ ɹ i d ˈaʊ t f ɹ ˈʌ m ə d ˈɪ f ɹ ə n t ˈæ d ɹ ˌɛ s , ˈæ n d ə d ˈɪ f ɹ ə n t m ˈɛ s ɪ n d͡ʒ ɚ ˈɔ l w ˌeɪ z ɪ m p l ˈɔɪ d ,
+DUMMY1/LJ005-0072.wav|ˈæ f t ɚ ə f j ˈu j ˈɪ ɹ z ə v ˈæ k t ɪ v ɪ ɡ z ˈɚ ʃ ə n ð ə s ə s ˈaɪ ə t i w ə z ɹ ɪ w ˈɔ ɹ d ɪ d b ˈaɪ f ɹ ˈɛ ʃ l ˌɛ d͡ʒ ɪ s l ˈeɪ ʃ ə n .
+DUMMY1/LJ023-0047.wav|ð ə θ ɹ ˈi h ˈɔ ɹ s ɪ z ˈɑ ɹ , ə v k ˈɔ ɹ s , ð ə θ ɹ ˈi b ɹ ˈæ n t͡ʃ ɪ z ə v ɡ ˈʌ v ɚ n m ə n t ð ə k ˈɑ ŋ ɡ ɹ ə s , ð ə ɪ ɡ z ˈɛ k j ə t ɪ v ˈæ n d ð ə k ˈɔ ɹ t s .
+DUMMY1/LJ009-0126.wav|h ˈɑ ɹ d l i ˈɛ n i w ˈʌ n .
+DUMMY1/LJ034-0097.wav|ð ə w ˈɪ n d oʊ w ə z ə p ɹ ˈɑ k s ə m ɪ t l i w ˈʌ n h ˈʌ n d ɹ ɪ d t w ˈɛ n t i f ˈi t ə w ˈeɪ .
+DUMMY1/LJ028-0462.wav|ð ˈeɪ w ɚ l ˈeɪ d ˈɪ n b ˌɪ t ˈu m ə n .
+DUMMY1/LJ046-0055.wav|ˈɪ t ˈɪ z n ˈaʊ p ˈɑ s ə b ə l f ɚ p ɹ ˈɛ z ɪ d ə n t s t ə t ɹ ˈæ v ə l ð ə l ˈɛ ŋ θ ˈæ n d b ɹ ˈɛ d θ ə v ə l ˈæ n d f ˈɑ ɹ l ˈɑ ɹ d͡ʒ ɚ ð ə n ð ə j u n ˈaɪ t ɪ d s t ˈeɪ t s
+DUMMY1/LJ019-0371.wav|j ˈɛ t ð ə l ˈɔ w ə z s ˈɛ l d ə m ˈɪ f ˈɛ v ɚ ɪ n f ˈɔ ɹ s t .
+DUMMY1/LJ039-0207.wav|ɔ l ð ˈoʊ ˈɔ l ə v ð ə ʃ ˈɑ t s w ɚ ə f j ˈu ˈɪ n t͡ʃ ɪ z h ˈaɪ ˈæ n d t ə ð ə ɹ ˈaɪ t ə v ð ə t ˈɑ ɹ ɡ ə t ,
+DUMMY1/LJ002-0174.wav|m ˈɪ s t ɚ b ˈʌ k s t ə n z f ɹ ˈɛ n d z ˈæ t w ˈʌ n s p ˈeɪ d ð ə f ˈɔ ɹ t i ʃ ˈɪ l ɪ ŋ z , ˈæ n d ð ə b ˈɔɪ w ə z ɹ i l ˈi s t .
+DUMMY1/LJ016-0233.wav|ˈɪ n h ˈɪ z ˈoʊ n p ɹ ə f ˈɛ ʃ ə n
+DUMMY1/LJ026-0108.wav|ˈɪ t ˈɪ z k l ˈɪ ɹ ð ˈæ t ð ˈɛ ɹ ˈɑ ɹ ˈʌ p w ɚ d ˈæ n d d ˈaʊ n w ɚ d k ˈɚ ə n t s ə v w ˈɔ t ɚ k ə n t ˈeɪ n ɪ ŋ f ˈu d k ə m p ˈæ ɹ ə b ə l t ə b l ˈʌ d ə v ə n ˈæ n ə m ə l ,
+DUMMY1/LJ038-0035.wav|ˈɔ z w ɔ l d ɹ ˈoʊ z f ɹ ˈʌ m h ˈɪ z s ˈi t , b ɹ ˈɪ ŋ ɪ ŋ ˈʌ p b ˈoʊ θ h ˈæ n d z .
+DUMMY1/LJ026-0148.wav|w ˈɔ t ɚ w ˈɪ t͡ʃ ˈɪ z l ˈɔ s t b ˈaɪ ɪ v ˌæ p ɚ ˈeɪ ʃ ə n , ɪ s p ˈɛ ʃ l i f ɹ ˈʌ m ð ə l ˈi f s ˈɚ f ɪ s θ ɹ ˈu ð ə s t ˈoʊ m ə t ə ;
+DUMMY1/LJ001-0186.wav|ð ə p ə z ˈɪ ʃ ə n ə v ˈaʊ ɚ s ə s ˈaɪ ə t i ð ˈæ t ə w ˈɚ k ə v j u t ˈɪ l ə t i m ˈaɪ t b ˈi ˈɔ l s oʊ ə w ˈɚ k ə v ˈɑ ɹ t , ˈɪ f w ˈi k ˈɛ ɹ d t ə m ˈeɪ k ˈɪ t s ˈoʊ .
+DUMMY1/LJ016-0264.wav|ð ə ʌ p t͡ʃ ɚ n ɪ d f ˈeɪ s ɪ z ə v ð ə ˈi ɡ ɚ s p ˈɛ k t eɪ t ɚ z ɹ ɪ z ˈɛ m b ə l d ð ˈoʊ z ə v ð ə ɡ ˈɑ d z ˈæ t d ɹ ˈʊ ɹ i l ˈeɪ n ˈɔ n b ˈɑ k s ɪ ŋ n ˈaɪ t ;
+DUMMY1/LJ009-0041.wav|ð ə ˈɑ k j ə p ə n t s ə v ð ˈɪ s t ˈɛ ɹ ɪ b ə l b l ˈæ k p j ˈu w ɚ ð ə l ˈæ s t ˈɔ l w ˌeɪ z t ə ˈɛ n t ɚ ð ə t͡ʃ ˈæ p ə l .
+DUMMY1/LJ010-0297.wav|b ˈʌ t ð ˈɛ ɹ w ɚ ˈʌ ð ɚ n oʊ t ˈɔ ɹ i ə s k ˈeɪ s ɪ z ə v f ˈɔ ɹ d͡ʒ ɚ i .
+DUMMY1/LJ040-0018.wav|ð ə k ə m ˈɪ ʃ ə n ˈɪ z n ˈɑ t ˈeɪ b ə l t ə ɹ ˈi t͡ʃ ˈɛ n i d ˈɛ f ɪ n ɪ t k ə ŋ k l ˈu ʒ ə n z ˈæ z t ə w ˈɛ ð ɚ ˈɔ ɹ n ˈɑ t h ˈi w ə z , k w ˈoʊ t , s ˈeɪ n , ˈʌ ŋ k w ˈoʊ t , ˈʌ n d ɚ p ɹ ɪ v ˈeɪ l ɪ ŋ l ˈi ɡ ə l s t ˈæ n d ɚ d z .
+DUMMY1/LJ005-0253.wav|t ə ɪ ŋ k w ˈaɪ ɚ ˈɪ n t u ˈæ n d ɹ ɪ p ˈɔ ɹ t ə p ˈɑ n ð ə s ˈɛ v ɚ ə l d͡ʒ ˈeɪ l z ˈæ n d h ˈaʊ z ɪ z ə v k ɚ ˈɛ k ʃ ə n ˈɪ n ð ə k ˈaʊ n t i z , s ˈɪ t i z , ˈæ n d k ˈɔ ɹ p ɚ ɪ t t ˈaʊ n z w ɪ ð ˈɪ n ˈɪ ŋ ɡ l ə n d ˈæ n d w ˈeɪ l z
+DUMMY1/LJ042-0198.wav|ð ə d ɪ s k ˈʌ ʃ ə n ə b ˈʌ v h ˈæ z ɔ l ɹ ˈɛ d i s ˈɛ t f ˈɔ ɹ θ ɪ ɡ z ˈæ m p ə l z ə v h ˈɪ z ɪ k s p ɹ ˈɛ ʃ ə n ə v h ˈeɪ t ɹ ɪ d f ɚ ð ə j u n ˈaɪ t ɪ d s t ˈeɪ t s .
+DUMMY1/LJ031-0189.wav|ˈæ t t w ˈɔ ð ˈɪ ɹ t i ˈeɪ t p ˈi ˈɛ m , ˈi s t ɚ n s t ˈæ n d ɚ d t ˈaɪ m , l ˈɪ n d ə n b ˈeɪ n z d͡ʒ ˈɑ n s ə n t ˈʊ k ð ə ˈoʊ θ ə v ˈɔ f ɪ s ˈæ z ð ə θ ˈɚ t i s ˈɪ k s θ p ɹ ˈɛ z ɪ d ə n t ə v ð ə j u n ˈaɪ t ɪ d s t ˈeɪ t s .
+DUMMY1/LJ050-0084.wav|ˈɔ ɹ , k w ˈoʊ t , ˈʌ ð ɚ h ˈaɪ ɡ ˈʌ v ɚ n m ə n t ə f ˈɪ ʃ ə l z ˈɪ n ð ə n ˈeɪ t͡ʃ ɚ ə v ə k ə m p l ˈeɪ n t k ˈʌ p ə l d w ˈɪ θ ə n ɪ k s p ɹ ˈɛ s t ˈɔ ɹ ɪ m p l ˈaɪ d d ɪ t ˌɚ m ə n ˈeɪ ʃ ə n t ə j ˈu z ə m ˈi n z ,
+DUMMY1/LJ044-0158.wav|ˈæ z f ɚ m ˈaɪ ɹ ɪ t ˈɚ n ˈɛ n t ɹ ə n s v ˈi z ə p l ˈi z k ə n s ˈɪ d ɚ ˈɪ t s ˈɛ p ɚ ɪ t l i . ˈɛ n d k w ˈoʊ t .
+DUMMY1/LJ045-0082.wav|ˈɪ t ə p ˈɪ ɹ z ð ˈæ t m ɚ ˈi n ə ˈɔ z w ɔ l d ˈɔ l s oʊ k ə m p l ˈeɪ n d ð ˈæ t h ˈɚ h ˈʌ z b ə n d w ə z n ˈɑ t ˈeɪ b ə l t ə p ɹ ə v ˈaɪ d m ˈɔ ɹ m ə t ˈɪ ɹ i ə l θ ˈɪ ŋ z f ɚ h ˈɚ .
+DUMMY1/LJ045-0190.wav|ə p ˈɪ ɹ d ˈɪ n ð ə d ˈæ l ə s t ˈaɪ m z h ˈɛ ɹ ə l d ˈɔ n n oʊ v ˈɛ m b ɚ f ɪ f t ˈi n , n ˈaɪ n t ˈi n s ˈɪ k s t i θ ɹ ˈi .
+DUMMY1/LJ035-0155.wav|ð ə ˈoʊ n l i ˈɛ k s ɪ t f ɹ ˈʌ m ð ə ˈɔ f ɪ s ˈɪ n ð ə d ɪ ɹ ˈɛ k ʃ ə n ˈɔ z w ɔ l d w ə z m ˈu v ɪ ŋ w ə z θ ɹ ˈu ð ə d ˈɔ ɹ t ə ð ə f ɹ ˈʌ n t s t ˈɛ ɹ w ˌeɪ .
+DUMMY1/LJ044-0004.wav|p ə l ˈɪ t ɪ k ə l æ k t ˈɪ v ɪ t i z
+DUMMY1/LJ046-0016.wav|ð ə k ə m ˈɪ ʃ ə n h ˈæ z n ˈɑ t ˈʌ n d ɚ t ˌeɪ k ə n ə k ˌɑ m p ɹ i h ˈɛ n s ɪ v ɪ ɡ z ˌæ m ə n ˈeɪ ʃ ə n ə v ˈɔ l f ˈæ s ə t s ə v ð ˈɪ s s ˈʌ b d͡ʒ ɪ k t ;
+DUMMY1/LJ019-0368.wav|ð ə l ˈæ t ɚ t ˈu w ə z t ə b ˈi l ˈeɪ d b ɪ f ˈɔ ɹ ð ə h ˈaʊ s ə v k ˈɑ m ə n z .
+DUMMY1/LJ010-0062.wav|b ˈʌ t ð ˈeɪ p ɹ oʊ s ˈi d ɪ d ˈɪ n ˈɔ l s ˈɪ ɹ i ə s n ə s , ˈæ n d w ˈʊ d h ˈæ v ʃ ɹ ˈʌ ŋ k f ɹ ˈʌ m n ˈoʊ ˈaʊ t ɹ ˌeɪ d͡ʒ ˈɔ ɹ ə t ɹ ˈɑ s ə t i ˈɪ n f ˈɚ θ ɚ ə n s ə v ð ˈɛ ɹ f ˈu l h ˌɑ ɹ d i ˈɛ n t ɚ p ɹ ˌaɪ z .
+DUMMY1/LJ033-0159.wav|ˈɪ t w ə z f ɹ ˈʌ m ˈɔ z w ɔ l d z ɹ ˈaɪ t h ˈæ n d , ˈɪ n w ˈɪ t͡ʃ h ˈi k ˈɛ ɹ i d ð ə l ˈɔ ŋ p ˈæ k ɪ d͡ʒ ˈæ z h ˈi w ˈɔ k t f ɹ ˈʌ m f ɹ ˈeɪ z i ɚ z k ˈɑ ɹ t ə ð ə b ˈɪ l d ɪ ŋ .
+DUMMY1/LJ002-0171.wav|ð ə b ˈɔɪ d ɪ k l ˈɛ ɹ d h ˈi s ˈɔ n ˈoʊ w ˈʌ n , ˈæ n d ə k ˈɔ ɹ d ɪ ŋ l i p ˈæ s t θ ɹ ˈu w ɪ ð ˈaʊ t p ˈeɪ ɪ ŋ ð ə t ˈoʊ l ə v ə p ˈɛ n i .
+DUMMY1/LJ002-0298.wav|ˈɪ n h ˈɪ z ˈɛ v ə d ə n s ˈɪ n eɪ t ˈi n f ˌɔ ɹ t ˈi n , s ˈɛ d ˈɪ t w ə z m ˈɔ ɹ ,
+DUMMY1/LJ012-0219.wav|ˈæ n d ˈɪ n w ˈʌ n k ˈɔ ɹ n ɚ , ˈæ t s ˈʌ m d ˈɛ p θ , ə b ˈʌ n d ə l ə v k l ˈoʊ ð z w ɚ ʌ n ˈɚ θ t , w ˈɪ t͡ʃ , w ˈɪ θ ə h ˈɛ ɹ i k ˈæ p ,
+DUMMY1/LJ017-0190.wav|ˈæ f t ɚ ð ˈɪ s k ˈeɪ m ð ə t͡ʃ ˈɑ ɹ d͡ʒ ə v æ d m ˈɪ n ɪ s t ɚ ɪ ŋ ˈɔɪ l ə v v ˈɪ t ɹ i ə l , w ˈɪ t͡ʃ f ˈeɪ l d , ˈæ z h ˈæ z b ˈɪ n d ɪ s k ɹ ˈaɪ b d .
+DUMMY1/LJ019-0179.wav|ð ˈɪ s , w ˈɪ θ ə s k ˈi m f ɚ l ˈɪ m ɪ t ɪ ŋ ð ə d͡ʒ ˈeɪ l t ə ʌ n t ɹ ˈaɪ d p ɹ ˈɪ z n ɚ z , h ˈæ d b ˈɪ n ˈɚ d͡ʒ ə n t l i ɹ ˌɛ k ə m ˈɛ n d ɪ d b ˈaɪ l ˈɔ ɹ d d͡ʒ ˈɑ n ɹ ˈʌ s ə l ˈɪ n eɪ t ˈi n θ ˈɚ t i .
+DUMMY1/LJ050-0188.wav|ˈi t͡ʃ p ə t ɹ ˈoʊ l m ˌæ n m ˈaɪ t b ˈi ɡ ˈɪ v ə n ə p ɹ i p ˈɛ ɹ d b ˈʊ k l ɪ t ə v ɪ n s t ɹ ˈʌ k ʃ ə n z ɪ k s p l ˈeɪ n ɪ ŋ w ˈʌ t ˈɪ z ɪ k s p ˈɛ k t ɪ d ə v h ˈɪ m . ð ə s ˈi k ɹ ɪ t s ˈɚ v ɪ s h ˈæ z ɪ k s p ɹ ˈɛ s t k ə n s ˈɚ n
+DUMMY1/LJ006-0043.wav|ð ə d ɪ s ɡ ɹ ˈeɪ s f ə l ˈoʊ v ɚ k ɹ ˌaʊ d ɪ ŋ h ˈæ d b ˈɪ n p ˈɑ ɹ ʃ ə l i ˈɛ n d ɪ d , b ˈʌ t ð ə s ˈeɪ m ˈi v ə l z ə v ɪ n d ɪ s k ɹ ˈɪ m ə n ɪ t ə s ˌoʊ ʃ i ˈeɪ ʃ ə n w ɚ s t ˈɪ l p ɹ ˈɛ z ə n t ; ð ˈɛ ɹ w ə z ð ə ˈoʊ l d n ɪ ɡ l ˈɛ k t ə v d ˈi s ə n s i ,
+DUMMY1/LJ029-0060.wav|ə n ˈʌ m b ɚ ə v p ˈi p ə l h ˈu ɹ ɪ z ˈɛ m b ə l d s ˈʌ m ə v ð ˈoʊ z ˈɪ n ð ə f ˈoʊ t ə ɡ ɹ ˌæ f s w ɚ p l ˈeɪ s t ˈʌ n d ɚ s ɚ v ˈeɪ l ə n s ˈæ t ð ə t ɹ ˈeɪ d m ˈɑ ɹ t .
+DUMMY1/LJ019-0052.wav|b ˈoʊ θ s ˈɪ s t ə m z k ˈeɪ m t ə ˈʌ s f ɹ ˈʌ m ð ə j u n ˈaɪ t ɪ d s t ˈeɪ t s . ð ə d ˈɪ f ɹ ə n s w ə z ɹ ˈɪ l i m ˈɔ ɹ ˈɪ n d ɪ ɡ ɹ ˈi ð ə n ˈɪ n p ɹ ˈɪ n s ə p ə l ,
+DUMMY1/LJ037-0081.wav|l ˈeɪ t ɚ ˈɪ n ð ə d ˈeɪ ˈi t͡ʃ w ˈʊ m ə n f ˈaʊ n d ə n ˈɛ m p t i ʃ ˈɛ l ˈɔ n ð ə ɡ ɹ ˈaʊ n d n ˈɪ ɹ ð ə h ˈaʊ s . ð ˈi z t ˈu ʃ ˈɛ l z w ɚ d ɪ l ˈɪ v ɚ d t ə ð ə p ə l ˈi s .
+DUMMY1/LJ048-0200.wav|p ˈeɪ ɪ ŋ p ɚ t ˈɪ k j ə l ɚ ə t ˈɛ n ʃ ə n t ə ð ə k ɹ ˈaʊ d f ɚ ˈɛ n i ʌ n j ˈu ʒ u ə l æ k t ˈɪ v ɪ t i .
+DUMMY1/LJ016-0426.wav|k ˈʌ m ə l ˈɔ ŋ , ɡ ˈæ l oʊ z .
+DUMMY1/LJ008-0182.wav|ə t ɹ ɪ m ˈɛ n d ə s k ɹ ˈaʊ d ə s ˈɛ m b ə l d w ˈɛ n b ˈɛ l ɪ ŋ h ˌæ m w ə z ˈɛ k s ɪ k j ˌu t ɪ d ˈɪ n eɪ t ˈi n t w ˈɛ l v f ɚ ð ə m ˈɚ d ɚ ə v s p ˈɛ n s ɚ p ˈɚ s ɪ v ə l , ˈæ t ð ˈæ t t ˈaɪ m p ɹ ˈaɪ m m ˈɪ n ɪ s t ɚ ;
+DUMMY1/LJ043-0107.wav|ə p ˈɑ n m ˈu v ɪ ŋ t ə n j ˈu ˈɔ ɹ l i n z ˈɔ n ˈeɪ p ɹ ə l t w ˈɛ n t i f ˈɔ ɹ , n ˈaɪ n t ˈi n s ˈɪ k s t i θ ɹ ˈi ,
+DUMMY1/LJ006-0084.wav|ˈæ n d s ˈoʊ n ˈu m ɚ ə s w ɚ h ˈɪ z ˌɑ p ɚ t ˈu n ɪ t i z ə v ʃ ˈoʊ ɪ ŋ f ˈeɪ v ɚ ɪ t ˌɪ z ə m , ð ˈæ t ˈɔ l ð ə p ɹ ˈɪ z n ɚ z m ˈeɪ b ˈi s ˈɛ d t ə b ˈi ˈɪ n h ˈɪ z p ˈaʊ ɚ .
+DUMMY1/LJ025-0081.wav|h ˈæ z n ˈoʊ p ˈɚ m ə n ə n t d aɪ d͡ʒ ˈɛ s t ɪ v k ˈæ v ə t i ˈɔ ɹ m ˈaʊ θ , b ˈʌ t t ˈeɪ k s ˈɪ n ˈɪ t s f ˈu d ˈɛ n i w ˌɛ ɹ ˈæ n d d ˈaɪ d͡ʒ ɛ s t s , s ˈoʊ t ə s p ˈi k , ˈɔ l ˈoʊ v ɚ ˈɪ t s b ˈɑ d i .
+DUMMY1/LJ019-0042.wav|ð ˈi z w ɚ ˈi ð ɚ s ˈæ t ɪ s f ˌaɪ d w ˈɪ θ ə m ˈeɪ k ʃ ˌɪ f t , ˈæ n d m ˈɑ d ɪ f ˌaɪ d ɪ ɡ z ˈɪ s t ɪ ŋ b ˈɪ l d ɪ ŋ z , w ɪ ð ˈaʊ t k l ˈoʊ s ɹ ɪ ɡ ˈɑ ɹ d t ə ð ˈɛ ɹ s ˌu t ə b ˈɪ l ɪ t i , ˈɔ ɹ f ɚ ə l ˈɔ ŋ t ˈaɪ m d ˈɪ d n ˈʌ θ ɪ ŋ ˈæ t ˈɔ l .
+DUMMY1/LJ047-0240.wav|ð ˈeɪ ə ɡ ɹ ˈi ð ˈæ t h ˈɑ s t i t ˈoʊ l d ɹ ˈɛ v ə l
+DUMMY1/LJ032-0012.wav|ð ə ɹ ɪ z ˈɪ s t ə n s t ə ɚ ˈɛ s t ˈæ n d ð ə ə t ˈɛ m p t ɪ d ʃ ˈu t ɪ ŋ ə v ə n ˈʌ ð ɚ p ə l ˈi s ˈɔ f ɪ s ɚ b ˈaɪ ð ə m ˈæ n l ˈi h ˈɑ ɹ v i ˈɔ z w ɔ l d s ˈʌ b s ə k w ə n t l i ə k j ˈu z d ə v ə s ˈæ s ə n ˌeɪ t ɪ ŋ p ɹ ˈɛ z ɪ d ə n t k ˈɛ n ə d i
+DUMMY1/LJ050-0209.wav|ð ə ə s ˈɪ s t ə n t t ə ð ə d ɪ ɹ ˈɛ k t ɚ ə v ð ə ˈɛ f b ˈi ˈaɪ t ˈɛ s t ɪ f ˌaɪ d ð ˈæ t

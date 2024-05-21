@@ -25,6 +25,12 @@ from scipy.signal import get_window
 from scipy.io.wavfile import read
 from librosa.filters import mel as librosa_mel_fn
 from mel_processing import mel_spectrogram_torch, spec_to_mel_torch
+from tqdm import tqdm
+
+import warnings
+warnings.filterwarnings("ignore")
+
+os.environ["CUDA_VISIBLE_DEVICES"]="6"
 
 def kl_loss(z_p, logs_q, m_p, logs_p, z_mask): # z_p(result of flow), logs_q(log(σ) of result of posterior encoder)
     # m_p(μ of result of text encoder) logs_p(log(σ) of result of text encoder)
@@ -140,7 +146,8 @@ def load_filepaths_and_text(filename, split="|"):
 def text_to_sequence(text, cleaner_names):
     sequence = []
 
-    clean_text = _clean_text(text, cleaner_names)
+    # clean_text = _clean_text(text, cleaner_names)
+    clean_text = text
     
     # convert cleaned text to sequence like [1, 3, 5]
     for symbol in clean_text:
@@ -312,12 +319,16 @@ class TextAudioLoader(torch.utils.data.Dataset):
         def __len__(self):
             return len(self.audiopaths_and_text)
         
-_pad        = '_'
+_pad = "_"
 _punctuation = ';:,.!?¡¿—…"«»“” '
-_letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz'
-_letters_ipa = "ɑɐɒæɓʙβɔɕçɗɖðʤəɘɚɛɜɝɞɟʄɡɠɢʛɦɧħɥʜɨɪʝɭɬɫɮʟɱɯɰŋɳɲɴøɵɸθœɶʘɹɺɾɻʀʁɽʂʃʈʧʉʊʋⱱʌɣɤʍχʎʏʑʐʒʔʡʕʢǀǁǂǃˈˌːˑʼʴʰʱʲʷˠˤ˞↓↑→↗↘'̩'ᵻ"
+_letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz"
+_letters_ipa = "ɑɐɒæɓʙβɔɕçɗɖðʤəɘɚɛɜɝɞɟʄɡɠɢʛɦɧħɥʜɨɪʝɭɬɫɮʟɱɯɰŋɳɲɴøɵɸθœɶʘɹɺɾɻʀʁɽʂʃʈʧʉʊʋⱱʌɣɤʍχʎʏʑʐʒʔʡʕʢǀǁǂǃˈˌːˑʼʴʰʱʲʷˠˤ˞↓↑→↗↘'̩'ᵻ͡"
+_letters_rime_phonemes = ",i#DmT*XSClMpjYAt()Wb1N-w.ezZ&y!af\"xI@2`hJsrOE?0gRdU'Gvuok:n…^"
+
+
 # Export all symbols:
-symbols = [_pad] + list(_punctuation) + list(_letters) + list(_letters_ipa)
+symbols = [_pad] + list(_punctuation) + list(_letters) + list(_letters_ipa) + list(_letters_rime_phonemes)
+
 # Special symbol ids
 SPACE_ID = symbols.index(" ")
 
@@ -458,7 +469,7 @@ if __name__ == '__main__':
     train_dataset = TextAudioLoader(load_filepaths_and_text('data/train.txt'))
 
     collate_fn = TextAudioCollate()
-    train_loader = DataLoader(train_dataset, collate_fn=collate_fn, batch_size=24, num_workers=6) # set the batch_size according to your GPU memory
+    train_loader = DataLoader(train_dataset, collate_fn=collate_fn, batch_size=24, num_workers=4) # set the batch_size according to your GPU memory
 
     # Define Models, the same as before
     net_g = SynthesizerTrn(
@@ -477,14 +488,12 @@ if __name__ == '__main__':
     scheduler_d = torch.optim.lr_scheduler.ExponentialLR(optim_d, gamma=0.999875)
     scaler = GradScaler(enabled=True) # don't know what it is? Key words: Pytorch "Automatic Mixed Precision"
 
-    epochs = 5
-
-
+    epochs = 100
         
     for epoch in range(epochs):
         net_g.train()
         net_d.train()
-        for batch_idx, (x, x_lengths, spec, spec_lengths, y, y_lengths) in enumerate(train_loader):
+        for batch_idx, (x, x_lengths, spec, spec_lengths, y, y_lengths) in tqdm(enumerate(train_loader), total=len(train_loader)):
 
             (x, x_lengths, spec, spec_lengths, y, y_lengths) \
                 = (x.cuda(), x_lengths.cuda(), spec.cuda(), spec_lengths.cuda(), y.cuda(), y_lengths.cuda())
@@ -547,12 +556,17 @@ if __name__ == '__main__':
             scaler.step(optim_g)
             scaler.update()
 
-            if batch_idx % 100 == 0:
-                net_g.eval()
-                print("epoch: {}, batch: {}, loss_disc: {}, loss_gen: {}, loss_mel: {}, loss_dur: {}, loss_kl: {}, loss_fm: {}".format(
-                    epoch, batch_idx, loss_disc, loss_gen, loss_mel, loss_dur, loss_kl, loss_fm
-                ))
-                # save model
-                save_checkpoint(net_g, optim_g, 2e-4, epoch, os.path.join('checkpoints', "net_g.pt"))
-                save_checkpoint(net_d, optim_d, 2e-4, epoch, os.path.join('checkpoints', "net_d.pt"))
-                net_g.train()
+            scheduler_d.step()
+            scheduler_g.step()
+
+            if batch_idx % 25 == 0:
+                print(f"lr: {scheduler_g.get_last_lr()}")
+
+        net_g.eval()
+        print("epoch: {}, batch: {}, loss_disc: {}, loss_gen: {}, loss_mel: {}, loss_dur: {}, loss_kl: {}, loss_fm: {}".format(
+            epoch, batch_idx, loss_disc, loss_gen, loss_mel, loss_dur, loss_kl, loss_fm
+        ))
+        # save model
+        save_checkpoint(net_g, optim_g, 2e-4, epoch, os.path.join('checkpoints', "net_g.pt"))
+        save_checkpoint(net_d, optim_d, 2e-4, epoch, os.path.join('checkpoints', "net_d.pt"))
+        net_g.train()
